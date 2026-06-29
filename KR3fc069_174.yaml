@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/174
+seq: 174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:525010fa02a68657eceaa9b2b158971a744fa4f30cace15620f53d6f3adecf07

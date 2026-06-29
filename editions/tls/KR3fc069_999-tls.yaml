@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/999
+seq: 999
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1b1cf72f98ca3ea0a5cc9d28e9e6a795fc4daa43d1ec9fe8f1f1eb36d464d1bb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/471
+seq: 471
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者其本率數均為一若分母耦而不用小分則其本二率數常為二三率數常為四故遞求四六八各耦率常得八與三十二與一百二十八等數遞求五七九各奇率常得十六與六十四與二百五十六等數求用率之本率寄分以本三率寄分乘數加一為寄分乘差置本二率寄分乘數以寄分乘差遞加之的各耦率寄分乘數置本三率寄分乘數以寄分乘差遞加之得各奇率寄分乘數定率者易借率為本率也前求第一二形腰率皆
+  hash: sha256:d1647e76a5cd04c1e31a6c9d1a530b7d0461233a423b351a7d132ac3878149c8
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f56443087195ed2dbb8cc86013434de249ddbbc79567de75a4d815ac4dfa4b39

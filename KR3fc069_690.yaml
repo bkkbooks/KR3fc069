@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/690
+seq: 690
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率因以一率三率為逐數比例蓋遞閒一率也而立方則閒二率三乘方則閒三率每多一乘則多閒一率約計其數無論一率四率相比一率五率相比要皆與本乘之積比積等故概用借積或本積除其減積為遞次乘法以遞加論平方廉率二乘法起干第三數之一與三由是以三五七九等奇數乘得各數除法起於第二數之二由是以四六八十等偶數除得各數蓋遞加以二也而立方則遞加三三乘方則遞加四推之諸乘廉雖多種而本乘數加一實為諸廉總率故概取廉率二因三因為除法後加減其一
+  hash: sha256:50dcc23518670386c440a851d1c8580728808cc9f0c95b46c91a79ac880e6b4f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:40d4f75dabcdb1e62446d44aaaf7629c0cadc8212b17280a48adb160f6f5d3d0

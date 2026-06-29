@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/981
+seq: 981
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 準是推之求通弦和皆以倍弧分加一起差數是析象限為千分萬分必於二千一數二萬一數起第一差而其差亦愈後而愈微矣然猶有差數之可言也若不用通弦和而徑用平圓弧線為第一數則旣無分數之可言卽亦無所為差數而所得之本數卽橢圓弧線矣此又橢圓求周之術所由立也原術用借用積開平方法專從外切平圓立義茲兼明借大積及借小積開方法率數而外切平圓亦與內容平圓兩義並舉者緣求橢圓周可用大徑平圓
+  hash: sha256:533ad4f1cc2e66a3501181fd96377914156e38d89e6d02d2f7fb83c085439d74
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:dffcefcf676bddb19bb6d3664232ec3102a0c3439857eb6c8dd08c6fa4ed5f03

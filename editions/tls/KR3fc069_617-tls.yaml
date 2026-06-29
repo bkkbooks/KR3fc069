@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/617
+seq: 617
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以通弦為第一數論曰析分術第一數本宜置通弦以分母除之但所求乃通弧得諸數後尚需乘以分母今先於第一數不除以代其乘明諸數皆為分母乘過數併之即通弧矣故即以通弦為第一數次以半徑為連比例第一率通弦為第二率二率自乘一率除之得第三率論曰本宜分母除通弦為二率以求三率今不除是二率為分母乘過數求得三率必為分母自乘乘過數
+  hash: sha256:302df8668c95b0e42e08164904a9b38c9b8aa1e5c06dd858aa54fb8cb5ebeb37
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1bce888ee9f8a2b46070c778639aa2161637c9747d3148b7e89697f7abc67714

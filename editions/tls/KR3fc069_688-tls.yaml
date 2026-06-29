@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/688
+seq: 688
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數負次置第四數乘法乘之三因廉率加一乘之四因廉率除之為第五數正如是挨次乘除得數至單位下止併正數與併負數相減得木乘方根是術與前第二術同法惟前術第二數下階正是術第二數下奇數正偶數負總論曰遞乘遞除術以開方平方向嘗為八線互求之用戴君顎士對數簡法亦用之而未能推及諸乘方者以乘多則比例難尋廉式又繁而不可御也由今思之遞乘遞除其數生於比例而成於遞加以比例論平方以借根為一率減積之根為二率求得三
+  hash: sha256:95cbc8698af4f3ab1cc55b2a50b9ad984bfb9ecc53b93426ce3c3412f46dda3e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:38cac895090f8a240a2ad96bbaea81d3b4d2a05fda574b8995f70e498a9ba99a

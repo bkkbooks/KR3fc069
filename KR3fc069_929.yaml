@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/929
+seq: 929
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子為第二層二分弧定分子為第三層兩相比較其第二第三第四數兩定分子相同無加減差第五數二分弧分子三十四本數分子三十五應減一是二分弧第一差起第五數也而應減數與本數分子之比例若一與三十五第六數定分子五十八本數分子六十三應減五而應減數與本數分子之比例若五與六十三因檢遞加數第五行其倍首位一得二與五位七十之比例亦若一與三十五倍次位五得十與六位一百二十六之比例亦若
+  hash: sha256:1435de4058bdc143a5f38467cd60181fb6ec21d31c951669579165aca6c32f62
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:38b94f48f347085c686072eb89f61625360e457374191cfdd314ca1e3ea61c28

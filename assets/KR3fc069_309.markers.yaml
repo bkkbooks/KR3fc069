@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR3fc069/bkk/v1/markers/309
+seq: 309
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc069_tls_001-p75.s12}
+  - {type: line-break, offset: 0, content: '', id: KX_12_dup63, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3fc069_tls_001-p75.s13}
+  - {type: line-break, offset: 6, content: '', id: KX_13_dup65, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 12, content: '', id: KR3fc069_tls_001-p75.s14}
+  - {type: line-break, offset: 12, content: '', id: KX_14_dup64, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 18, content: '', id: KR3fc069_tls_001-p75.s15}
+  - {type: line-break, offset: 18, content: '', id: KX_15_dup63, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fc069_tls_001-p75.s16}
+  - {type: line-break, offset: 24, content: '', id: KX_16_dup61, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3fc069_tls_001-p75.s17}
+  - {type: line-break, offset: 30, content: '', id: KX_17_dup62, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 36, content: '', id: KR3fc069_tls_001-p75.s18}
+  - {type: line-break, offset: 36, content: '', id: KX_18_dup61, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR3fc069_tls_001-p75.s19}
+  - {type: line-break, offset: 42, content: '', id: KX_19_dup63, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR3fc069_tls_001-p75.s20}
+  - {type: line-break, offset: 48, content: '', id: KX_20_dup62, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 54, content: '', id: KR3fc069_tls_001-p75.s21}
+  - {type: line-break, offset: 54, content: '', id: KX_21_dup60, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 57, original: 迺, replacement: 乃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0004}}
+  back: []
+hash: sha256:949e06d7de8843f3a1faab268cdce050a1731aa68dc4259aafb476aca3fb5807

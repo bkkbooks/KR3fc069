@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/951
+seq: 951
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分子如是遞求得三分弧逐數定分子如圖列本數定分母為首層本數定分子為次層三分弧定分子為三層兩相比較其第六數以上定分子均與本數同無加減差依前一分弧二分弧遞推之例第一差應起倍弧分加一之第七數而遞加數亦當用第
+  hash: sha256:548961cb86c33ab5bb8d9e788f59e8ec6c90f11a9d231e664492285ed984975f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:480c277fb8420e8e695d6a3c4a40bf2d09628cd2e9b9f5831e979000cc88109c

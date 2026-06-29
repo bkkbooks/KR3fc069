@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/559
+seq: 559
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為第三乘法分母自乘四十九乘之與分子自乘相減為第四乘法凡分母自乘內減分子自乘者為正乘法分子自乘內減分母自乘者為負乘法相減適盡者下更無數不須求故亦無乘法乃置半徑以分子乘之分母除之二除之為第一數次置第一數以第一乘法乘之分母自乘除之四除之二除之三除之為第二數次置第二數以第二乘法乘之分母自乘除之四除之四除之五除之為第三數次置第三數以第三乘法乘之分母自乘除之四除之六除之七除之為第四數第一數為正第二數下為正乘法
+  hash: sha256:cddfd336edbe0e17ee1fc7aaaa56548b947159ba13cd765561adee8695212d74
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:54e6f1dc3f9939070cb1293b1d1d2f25334b57384d141fc5811de45a54036b9e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/465
+seq: 465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 等以期者則同位自然同母若其等未齊須通分相併其法以分母乘數罪多為準其無寄分者以最多乘數乘之其有寄分而較最多乘數差幾乘者則以所差乘數增乘之然後相併仍寄最多乘數為母凡率數相乘三率乘三率即一率乘五率在面積為三率三率乘五率即一率乘七率在面積為四率三率乘七率五率乘五率即一率乘九率在面積為五率三率乘九率五率乘七率即一率乘十一率在面積為六率乘得數後前如按位遞併分置各位其一率乘五率者命為
+  hash: sha256:1b0106803d6e85a9e885afda1bdf6b77eba76c16b4d7be6e5c85385ecd398725
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:35bb6c46208679fc014da9893cbb10b87f04ad341a7f5b25f294b64853a795a0

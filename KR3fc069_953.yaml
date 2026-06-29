@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/953
+seq: 953
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七行除法亦起第七位今第七數本數分子應減五方合定分子而應減數與本數分子之比例若五與二百三十一正與第七行倍首位一得二與七位九百二十四之比例相合乃以第七行自倍首位起取第七數以下本數分子接位挨次乘之又自七位起
+  hash: sha256:9c01942c139d5cb373d6894738419e7316f474f52eb1025e4168d57e212acf97
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:79dcd76e6611c6d0443229c7959334eccb64ee1a89bae5b1498d0bcd9965eda3

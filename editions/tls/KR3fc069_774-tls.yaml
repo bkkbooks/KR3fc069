@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/774
+seq: 774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九率五乘之四除之八除之為第五數次置第五數各以三率乘之一率除之得十一率七乘之四除之十除之為第六數依次遞乘遞除得數漸小至單位下止第一數正第二數起下皆負正負相減即得自半分起遞日全分之橢圓各抵周線按此術與求逐分橢弦術同惟第一數不用平面一分通弦而用半徑以是知橢圓自小徑端半分起遞加全分之各抵周線比其自大徑端起之逐分橢弦若半徑與平圓一分通弦也總諭曰以上四術求橢圓周為本術後三術為求橢
+  hash: sha256:c965a16f9540d48a30aff3f829b4fab66b136e6503c94fa19dd8d3d5c44c284e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:016df5ebc4f128ab06733a8ccc9cb9f311f42ff08356f37e90a416c2e7e5e88f

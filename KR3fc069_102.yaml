@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/102
+seq: 102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之為併三乘積求併五乘積宜取七數併左右位兩數為實中位一數乘之隔一位兩數相乘隔三位兩數相乘遞乘之二三四五六遞除之而左右數併仍與倍根等中數及隔一位兩數遞乘倍根二三四遞除與求併三乘積同既得併三乘積可對去不用隔三位兩數又即根加二減二之數故以根加二減二相乘以乘併三乘積五除之六除之為併五乘積以此遞推無論左右隔幾位兩數併而折半皆與根等是根為半和其半較則以一二三四等數遞加而多半和半較相加減即得各兩數故相乘以乘前積
+  hash: sha256:78b44fb15fba62ee3009835a17eff606103d860047d00c577d48a0eff9cd8671
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:df07becde4106780e5a85ed4c0ee18928369d3b4a23d1d7ff70247b28d570a39

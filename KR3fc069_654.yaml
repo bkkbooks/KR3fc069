@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/654
+seq: 654
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦知求八線術正弦求正切法以正弦為第一數次以半徑為一率正弦為二率二率自乘一率除之得三率置第一數以三率乘之一率除之得四率二除之為第二數次置第二數以三率乘之一率除之的六率三乘之四除之為第三數次置第三數以三率乘之一率除之得八率五乘之六除之為第四數次置第四數以三率乘之一率除之得十率七率之八除之為第五數如是遞乘遞除求至單位不止併諸數即正切
+  hash: sha256:f50fb33e12acb431c18cb81201b771e732b1c28cf92adc2939c0a20891f13a56
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:16875c736627dcd11d52131959b8a7d57990cf830bedb5e1fec7d33c7055ef71

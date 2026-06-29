@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/307
+seq: 307
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母既為三則除去三六九十二等數凡一二四五七八等數皆可為分子今以三之二三之一起度矢之分子可得其全而弦之分子祇一五七等奇分其耦分必析分母為六以六之五六之一起度方得三之二三之四等耦分弦率可知求奇分弦用原分求耦分弦用倍分不獨整分然零分亦然也
+  hash: sha256:f59c51aa8570069ccdeef452d50eafbc86667c161e445f49875cd13c8d8aaf2c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a3ff93f80da9305a5ee41e9b03d2a95ddc77eb21c6d43bc83745cb2b54ce950b

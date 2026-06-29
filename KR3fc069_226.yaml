@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢塘項名達著零分起度弦矢率論數有零乃不窮於用前因整分遞加推及半分而弦率始備於是倍分諸率皆確然有數可稽矣顧於弦分得整於矢分則得零是補整分之缺者此半分而開零分之先者亦此半分也半分為二之一二為分母既得其一分矢率即任設一數為分母亦可得其一分矢率矢率然弦率何不然於是析分諸率又確然有數可稽矣且一分率特起度之分子耳分子起
+  hash: sha256:ead706b122b9bb445c99a0115e6f6171b020e8cad20ddf66af33d3f22a3b8df5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:20cb028cc06de467ede72d3e497e9f1f824ec95c206152f5881c53700787f3e1

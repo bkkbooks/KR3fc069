@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/346
+seq: 346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 起根者仍以四爲分母然分母雖四而四乃二自乘之數除法遇二亦恒除實不盡宜寄其除則二乃四之小分故腰率寄分母自乘者遞加數寄分母腰率寄三乘遞加數寄自乘腰率寄五乘遞加數寄再乘至腰率寄再乘或四乘遞加數則寄分母及自乘而又各寄一小分彼此仍兩兩相應求根積法以首根三與一遞加減分母四得諸根用爲剩法二三四五等爲除法先求得第一二行積次則順加逆減得逐行積齊寄分別正負均如前法惟分母四內含二之小分小分亦除實不盡故各增寄一小分
+  hash: sha256:facc22368d46f0afb94d0d21f9259ee820be39e9ee0fbfd246b837895a68cf74
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:71763dfd965a63f21e29b21668a258bd7f180213385117945d8ad70322d0614b

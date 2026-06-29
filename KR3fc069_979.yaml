@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/979
+seq: 979
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分弧二分弧三分弧一例夫自一分至四分而求加減差之例一一相同則求至千百分當亦莫不相同而可無疑矣此求通弦和用加減差之法所由立也定正負加減之名則本數為正者第一差用減為負數名減差第二差用加為正數名加差以下常一負一正相閒本數為負者第一差以減為加反為正數名加差第二差以加為減反為負數名減差以下常一正一負相間總之不論本數正負第一差常與本數異名第二差常與本數同名以下各差皆與本數一異名一同名相次而列
+  hash: sha256:4af79fa817c292059b592580ae52f804408bd0e3efa0cebafb5c4c50a15c1125
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1d567f018ff3b5660e5e8ad4e32f9b7e968d200c5c71644f75fc26c666f25547

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/605
+seq: 605
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論曰遞次求數矢術本無四除今有此除者以所用三率乃四倍分子自乘乘三率數三率為本數乘法分子自乘為用數乘法是兼有兩種乘法而又多四倍宜除去之也餘與甬弦術同弧背求正弦論曰通弦折半為正弦是正弦乃半通弦也應以通弧為本弧而弧背得其半今以弧背求正弦是析弧背至極多分使一分通弦與弧合極多之總分乘之即弧背因以一分弧通弦求總分之倍弧半通弦一分為分母總分之倍為分子亦倍分求
+  hash: sha256:a991701b21fc35a5df7712b526e4dc1f3f6a51924f4a79febf6e7fd305d54a35
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:70743bbf6994e7f645abddbe02a126f3ff58c4f2727c6cd1070f7472c192dd5a

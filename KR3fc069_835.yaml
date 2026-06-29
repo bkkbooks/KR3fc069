@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/835
+seq: 835
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 半弧度凡界角對弧為本角倍度今心子坤角與乙心子角在兩平行線內其角必等而乙心子角對乙子半分弧則子角亦必得牛分弧度子心坤角對子丙弧亦為二分半弧度是甲酉巳形與心坤子形角度相同必同式也己庚亥界角對己兌三分弧亥己庚界角對庚申三分弧則庚角巳角皆得分半弧度心丑坎角與乙心丑角等得分半弧度丑心坎角亦得分半弧度是嚫亥庚形與心坎丑形同式也至庚乾乙形與甲酉巳形一橫一豎本屬相同心寅離形與心坤子形亦屬相等是庚乾乙形與心寅離形又同式也而酉
+  hash: sha256:83dbeef56f56dfbd6a9a87c2a21a9eccb02f6eff2b9df3c7272c8385841423d2
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9c5ace75d8c42fd900d1eb6e3af4c8ed72b19423602c5aaf9f3edaffffcc04b1

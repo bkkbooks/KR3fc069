@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/641
+seq: 641
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六乘與三乘等故三乘徑為第一數次置第一數四除之又二除之三除之為第二數次置第二數九乘之四除之又四除之五除之為第三數次置第三數二十五乘之四除之又六除之七除之為第四數次置第四數四十九乘之四除之又八除之九除之為第五數次置第五數八十一乘之四除之又十除之十一除之為第六數論曰通弦既即半徑則諸率齊同連比例本數之乘除遞次可以省去即用數乘法中分母自乘亦隨省去故僅以增乘之一九二十五等為乘法而
+  hash: sha256:85624d42d365b20915495030fe329c1e18651ef58aa18950940e373d450f9f1d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:823093485d6836aabc26c4667d82e51beb97c74b96f1ffeaec040b0c4b7026dd

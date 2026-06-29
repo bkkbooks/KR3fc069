@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/216
+seq: 216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小加減數大則兩數異名乘得負乘法若求通弦則弧分小減數大為正乘法弧分大減數小為負乘法與併積相反視乘法正負與所乘根積同名者得積為正異名者得積為負併積亦有根偶行併積之根在根層兩數閒而適當奇行故與求奇行直下積乘法相同除法差一數所得積亦差一乘又遞加求積法根與加減數皆為正惟取根左數應加取根右數應減故減數小仍為正減數大易為負求腰底弦矢率加減數亦為正惟加則根為正減則根為負故減數小仍為負減數大易為正由是而兩者之乘法正負相
+  hash: sha256:877f964cc4c2ec04ddd6ff66d7e9a1fb7d37b0e2e7dea8359dd4bfc20d3e062b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4ae9d42315bf09f0135a9767aa7d66a26ff1bfa9216a7cdd205ff94c96604c80

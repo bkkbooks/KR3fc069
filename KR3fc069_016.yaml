@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 序向玩弦矢諸率會得遞加數復析圓得兩等邊三角其象適與數會因草成圖解一冊聊自達意而疏脫甚多丙午冬謝去紫陽講席筆墨就間漸編定整分半分起度兩種弦矢率而梁楚香中丞復以紫陽大小課藝囑選辭不獲遂又見阻楊緗藝農部在京見舊刻割園捷術序中言及圖解亟思一見丁未冬來杭見訪因示以所煸緗藝謂書未半而君年垂邁是書斷不可不成且不可緩成尅期以一載臨別尚謞切致囑余感其意為之定書名曰象數一原卷一曰
+  hash: sha256:3a973e8d5da65ac1affa1ee28c76bc7243fc08c3600ea9ebc2d1cb031bc3c40d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:34727861eb2f657789d268824a90ad5858440d27c22ebd26e1baf785c26c6f32

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/715
+seq: 715
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若姑洗與賓凡相距二位者皆成比例位苟同即比例無不同推之相距十二位則黃鐘倍律比正律亦必若正律與半律比例既通自無往而不返之患若古律相距一位二位以至多位有成比例者亦有不成比例者既不相比即不相生強生焉其數巳差正不待至仲呂而始極即以隔八相生論之曰隔八實祗相距七位古法下生者三與二之比上生者三與四之比成法下生者三與二二二六之比上生者三與四四五二之比兩者相校所差奇零數原屬無多故古律用以諧音大致亦合然既少此
+  hash: sha256:4bf8ab574c2a0d2784dc4fcec0153f8a6cd6bfd7b43a85413c57b568514ad4de
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c10a5445b0899dd009e797549a0e78cec4eaba5e996b4a0a2f57b2f225dff53e

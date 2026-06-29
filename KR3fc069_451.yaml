@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/451
+seq: 451
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三率之三率必為小分三乘數三率既除為一復以小分再乘除其五率仍寄小分於右以小分自乘除其七率仍寄小分自乘於右以小分除其九率仍寄小分再乘於右十一率仍其原數寄小分三乘於有十三率轉以小分乘之寄小分四乘於右下仿此若小分為分母再乘數則借三率之三率必為分母五乘數亦如上逐率減一乘除之寄分則逐率增一乘餅可類推若通弦分母用借二率數者則借三率之三率為分母自乘三率既除為一復以分母除其五率仍寄分母於右七率仍
+  hash: sha256:628a0318b26624100df36934adce0bf14763a3d55d6ce4cb67ba1ae19b15cd01
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:65a2c85b1ab37536e47fc1c6c41017d77e443043c4e125c5cbd4d8c02030fa22

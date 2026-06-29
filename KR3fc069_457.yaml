@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/457
+seq: 457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每率增四乘乘之分母亦增四乘凡此其等已齊求用率時亦不須通分也凡相當之本二率及乘法之本三率視弧分奇而通弦二率同弧分者本二率亦用弧分為分母而率數常為一本三率用弧分自乘為分母而率數亦為一弧分耦則通弦之二率常為半分弧倍矢之三率常為半弧分自乘其本二率當以二乘之寄弧分為分母本三率以四乘之寄弧分自乘為分母故本二率數常為二而三率數常為四若弧分奇而通弦分母而小分視用為分母之二率係
+  hash: sha256:acab5767cd7c7da4d8634c5eb18213db2c1ee573b7223de02948b0d8d1ac5f54
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:28e39067b4d71d8006d66c937ae9111adab732f91df3a0c783a582c76dea8f55

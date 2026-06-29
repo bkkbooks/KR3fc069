@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/479
+seq: 479
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 須通分也借率與求得率互有正負須認明借率與借率係相併借率與求得率係相減而求得率為本數其正負加減術凡相併同名則相併異名則相減而名從多數凡相減異名則相併而名從本數同名則相減本數多名從本數本數少名異本數凡以求得率或求得率減餘乘用率之本率其有寄分者即於本率分母增寄其分求得率與本率其所寄分母故已齊同也凡衍遞加數以本位向上斜左線所聯根層之左
+  hash: sha256:8a01bcca56e9acc6380999fe68760100fc66e1b9c8e83626ce4c808ab75ab223
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e8761a0a7cf7f20f46ad83b6e720fa4dc00acfc0da4858550bfd10cee88b043a

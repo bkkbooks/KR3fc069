@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/198
+seq: 198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求四分半倍矢
+  hash: sha256:01a94f09a0a849a63dd2aabfc4166d06b985ea9b5d3522ecd351fdcb1878943f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:fcfecbeeca9eea9bf5310b097df7401b8132fe2065715397de55765cbae97365

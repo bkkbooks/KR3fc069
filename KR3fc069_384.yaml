@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/384
+seq: 384
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 底諸率詳列於後求五分之四起度各形腰底率
+  hash: sha256:954c6fecf84e6c968b5e0eb47c20d35aaea4395e9c76172f2f98d8d999d69662
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:136adc39ad8b42add980456a5b9598bd9c00e4ae5fcfb327f6cf0cf2ee88be06

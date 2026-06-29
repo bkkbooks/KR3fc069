@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/321
+seq: 321
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寄六乘得數三率乘法三率得三率九負分寄五乘迺齊其分轉以分母二乘之得三率十八負分寄六乘各書左併得二十三減右實無對易為正法一率除之得數為五率二十三正分寄六乘依是遞乘凡得數一率乘法率較之餘率乘法率寄分恒多一乘故餘率宜增一分母乘併減右實法一率遞除除至十五率止得第一形腰心界乘丁土則實在兩率之間作圖不便故心丁心界皆降低一率得數
+  hash: sha256:107b748d8581505c2c87f8c09e7bf2d7dca6d02d1569ce13b24db66f3f9c10f9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:58402bb9f79a9429c16af50a20e2145990316e76024f11bccce84b98c43e041d

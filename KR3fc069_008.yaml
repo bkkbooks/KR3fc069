@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何以有奇分無偶分且弦矢線聯於圓中於三角堆何與蓄是疑有年殅酉歸自苕南舟中偶念此恍然曰三角堆數起於一遞加一得堆根遞加根得平積遞加平積得立積蓋遞加數也弦矢率由圓中兩等邊三角挨次比例而生亦起於半徑之一半徑即一率遞加一率得二率遞加二率得三率遞加三率得四率亦遞加數也數有整必有零起整分者曰整數遞加祗一式即三角堆相連兩根積相并與倍分矢率倍分中奇分弦率等數起零分者曰零數遞加有無量式不可以三角堆名依式推衍倍分中偶分弦
+  hash: sha256:0a28f1d17f926e88da28791a4c0e5aac2a922b3f18023bca35c3189536650bd3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:30c4c7334663115c8d5cba33866341d64e850ae0199f8e1f2dba689f7484b51e

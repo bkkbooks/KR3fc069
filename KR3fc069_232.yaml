@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/232
+seq: 232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖火土為本弧平分為火金金界界土三分自其中一分金界作通弦引出圜外相遇於甲於子成心甲子三角與本弧通
+  hash: sha256:17f7b3ef9f1acb92cb2c0291ee4ab5675a26973563567f9d537e9b94bf7be7e7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4441e1bdcfeb363a0c3ee5bb6990f5413f281cd12fd5e9b802508669cb7f0099

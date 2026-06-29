@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第九十一形腰較相加得火震之倍五分倍矢十一三形腰較相加得木巽之倍六分倍矢十三五形腰較相加得金離之倍七分倍矢十五七形腰較相加得土坤之倍八分倍矢煦案是書原本係先生算草未經點定者故算式尚循俗閒所用今悉改從元人細草一豎十橫之例按此弦矢諸率雖多寡錯出要之一遞加數耳弦率由界角形兩腰相加而得矢率由心角形兩腰較相加而得腰底率雖備用乘除加減而乘除祗降一率
+  hash: sha256:ff59094c7fefb3d723407830e25dcae28077ea2e8d3f2c35394853215df98020
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4dd31c5990aedb2b5fae3f29a807818cf4b502b158f2c1057f0dbfd020d5da94

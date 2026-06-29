@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/133
+seq: 133
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘首位平積以減首位立積餘一減數大易正爲負爲首位外立積復二乘首位外平積以減之餘一減數大易負爲正爲次位外立積復二乘次位外平積以減之餘五減數大易正爲負爲三位外立積如是逆減而右得逐位外立積三乘積以下準此遞求大約求各首積每增一乘除卽得增一乘之積而分毋亦增寄一乘遇二四六八十等數爲除法皆不受除宜按數更增其寄分遇六則三除之寄其二除遇十則五除之寄其二除遇十二則三除之寄其四除每奇乘積下位較上位分母增寄四乘偶乘積亦然至
+  hash: sha256:980974c245444c36f34a8ff11e8567360df93a6dc767fe42c6b7a1bcb7658b3b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:fc0f2149cda8d2b4c5dcf181bc04ebd1cc976ac23d00b04842a7b867d10160ba

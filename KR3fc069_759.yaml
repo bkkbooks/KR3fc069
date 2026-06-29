@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/759
+seq: 759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 補求加減差表
+  hash: sha256:92d287a98cd5eed5004e9001fe06976cdcc633e9d185e3810f8b47ad5480fffa
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5d23d00a3499ae36788258a3b1557cd0cfdf2d279dd1a319e2a4e56ed29a6cad

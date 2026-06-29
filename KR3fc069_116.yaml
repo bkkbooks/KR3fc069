@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數而半之得零分三折半為一分半五折半為二分半即零根在弧為零分併兩零根其分偶一分半二分半併得四二分半三分半併得六皆偶數而半之得整分四折半為二六折半為三皆整根在弧為整分弦分得併根之全矢分得併根之半故整偶率併為弦其弧分與併整根等而得一三五等奇分則零偶率併亦為弦其孤分與併零根等必得二四六等偶分矣整奇率併為矢其弧分與併零根之半等而得一二三等整分則零奇率併亦為矢其孤分與併整根之半等必得一分半二分半等零分矣設取整而遺零不惟弦分不全并不識矢之有零分抑知一整一零一奇一偶或合整
+  hash: sha256:c5a11b417c79d201a5ae5a93e319be0eb6bb1f18ca3be4b1df06e7586ec226ff
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:49986e5f056cdd4ecfe887afd74359ea5661f2ee12f6d5bfe64a2a55c936b976

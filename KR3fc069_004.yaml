@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 序方圓率古不相通也徑求周以勾股衍算不易割圓弧矢率又甚疏西人八線妙矣求八線必資六宗三要二簡法非可徑求所以然者方有盡園無窮勢難強合也自杜氏術出而方圓之率始通其術用連比例一率半徑二率通弦三率倍矢由是遞求諸率有徑即得周有弦矢即得弧有孤亦即得弦矢其算捷其數亦最真顧是術也梅氏赤水遺珍載焉而未釋明靜庵先生捷法解釋焉而灾抉其原當自為一書非正釋也自董氏術出而方圓率相通之理始顯術
+  hash: sha256:b7318832f9ec14d3c1d74efa9b2522582ebda237eca5072eecf73d02b300297f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:cc042585f6a2ef84aac599111e344b3bf5789b0c2bdea8272820870c06f0218c

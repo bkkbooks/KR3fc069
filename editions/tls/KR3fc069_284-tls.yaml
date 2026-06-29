@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/284
+seq: 284
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此腰底各率與三分之二三分之一起根遞加數相合前推半分起根遞加數先求首根首積後乃順加逆減得正負各根積零分亦可一例推衍惟首根首積在斜行線上腰底則聯於直行求斜行不如求直行
+  hash: sha256:58812bcf62658e0d11018bb614aef41c33cc7b89c3d7e0e61d654f6b153acc8e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2497cc331111dbcf3fdc61df4215fd9e0f1b0ccd855da9aba240e8046d3865fe

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/841
+seq: 841
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子壬遂成癸率卯乙與壬辰寅癸與甲子丑壬三同勾之兩勾股形又自庚作橫線至申自辛作橫線至酉亦分戊丁象限為三分從戊坎半分戊艮一分半戊坤二分半各作小半徑於徑端作餘弦復引長直截橢圓界各作抵周線亦成戍坎離心與亥艮巽心與乾坤震心三同勾之兩勾股形此三小半徑所成句股形與三平圓通弦所成勾股形同式義與前圖同而
+  hash: sha256:e3aa20c5de491fa78fe5ffbb495a3914b779cb53b521d2c381a090d08c0187b9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:25d1d4a7008caf0821fe31518b30f3f153f3ad3cccdea151dbcd9259117e2160

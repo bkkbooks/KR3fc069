@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 對皆屬減數故易其正負相加得酉乾之倍三率四正五率一負為二分倍矢以次遞求逐分約法曰以界角相連兩形之腰遞相加得逐分通弦以心角相連兩形之腰較遞相加得逐分倍矢求腰較取前所得各心角形腰率減去一率餘率易其正負如法列式於左逐分通弦率第二形腰界甲一分通弦第二四形腰相加得界坎三分通弦第四六形腰相加得界震五分通弦第六八形腰相加得界離七分通弦
+  hash: sha256:6e348700b5ec30861ed8b99e9049089c95cac2f0eea2cb189ccbe65d6e03a1c0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c76841f92995d891fcb5003a23a1c99fab1899a1978bd27666d968e39f9aa77e

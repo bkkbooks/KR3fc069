@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/177
+seq: 177
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求八分通弦
+  hash: sha256:119d8090e03c48cc2d6f5a7a6175769fd31740fc4f93aa63749854cc9222e718
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1894693704470e08e7a1acbf38a65088677ca010b5b1cc9065166a8b47f1f26a

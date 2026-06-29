@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/601
+seq: 601
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通弦與弧合極多之總分乘之即通弧因以一分弧通弦求總分之半弧矢一分為分母總分之半為分子以半徑為連比例第一率通弧為第二率二率自乘一率除之得第三率論曰如倍分術宜取一分通弦為二率今以通弧代之是二率為總分乘過數亦即為倍分子乘過數求得三率必為四倍分子自乘乘過數四除之又二除之為第一數寄左論曰如倍分術宜以分子自乘乘倍矢為第一數
+  hash: sha256:324496b0592982bf9886f0610334b559ef3b4f93f02d9e875bbfba0476f51444
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:20a3e3417635a9a6e4e6c8bcee5bf3d2151ff0fdce476878f1ff8bd3bfcdf48a

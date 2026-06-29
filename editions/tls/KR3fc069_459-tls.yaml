@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/459
+seq: 459
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小分幾乘即為本二率分母弧分耦而通弦用二為小分者視弧分為小分幾乘減一乘為本二率分母均以本二率乘數倍之加一為本三率分母而率數亦皆為一用率者以借弧各率求相當之本弧各率為易率之用也前求相當率及乘法僅有借弧二三率與本弧二三率相當之數而奇率不止三如五七九等率皆奇率也易第一形腰率用之耦率不止二如四六八等率皆耦率也易第二形腰率用之求奇率者以相當之本三率借三率兩兩對列然後
+  hash: sha256:6831534de7752e813628056e0460313e68d53d91dc7b6117ceee0c4e987510b5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ed1ca29ef3ad8877b1c20abda36cfe06195550eca6af14027df33af9a419330e

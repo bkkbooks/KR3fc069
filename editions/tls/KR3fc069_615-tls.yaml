@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/615
+seq: 615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九率七除之八除之為第四數應減寄右第一數第三數相并第二數第四數相并左右相減所餘即正矢論曰遞次求數無四除迺求矢本法以正矢之本弧即弧背也餘與通弧求矢術同通弧求通弧論曰通弧即通弦之本弧以通弦求通弧是析通弧至極多分使一分通弦與弧合則通弧為極多之總分取其通弦以求一分弧通弦總分乘之得通弧一分為分子總分為分母乃析分求弦術也
+  hash: sha256:8a330a08d114a46e75e48c4be4983dd537f4dc51ef18b8d33e5883e0ff3173f9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:978c478294902033263bfdd4df7dad5d5b9339908eaae824db7c343d88cbf5c5

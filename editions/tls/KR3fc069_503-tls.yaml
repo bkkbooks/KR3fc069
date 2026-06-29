@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/503
+seq: 503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘積分母除之五除之得四乘積如是遞求得各乘積皆正若用負根則以分子遞減分母為諸負根分子其遞次乘法亦用根分子遞減分母減數大根分子小減得正乘法減數小根分子大減得負乘法視乘法正負與根積同名者得積為正異名者得積為負求自根斜右一行積分子遞加分母為諸根分子置根分子以分母除之為根數根分子減分母以乘根分母除之二除之為平積根分子減倍分母以乘平積分母除之三除之為立積根分子減三分母以乘立積分母除之四除之為三乘積根分子減四分母以乘三
+  hash: sha256:a5d78c58328ee06b0172cab4562d816e3da07218b3da2bdb8590934b430db883
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3f442fc1d8198b85ed6586205d248f68e235cd0edda472368dc7cdc1d9ef328c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/539
+seq: 539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以然者因每次求率除法中應有一分母自乘三率既為除過數以乘前率而求後率便可省去分母自乘除也置第一數以三率乘之一率除之得第四率第一乘法乘之四除之又二除之三除之為第二是次置第二數以三率乘之一率除之得第六率第二乘法乘之四除之又四除之五除之為第三數次置第三數三率乘之一率除之得第八率第三乘法乘之四除之又六除之七除之為第四數依是遞次乘除得各數漸小至單位止
+  hash: sha256:e5ad635772cc12b5c212c01fbd467d0e78ac0e2b36cbaf46b06109cfe36d3b48
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7ec5d9b11d7555734617ba9ce1832dff25c886fd0041a20352a207ad401d1516

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/609
+seq: 609
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次置第一數以三率乘之一率除之得第四率二除之三除之為第二數應減寄右次置第二數以三率乘之一率除之得第六率四除之五除之為第三數應加寄左次置第三數以三率乘之一率除之得第八率六除之七除之為第四數應減寄右第一數第三數相併第二數第四數相并左右相減所餘即正弦論曰遞次求數弦術本有四除今無此除者以所用三率為分子自乘四之一乘過數是兼有兩種乘法而四巳除過不煩再除也餘與通弧求通弦
+  hash: sha256:604347e038d09f819eea745cb59279cd27cd85f35be2f1288b77825f1a2b6734
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:284b8bf309321e289ed6c6a6c94fa0c9426c4e4aae92880914ce49e81dace931

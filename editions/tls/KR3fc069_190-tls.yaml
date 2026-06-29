@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/190
+seq: 190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求半分倍矢
+  hash: sha256:3555c59715a77ffb02167b98ddd57f5f94817fccf81eee1d2108513f7b1dea98
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7dd72dc0ac0f4d232791eae183f9a3e2acfed762bcc60e49cfac2637aaac0ffc

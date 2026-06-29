@@ -1,0 +1,27 @@
+canonical_identifier: bkk:krp/KR3fc069/bkk/v1/markers/459
+seq: 459
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc069_tls_001-p116.s12}
+  - {type: line-break, offset: 0, content: '', id: KX_12_dup94, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fc069_tls_001-p116.s13}
+  - {type: line-break, offset: 19, content: '', id: KX_13_dup96, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 38, content: '', id: KR3fc069_tls_001-p116.s14}
+  - {type: line-break, offset: 38, content: '', id: KX_14_dup95, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg', offset: 57, content: '', id: KR3fc069_tls_001-p116.s15}
+  - {type: line-break, offset: 57, content: '', id: KX_15_dup94, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3fc069_tls_001-p116.s16}
+  - {type: line-break, offset: 64, content: '', id: KX_16_dup91, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: 'tls:seg', offset: 83, content: '', id: KR3fc069_tls_001-p116.s17}
+  - {type: line-break, offset: 83, content: '', id: KX_17_dup93, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: 'tls:seg', offset: 102, content: '', id: KR3fc069_tls_001-p116.s18}
+  - {type: line-break, offset: 102, content: '', id: KX_18_dup90, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 121, content: '', id: KR3fc069_tls_001-p116.s19}
+  - {type: line-break, offset: 121, content: '', id: KX_19_dup93, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 140, content: '', id: KR3fc069_tls_001-p116.s20}
+  - {type: line-break, offset: 140, content: '', id: KX_20_dup92, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR3fc069_tls_001-p116.s21}
+  - {type: line-break, offset: 159, content: '', id: KX_21_dup90, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  back: []
+hash: sha256:69e230fe1a4e8e0ca5c7aee0a0182e2f4ce01a37127ee003ee81aeff4ac53191

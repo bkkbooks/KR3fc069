@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1016
+seq: 1016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之白下者葢是南坪所藏吾年老嗣孫尚穉久留無所用卽以寄贈項氏此書未見刻本能謀剞劂亦不朽盛業也余受書作函謝之不數月閒先生已歸道山矣噫余在金凌時與先生朝夕聚處及水滬上亦數數相見並不知其藏有是書及至垂邁之年始肯啟篋出之則其鄭重也可知余既心儀項戴之學又感先生臨歿授書之意深恐珍惜秘匿或翻至湮沒也適靜涵表弟有高齋刻之舉遂慫恿付諸手民而仁和高白叔孝廉重其為鄉先輩遺著又舉百金以助閱一歲而書甫刊成
+  hash: sha256:0df9c01cb5e12feef7f7b0ba268f7cd776fffac240fc103d0efc6f3d66582006
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:03c3f1a07d1f03f9c5c68930a9be1dab4f9ea3bae8e52ca8bd67d015bd9ee791

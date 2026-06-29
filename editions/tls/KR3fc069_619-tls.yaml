@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/619
+seq: 619
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次置第一數以三率乘之一率除之得第四率四除之又二除之三除之為第二數次置第二數以三率乘之一率除之得第六率九乘之四除之又四除之五除之為第三數次置第三數以三率乘之一率除之得第八率二十五乘之四除之又六除之七除之為第四數次置第四數以三率乘之一率除之得第十率四十九乘之四除之又八除之九除之為第五數論曰析分術乘法宜置分母自乘一乘減一求第二數九乘減一求第三數二十九乘減一求第四
+  hash: sha256:a63f2af5ba815aa9ba8547702fffb06ec3694de1c4b90f7945d5ffcb8ba5a755
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:35a65a6146ac209c46574ae0bb30e4577401c8030c1714773ea42f5de443f6c4

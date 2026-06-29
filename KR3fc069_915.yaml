@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/915
+seq: 915
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是第十一數以下當有第五差也而應減數與第四差之比例若五與九十五因檢遞加數第十九行其首位一與三位一百九十之比例亦若五與九十五試以遞加數十九行首位與三位乘除第十一數第四差為第五差得五以減四差加數得二百五十六與定分子合統而計之第一差起第三數第二差起第五數第三差起第七數第四差起第九數第五差起第十一數夫各差皆起各奇數者乃二因弧分加一四因弧分加一六因弧分加一八因弧分加一十因弧分加一之數釔如是遞以耦數乘弧分加一得
+  hash: sha256:eca197759f8c354be2f2c08be8ffb24d0454629063a9ff83e21d6e069c0ce70c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:51f9eec8b86288bf997b74856c957e65c49b442ff87d53602821e61b12396ae6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/919
+seq: 919
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 差之例秩然不紊特未知與逐分弧悉合否也試更驗之二分弧求二分弧定分子者二分弧用矢一為半徑多四十五度正弦一為半徑少四十五度正弦當先求正弦諸乘方與半徑諸乘方比例之率法以四十五度正弦自乘半徑幂除之得五為平方率正弦三自乘半徑三乘幂除之得二五為三乘率正弦五自乘半徑五乘幂除之得一二五為五乘率正弦七自乘半徑七乘幂除之得六二五四七乘率如是遞求得九乘率三一二五十一乘率一五六二五十三乘
+  hash: sha256:54c9406fbfa66fca90206738990db76f66bc732203825170aca58763ee4c7f69
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2217f903f53b64f1b194175b71ccd62d6bedbfe3ea8cfbb2386c9f4ad3321ff1

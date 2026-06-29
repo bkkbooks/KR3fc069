@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/270
+seq: 270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求得三率亦為一以用三率之本率借率上下對列於定一率左為定三率求得五率亦為一而借三率內之五率反負三之二因通求得率一為三以加之得三之五遂取用五率之本率借率各以分子五乘之分母三除之除則增其寄分上下對列於定三率左為定五率求得七率亦為一而借三率內之七率正九之一借五率內之七率負九之二十相減仍負九之十九通求得率一為九以加之得九之二十八逐取用七率之本率借率各以分子二十八乘之分母九除之上下對列於定五率左為定七率依是覈
+  hash: sha256:5e7bfe943ec7090986df868feddd0e8651a9259f5ca63e8e4c88a9541b9843af
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:0e1ff5db3909d5757ad5a67fe8660908ce14a819ef3fc197c7c93be525dd6e81

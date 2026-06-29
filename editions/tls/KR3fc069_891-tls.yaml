@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/891
+seq: 891
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘幂之三十五是就本數而論則三十五乘一百二十八除可代用矢三乘幂與半徑三乘幂之乘除就前一數加乘加除求本數則前數已含五乘十六除是加七乘人除五與七疊乘又十六與八疊除卽三十五乘一百二十八除可代弧分除半外矢三乘幂之乘半徑三乘幂之除也惟一分弧用矢三乘幂為一百二十八分之八二分弧為一百二十八分之三十四當有加減差由是依法推演則第六數自二分弧以上其弧分除各半外矢四乘幂之和常得二百五十六分半徑四乘幂之六十三就前數求本數則前數已含三十五乘一百
+  hash: sha256:0637f5e5eda59eab94223fda995eb124e6716a816c8819e6a7ed179451563f15
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ed3deefbf12b0cf62248acef569075201280771c9390e9c95a27a1d2e9ba3161

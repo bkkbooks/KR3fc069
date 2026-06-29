@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/markers/92
+seq: 92
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc069_tls_001-p24.s12}
+  - {type: line-break, offset: 0, content: '', id: KX_12_dup21, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: 'tls:seg', offset: 20, content: '', id: KR3fc069_tls_001-p24.s13}
+  - {type: line-break, offset: 20, content: '', id: KX_13_dup22, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: 'tls:seg', offset: 40, content: '', id: KR3fc069_tls_001-p24.s14.1}
+  - {type: line-break, offset: 40, content: '', id: KX_14_dup22, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: 'tls:seg-start', offset: 45, content: '', id: KR3fc069_tls_001-p24.s14.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p24.s14.2]}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3fc069_tls_001-p24.s14.2}
+  - {type: line-break, offset: 60, content: '', id: KR3fc069_tls_092-bkklb1}
+  - {type: 'tls:seg-end', offset: 75, content: '', id: KR3fc069_tls_001-p24.s14.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3fc069_tls_001-p24.s14.3}
+  - {type: 'tls:seg-start', offset: 75, content: '', id: KR3fc069_tls_001-p24.s15.1, seg_type: comm, member_ids: [KR3fc069_tls_001-p24.s15.1]}
+  - {type: 'tls:seg', offset: 75, content: '', id: KR3fc069_tls_001-p24.s15.1}
+  - {type: line-break, offset: 75, content: '', id: KX_15_dup21, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: line-break, offset: 95, content: '', id: KR3fc069_tls_092-bkklb2}
+  - {type: 'tls:seg-end', offset: 115, content: '', id: KR3fc069_tls_001-p24.s15.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3fc069_tls_001-p24.s15.2}
+  - {type: 'tls:seg-start', offset: 115, content: '', id: KR3fc069_tls_001-p24.s16.1, seg_type: comm, member_ids: [KR3fc069_tls_001-p24.s16.1]}
+  - {type: 'tls:seg', offset: 115, content: '', id: KR3fc069_tls_001-p24.s16.1}
+  - {type: line-break, offset: 115, content: '', id: KX_16_dup20, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: line-break, offset: 135, content: '', id: KR3fc069_tls_092-bkklb3}
+  - {type: 'tls:seg-end', offset: 155, content: '', id: KR3fc069_tls_001-p24.s16.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3fc069_tls_001-p24.s16.2}
+  - {type: 'tls:seg-start', offset: 155, content: '', id: KR3fc069_tls_001-p24.s17.1, seg_type: comm, member_ids: [KR3fc069_tls_001-p24.s17.1]}
+  - {type: 'tls:seg', offset: 155, content: '', id: KR3fc069_tls_001-p24.s17.1}
+  - {type: line-break, offset: 155, content: '', id: KX_17_dup19, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: line-break, offset: 164, content: '', id: KR3fc069_tls_092-bkklb4}
+  - {type: 'tls:seg-end', offset: 172, content: '', id: KR3fc069_tls_001-p24.s17.1_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3fc069_tls_001-p24.s17.2}
+  - {type: 'tls:seg', offset: 172, content: '', id: KR3fc069_tls_001-p24.s18}
+  - {type: line-break, offset: 172, content: '', id: KX_18_dup19, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: 'tls:seg', offset: 192, content: '', id: KR3fc069_tls_001-p24.s19}
+  - {type: line-break, offset: 192, content: '', id: KX_19_dup19, _xml_error: duplicate-id, _xml_original_id: KX_19}
+  - {type: 'tls:seg', offset: 212, content: '', id: KR3fc069_tls_001-p24.s20}
+  - {type: line-break, offset: 212, content: '', id: KX_20_dup19, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: 'tls:seg', offset: 232, content: '', id: KR3fc069_tls_001-p24.s21.1}
+  - {type: line-break, offset: 232, content: '', id: KX_21_dup19, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: 'tls:seg-start', offset: 244, content: '', id: KR3fc069_tls_001-p24.s21.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p24.s21.2]}
+  - {type: 'tls:seg', offset: 244, content: '', id: KR3fc069_tls_001-p24.s21.2}
+  - {type: line-break, offset: 252, content: '', id: KR3fc069_tls_092-bkklb5}
+  - {type: 'tls:seg-end', offset: 260, content: '', id: KR3fc069_tls_001-p24.s21.2_end, seg_type: comm}
+  - {type: 'tls:seg', offset: 260, content: '', id: KR3fc069_tls_001-p24.s21.3}
+  back: []
+hash: sha256:59de562028e39626f8b1eaae59b7a34e0c1f397aea6b8d606f038e98fb3069e1

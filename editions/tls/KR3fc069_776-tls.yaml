@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/776
+seq: 776
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周所由來故備載之有抵周線術而各橢弦可求有橢弦術而各橢弦和可求橢弦和既可求橢圓周即無不可求其用全在逐分倍外矢各三率不齊須以倍外矢齊之倍外矢不齊又須以半徑齊之所以能齊其不齊者則恃有遞加數一圓與之婉轉而符會觀後圖解便可洞然夫求平圓弧線非遞加數而其率不通今求橢圓弧線亦復如是然則圓理無窮一遞加數有以括之矣誠妙矣哉煦按總論云觀後圖解便可洞然而圖解實未有頗疑非完本迨觀本卷首云向思纂明之而病軀
+  hash: sha256:5318b86279a7b2afbd51ea6ca28c5189e470a93e49e0d0d9adcbcab063f21158
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f92fa1dec4076016ea19ecd5091c47b5dea590288fb058a677ea9cb979cddd35

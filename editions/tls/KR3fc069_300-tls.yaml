@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/300
+seq: 300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三分弧之二起度各倍矢率
+  hash: sha256:ca4c29ba923c660b5caeec4121fc98ae2aff7e097a47137573d9bf17f92919c5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d6cf26e8d77f8b7ed0e3583c705077201987d6fe4155ff88108ddcd4897f8842

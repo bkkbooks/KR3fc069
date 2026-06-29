@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/909
+seq: 909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分子合第七數乘除得三十三以加一差減數十六五負得二差加數十六五正以較定分子尚應減五是第七數以下當有第三差也而應減數與第二差之比例若五與三十三第八數乘除得九十一以加一差減數七十一五負得二差加數十九五正以較定分子十六尚應減三五而應減數與第二差之比例若三五與九十一因檢遞加數第一十行其首位一與三位六十六之比例亦若五與三十三次位十一與四位二百八十六之比例尞若三五與九十一試以遞加數第十一行自首位起取第七數以下第
+  hash: sha256:21f81a0f4e63f97561e37d23aa86116b1c31370c952c34b6682aa057b27f7ccf
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c6114a37083cbb82c0b1b122ec245fe15b9b5e6f35211ba4bcaff164aed37108

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/228
+seq: 228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於一而遞加之則成多數亦可不起於一而遞加之益成多數準是推之倍分析分外其率正自無量亦莫不確然有數可稽矣而要非零分遞加固不足以極其變而盡其致易曰窮則變變則通數本不窮而似有窮時者局於一耳卽此一而善用之則窮者通此零分之所以變而愈合也整分率先明三角而後釋以遞加以數之自象生也半分率先論遞加而後驗以三角以象之由數悟也今零分率象數旣彰卽可按弧分子母繪圖出線以顯三角比例而歸本於數之遞加故仍先象而後數
+  hash: sha256:34fc7216e9ed421ca2cc5bb6a082d94ccf5bae3b98b6c2db80b211e97557d9ee
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4c1e192a7f5456241b8cd0cf95c381c5d54b0adf77269d323dc80cedcfce169e

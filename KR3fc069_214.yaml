@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/214
+seq: 214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖整而根各帶半半分者根雖整而左右數各帶半帶半則零故皆用倍根求兩偶行併積即通弦率立偶數為倍根即弧分即為併根即二率倍根加一減一相乘即弧分自乘減一以乘併根四除之二三遞除之為併立積即四率倍根加三減三相乘即弧分自乘減九以乘併立積四除之四五遞除之為併四乘積即六率倍根加五減五相乘即弧分自乘減二十五以乘併四乘積四除之六七遞除之為併六乘積即八率如是遞求得各乘積凡乘法倍根大加減數小則兩數同名乘得正乘法倍根
+  hash: sha256:ce71ca480ad8c59b6973085a05d53aa6121c8b7f89d866020dd189b25daf0581
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:dbb71dd498f99d23ba48691469e186db8317dcee98d42fb87ade61f1c5fd1f93

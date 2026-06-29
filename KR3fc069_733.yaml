@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/733
+seq: 733
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加乘除以此開方諸乘方無不可得今求律數如前所列平立三乘開非一類惟先齊以十一乘方核其各積比例之差繼復使比例齊同學其差而歸於廉率末乃省去廉率不用而寓之於徑數位數中故與向立術大同而小異蓋律有十二至十一乘諸律始得其會通如黃鐘正律十一乘為正黃鐘積用為借積各律之積為本積黃鐘正律十乘乘半律為大呂本積得借積二之一黃鐘正律九乘乘半律自乘為太簇本積得借積四之一黃鐘正律八乘乘半律再乘為夾鐘本積得借積八之一至至鐘正律乘半律
+  hash: sha256:bc59b4425cd50332a780c0cdb7ccb2772e6234360585c098daed281d9d3779f0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b764f0fe78b6a35861490da57a5079e1f1d353d62e9a6ed1bf541dea163bbb82

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/857
+seq: 857
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常得一半徑故弧分若干分則併用矢亦得若干半徑以弧分除之又半之必得二分半徑之一是第二數以一乘之二除之可代弧分除半外矢之乘半徑之除也第三數用半外矢幂試析象限為二分則中前一分用矢為半徑多四十五度正弦自乘得一段正弦幂多二段半徑乘正弦多一段半徑幂鑑可類推中後一分為半徑少四十五度正弦自乘得相併得兩段四十五度正弦幂兩段半徑幂而兩段正弦幂即一段半徑幂半徑為方斜四十五度正弦為方邊是三段半徑幂也
+  hash: sha256:8a938069baac6703d83edde5ee55e98ff7b878d7eab8423c1e75e6d468686743
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:939547fe4ebfa2a3b014bb74eae624797a909e834f20a56dc6c2e85e5b03b815

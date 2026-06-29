@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/429
+seq: 429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其形最大零分第一形其底自圓內出圓外最小者必糃大於整分最大者必微小於半分整分第二形祗一無兩其形最大半分第二形有兩而等其形適中零分第二形兩不相等一大於半分一小於半分互為正負而皆較整分為小求第一二形腰率分母本弧無線可比不得不用借弧蓋一分母含有諸分子借分子小弧之線以為比例也本可不論奇偶概借用一分弧之通弦惟因易率時須寄其分而借半分起度諸率者其率又先有寄分若寄分大取數必繁不便於乘除加減今有奇
+  hash: sha256:d05def1d8aeed20552c1ef51589f59b96230e662376c37ce2d57d4b869ec496b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2e466ad6c04b32d5a6bf6d8a0ae75bef01837098414b13eb4c515d77d23b88a3

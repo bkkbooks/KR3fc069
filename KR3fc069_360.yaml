@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/360
+seq: 360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 煦案四分弧通弦率其四分之幾折而為二分之幾此耦分弧之通例若通弦逐率分母亦折而為二此則偶然也蓋四為二之自乘數故可折非凡耦分弧皆可折而從半分弧也如前半分起度通弦率其通弦變為二分四分等整分而逐率仍帶二為分母此其徵也弦矢弧分及遞加數本同此分母倍矢之分子與遞加數等通弦之分子則為遞如數兩分子之較與和
+  hash: sha256:a8e182c05927499d56b359caca36d8ced476417598c75841c13ee80836907520
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5dbc48c641113206d84144491fbe562718b93489f5fefb800c167f01ffd83ea6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/885
+seq: 885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是共得二十一段八分七釐五毫半徑三乘幂也弧分五除之又全半比例十五除之得八十分之二十一八七五以一六通之仍得一百二十八分之三十五析象限為六分則中前一分用矢為半徑多十五度正弦甲中後一分為半徑少十五度正弦甲各三自乘相併得甲中前二分用矢為半徑多四十五度正弦乙中後二分為半徑少四十五度正弦乙各三自乘相併得乙乙中前三分用矢為半徑多七十五度正弦丙中後三分為半徑少七十五度正弦丙各三自乘相併得
+  hash: sha256:8e183fb22de9e46c6124a95c9dae5f8f2adbfc28d2f008c2f83aff88b3bb81a6
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7ee9082afc53070662c1af287856bd3ac48716d242bc8d0acdb539b28c71a559

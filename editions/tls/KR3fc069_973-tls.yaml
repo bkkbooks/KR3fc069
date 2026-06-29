@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/973
+seq: 973
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加數第九行倍首位一得二與第九位一萬二千八百七十之比例相合乃以第九行自倍首位起取第九數以下本數分子按位挨次乘之又自九位起挨次除之為第一差第九數乘除得一以減本數分子得六千四百三十四第十數乘除得九以減本數分子得一萬二千一百四十六十一數乘除得九十五
+  hash: sha256:a429911941e09ebf442ac54f18066550b4413084f691bc3ce340771f3e324bce
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:10a3173296b859214ffff692b700489caaebda6ac2a363fa6d9fcebb02fc85e9

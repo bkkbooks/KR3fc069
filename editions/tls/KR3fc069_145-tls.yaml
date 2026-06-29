@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/145
+seq: 145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與午未通弦平行引心午心未兩半徑出圜外相遇於甲於子成心甲子兩等邊三角及第一形心界半徑為中垂線心甲心子皆半弧正割即第一形腰界甲界子皆正切為期半底亦即第二形腰半分之弧既定依遞加法進求遂分自午界半分起遞加金午木金火木等全分成金界一分半木界二分半火界三分半等弧各自心作半徑界之皆屬倍矢弧分又以午界半分乾午卽金界一分半併得乾界二分金界一分半坎金卽木界二分半併得坎界四分木界二分半艮木卽火界三分半併得艮界六分等弧各自界作
+  hash: sha256:c0000755d0ac8082ef8af5319a367a425800d3b5d1db6000b3292f6c4f5f3d95
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8c656ee968a23a18d1b8374cc26d3ce49c0e1b2f2b1eb95b42ddddc5edfa6114

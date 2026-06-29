@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/847
+seq: 847
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除今試就求一分通弦並求通弦和本數歸本數不論正負分別推演如下求一分通弦者通弦為第一數泛三率乘通弦半徑除之二除之又半外矢乘之用倍外矢則多一四除今用半外矢者省四除也半徑除之為第二數泛三率自乘乘通弦半徑幂除之二除之一乘之四除之又半外矢幂乘之半徑幂除之為第三數泛三率再乘乘通弦半徑立幂除之二除之一乘之四除之三乘之六除之又半外矢立幂乘之半徑立幂除之為第四數此求一分通弦各歸本數法也若求逐分通弦和則當以通弦和為
+  hash: sha256:6bd1a18e1fc7b51cad5f5aeeaece43b8cd3e5f636ed816b23a34d849d416938e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b9e34ce1ab4bf5b7791a94cb1b7c4069bfbcd073a83e72258adee84e168a5339

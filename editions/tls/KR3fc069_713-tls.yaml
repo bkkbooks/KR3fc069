@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/713
+seq: 713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此所謂律數皆連入例也記營比音而樂之律之音必相比而後諸律之數亦必相比而後合今考其數黃鐘比大呂若大呂與太簇亦若太簇與夾鐘凡相距一位者皆成比例黃鐘比太簇若太簇與姑洗亦
+  hash: sha256:60d664365e577acbb32a94e8e0f70774f1fa028069cbbc9e914020ff194451ab
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:35647a78cbbe4e73443d73b68b4c6b6297c8c7adfca2d530a0267a83ad6d4823

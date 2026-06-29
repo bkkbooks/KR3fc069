@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/737
+seq: 737
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆於二之一應各以距黃鐘位數除之除二周二十四律三周三十六律以及十一周一百三十二律悉為一周十二律而廉率所用之全律十二其數亦隨除而降大呂廉率以一除故仍為一餘則皆降太簇廉率六夾鐘廉率四姑洗廉率三仲呂廉率二又五之二賓廉率二林鐘廉率一又七之五夷則廉率一又八之四南呂廉率一又九之三無射廉率一又十之二應鐘廉率一又十一之一如是則積之比例等廉率各不等比例等故遞次皆用二除廉率不等而又帶零故省去不用仍用十二而寄其位數之除
+  hash: sha256:e85aff9c81b30e6c3ee485c2ad7453c80f7fe3d2ce8ca696a6d2faf6ed0be8d9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1849d1dc44827e6f98899537b1bd8121858c407dff0bb0bf6d5c90d98255dda6

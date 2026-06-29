@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/410
+seq: 410
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分弧之一起度各通弦率
+  hash: sha256:eef1035af4f38a72af9832de4ec3a6570128a80ffdb9f2447f8d652cb2740fdf
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:01ff8554ebd5f3905fb3aefb6e6bfbf7e1bd5c35d5477c451dcab055c5c0f339

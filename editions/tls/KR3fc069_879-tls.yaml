@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/879
+seq: 879
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之三十五析象限為四分則中前一分用矢為半逕多二十二度半正弦甲中後一分為半徑少二十二度半正弦甲各三自乘相併得甲甲中前二分用矢為半徑多六十七度半正弦乙中後二分為半徑少六十七度半正弦乙各三自乘相併得乙乙併各矢三乘幂得二段二十二度半正弦三乘幂二段六十七度半正弦三乘幂多十二度二十二度半正弦平幂乘半徑平幂十二段六十七度半正弦平幂乘半徑平幂多四段半徑三乘幂而十二段半徑幂乘兩種正弦幂
+  hash: sha256:693252daca8b3809c5e2eecbff1609d716a13dffbf4024d66867285cffec9c63
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:efc0a7caaf133a181a08754f758f13403b62e4d7c0dba0124236ebc7296e6be7

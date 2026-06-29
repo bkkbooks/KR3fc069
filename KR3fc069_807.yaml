@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/807
+seq: 807
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所用率數及逐數所用乘除之實數也此捷法第一術及補第一術也其餘二術橢圓術中無所用之故不及假如有同股之兩勾股形有大弦求小弦則可用借大積開方捷法如前圖甲丁為大弦甲丙為小弦甲乙為同用之股乙丙為小勾乙丁為大勾今有甲丁求甲丙則當以甲丁大弦為一率甲丁甲丙兩弦幂較為二率自乘數一率除之為三率抑或不知甲棺幂而知乙丙乙丁大小勾則即用大小勾幂之較為二率自
+  hash: sha256:ab8dc38de3e31f7a3359671dccff00415d6d00a1e80351e1b503646f2b8aa9b8
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:371b0fa0358baea8383bb3d3cef8b8a9fc3bde8c1afc003091d15a39440928e7

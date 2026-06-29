@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/937
+seq: 937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十五加一差減數得二差加數五十三萬五千三百八十二五以蚾定分子當應減六五而應減數與第二差之比例若六五與一萬六千四百四十五因檢遞加數第二十一行其首位一與五位一萬六百二十六之比例亦若五與五千三百十三次位二十一與六位五萬三千一百三十之比例亦若六五與一萬六千四百四十五試以二十一行自首位起取第十三數以下第二差按位挨次乘之又五位起挨次除之為第三差第十三數乘除得五以減二差加數得三十一萬三千六百十六第十四數乘除得六
+  hash: sha256:675e62054a85112284ac1fa491e5dab83da0b8215ad5de53c3c78942b73ee511
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:caf523e09e039a01b9bdf4d5862087b284e794409e4882aa41334e5cc435f08a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/555
+seq: 555
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所得既為各實數之半正負併減後所得者必為他度倍矢之半而得他度正矢也總論曰圜中諸線其率互通理數精微實難思議酌定此二術凡勾股割圜六宗三要二簡法與夫杜氏九術董氏四術均於此得其會通焉術中本數之乘除根於連比例諸率用數之乘除根於零整分遞加所以能比例者以同式兩等邊三給相連次列也所以與遞加數合者以弧分遞加諸率亦隨之遞加也不拘拘倍分析分任立一分子母而即有三角以著其形有遞加以範其數奇偶錯
+  hash: sha256:abd2ff1c9099963471e4eebfcd3c9e0131dceb69f592304183fcf4d966eafd25
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a90c3ffa2b2e6e6a6c1ff2dbfd93b37fa13f1b6a1dc1e8f91e178f2797ddd47e

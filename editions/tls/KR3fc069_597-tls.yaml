@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/597
+seq: 597
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 必減本不應減也益減數生於分母之一雖分母極細分子極多而終有分在弦究微歉於弧若渾與弧合則必無分可析無子母可名分子即通弧分母并無其一無其一是無減數矣故但以分子自乘為乘法又遞求各數本宜置前數以三率乘之一率除之得後率本數又以用數乘除法乘除之始為後數而今所用三率已為分子自乘乘過數分子自乘者用數乘法也三率者本數乘法也是今之三率實兼有兩種乘法以乘前數業合兩次乘為一次乘矣故以兩種除法遞除之即得後
+  hash: sha256:f983fbf90ede3c9c6c4fd59309cb1fe0dcdc13a36dfffd762b48a8966f16caf3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2894f7a15aaf5f39b544874f800ed3eae5d7e8713a688580b2277858e23d84a5

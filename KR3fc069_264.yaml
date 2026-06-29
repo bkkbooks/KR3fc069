@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/264
+seq: 264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之幾易率法是也準整分率三分通弦二率一與一分通弦二率三正四率一負相當用為相當率列右線左以借二率三為分母除之得本二率三之一正借二率一正四率三之一負皆書分子寄分母為用二率各自乘半徑除之得本三率一寄分母自乘借三率一正五率二負寄分母七率一正寄分自乘為用三率亦即乘法依次列相當率左復以求得第一形腰率列左線右腰率皆奇取用三率列右線右本率列上遞以本三率乘之一率除之得各本率分子皆一寄分則遞增
+  hash: sha256:026d0ab1ba9fe85ddac0e87a8a734e1174cb622eae8961278665f035550d5c93
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:acd1c53c2f2b4a158e921812fd46368fae464347450d94a0ee316aaa012ee5e2

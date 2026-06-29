@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/969
+seq: 969
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三十一五為第六數分子以弧分乘全半四乘比例三十二得一百二十八以約定母二百五十六得二以通分子得六十三為定分子四用矢五乘幂相併得以平方併率乘其五層之一邊得三十以三乘併率乘其三層之一邊得二十二五以五乘併率六二五乘其首層之一邊得一二五相併又併七曾得五十七七五為第七數分子以弧分乘全半五乘比例六十四得二百五十六以約定母一千二十四得四以通分子得二百三十一為定分子如是遞求得四分弧逐數定分子如圖例
+  hash: sha256:df0a422bfc525c6d3807d6775f8173d8da53006f0a87f4795c57a2b94e8c9622
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c55de36dd3972d8dd166ed189116462b8c5cc68df0d075b2855e0f5dba65afeb

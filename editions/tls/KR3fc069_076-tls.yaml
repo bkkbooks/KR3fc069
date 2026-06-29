@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得四是為界角第二形下各腰內二率乘除得底降為三率卽其底內三率亦為一二三四等如根之一二三四等數由遞加根差而得也三率起於第二形底如上論界角形各底內三率旣為一二三四等數若取各底遞加成心角形各腰則三率必轉而相加一加二得三三加三得六六加四得十是為心角第三形下各腰內三率乘除得底降為四率卽其底內四率亦為一三六十如平積之一三六十等數由遞加根而得也四率起於第三形底如上論心角形各底內四率旣
+  hash: sha256:228362b917894f93fbe734c55e6b7136c9eacb6d96ef8b748cf285ac872d8fa9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ca9c1038b77bd95cbc20b615a3a4d45632ea0929fc6a233ab61a716b9ee089b5

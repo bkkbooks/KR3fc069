@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/721
+seq: 721
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘正黃鐘與應鐘十一乘等積開一十乘方得應鐘正黃鐘六乘乘半黃鐘四乘與仲呂十一乘等積開一十乘方得仲呂半黃鐘六乘乘正黃鐘四乘與林鐘十一乘等積開十一乘方得林鐘蓋此諸律位數雖不若蕤賓之與黃鐘相當而以自乘再乘等通其比例亦可以得等積所難者諸乘方開頗繁重故世子第求蕤賓一律不復以黃鐘遍求今則用遞乘遞除術轉變而消融之覺律本同源法師一例亦足極比例開方之變而濟其所窮矣新定算律術
+  hash: sha256:1a56465c1ded62b83450720e736a34b4de519b2d00e73afa26cb1b75e79d6095
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f67d4e62c0226bd6c1167a48a5c93af4b93d94833d78a5ed34ef3a420f44bfb3

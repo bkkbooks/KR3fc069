@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/931
+seq: 931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五與六十三試以遞加數第五行自倍首位起取第五數以下本數分子按位挨次乘之又自五位起挨次除之為第一差第五數乘除得一以減本數分子三十五得三十四第六數乘除得五以減本數分子六十三得五十八第七數乘除得三十三以減本數分子二百三十一得一百九十八第八數乘除得九十一以減本數分子四百二十九得三百三十八均與各數定分子合第九數乘除得一千八百二十以減本數分子六千四百三十五得一差減數四千六百十五以較定分子應加一是二分弧第二差起第
+  hash: sha256:bfb2b753d584b5bf05fcd13d34c7de2143a0d6fcf332186b585ec981f32976ee
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:01741ccc242dbd78463b4a3b357a809b1888e4ad74ecd1b3e71e50c52440a43d

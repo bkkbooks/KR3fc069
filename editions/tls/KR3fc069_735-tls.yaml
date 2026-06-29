@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/735
+seq: 735
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十乘為應鐘本積得借積二千零四十八之一每降一律正律減一乘半律增一乘借積分母亦增一倍此各律比例之差而廉率則同為十二究其差所由來大呂積二之一者以其距黃鐘一位左旋一周十二律會於黃鐘半律故太箊積四之一者以其距黃鐘二位左旋二周二十四律會於黃鐘四之一故夾鐘積八之一者以其距黃鐘三位左旋三周三十六律會於黃鐘八之一故應鐘積二千零四十八之一者以其距黃鐘十一位左旋十一周一百三十二律會於黃鐘二千零四十八之一故設欲使比例齊同
+  hash: sha256:e2d547f8f7fc0aa18b0cf0fdfa6f4ec73c051491297228ed63d072da0099944b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1475d2ba430d9ab5c9312e9416a4e541fb10f655da3afd46a44bb447e12ffdba

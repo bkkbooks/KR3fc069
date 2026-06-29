@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/266
+seq: 266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而多借率列下亦以用率之借三率乘之一率除之得五率一正七率四負寄分母九率六正寄分負寄分再乘十三率一正寄分三乘為用五率依是遞為乘除得各用率之借
+  hash: sha256:2c4479f241849156ab1baf3951ac94a940903e09d8bddb286fbcf1a7eae957ce
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:30340ca79912ed57e023d18e0eb023a8d5d4f58bae64a702da2ac8bfc52a4ebb

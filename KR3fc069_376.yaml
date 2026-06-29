@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/376
+seq: 376
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本弧二率通弦相當亦即以三率下正負各奇率與本弧三率倍矢相當第一形腰率皆奇故相當率徑檢前整分起度五分倍矢為三率二十五正五率五十負七率三十五正九率十負十一率一正與本弧三率相當用為相當率又分母大則下位諸率之分子亦愈大不便書寫故分宜省寄相當率各以分母
+  hash: sha256:685cdf203a86e2190661368c97d3d68e319af999cad50c92327d07c39d67929c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:41437c4b969574e74698e91e9a0008e024bf6fb7e468e52008e92144c9216899

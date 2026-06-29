@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/711
+seq: 711
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鍾如是遞求至應鐘得各律正倍之得各倍律半之得各半律今如法算得各正律列於上層更列古律於下層以便參校開方比例算得諸律古律
+  hash: sha256:b2d3756489fdb4a3e4468b06a1593777027181980bdea513e1dec21ee162dd45
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:85dfb73e2591fc258548af6541985545986580be4d30226cd1c92820fde30536

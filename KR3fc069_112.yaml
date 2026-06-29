@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/112
+seq: 112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得逎用率法乘除求得逐形腰底而偶分弦率各帶半分之矢率均出其閒考其數則與半分起根遞加數等然則非遞加一圖且不知弧度之可起半分奚自而按其形核其數哉今故先論遞加數以發其所藏後詳弦矢率以證其所合數之有零整也非整無以立其常非零無以通其變半者零之始遞加圖揭整數以示人而其半數之中藏者特人不覺耳夫弦矢率為直行線所聯聯偶率之線抵根層得整數聯奇率之線抵根層在兩數閒而當其半折半用零之理已微露其端矣故根起一
+  hash: sha256:e9c5a82b17d750b883b9d0059908d39018041e2fe541921fdfef338518939363
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f83426aa8a50e1153cd4ce2e8c36511861c5c553ceccbbb6f41b5caa073d0154

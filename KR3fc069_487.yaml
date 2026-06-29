@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/487
+seq: 487
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 負有一定之位亦與半分同其自首正根向下斜左線所聯各首正積以上之佐角則根積皆正自首負根向下斜右線所聯各首負積以上之右角則奇層正偶層負其各首正積向下斜右線所聯各積則恆一負一正相間其備首負積向下斜左線所聯各積則首積負者俱負正者俱正其自各首積直下線所聯各積則首積正者恆一負一正相間首積負者恆一正一負相間冠下圖自悉零分遞加數奇行亦即心角行腰率其正負之不同與整分異而與半分無異蓋在遞加數則第一
+  hash: sha256:0387c4ddd7d00e8c176155686a55d141895f4742f5f461a1a219208cf14b43c4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a1b73fa360d40070d5ef5835108b8da63e4174eac9c6a1134ddbc0780ba8d4a9

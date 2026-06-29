@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/531
+seq: 531
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四十九乘之與分子自乘相減為第四乘法凡分母自乘內減分子自乘者為正乘法分子自乘內減分母自乘者為負乘法相減適盡者下更無數不須求故亦無乘法論曰此定通弦乘法也通弦乘法即遞加數中根層各兩數相乘四倍之數蓋根層兩數或竝位或隔二位隔四位其和較數常與分子及一分母三分母五分母等故子母各自乘相減適得兩數相乘之四倍遞加數用以求偶層併積併積既即弦率今亦用以求通弦又分子不動分母以三五七
+  hash: sha256:efb3bc10ef20951af909f2a0bf2336bd3bba17677e29f15c78d02b9a367b9938
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:08cfe4a220119c41c93ee931b8c830cf695948137f13d5ce53fa84ad5296413c

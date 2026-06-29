@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/859
+seq: 859
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧分二除之又全半平方比例四除之半矢幂得全矢幂四分之一得半分半徑幂之三析象限為三分則中一分用矢卽半徑自乘得中前一分用矢為半徑多六十度正弦中後一分用矢為半徑少六十度正弦各自乘相併又併中一分矢幂得兩段六十度正弦幂多三段半徑幂而兩段正弦幂卽一段五分半徑幂六十度正弦自乘半徑幂除之得七五倍之得一五故知兩段正弦幂卽一段五分半徑幂是四段五分半徑幂也弧分三除之又全半比例四除之得十二分之四五以一五約之仍得八分之三析象限為四分則
+  hash: sha256:c5ee1ca436a135b6e2659a8d7e91bb9ff6e215a7c2dc2bca2fcbfbcbbb30257b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3b06bfaad1e0cde60f01d8976a182d5afa2c3078996dbd2be44a9ade98a6da58

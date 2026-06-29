@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/483
+seq: 483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則逐層分母不同亦須通分故視本層較上層增寄幾乘則以幾乘通左上位加本位得左位積以幾乘通右上位減本位得右位積其求法或一以左線所聯之左位乘本位一以右線所聯之右位乘本位而先得奇耦二行直下積或概以左線所聯之左位乘本位而先得各首積然後順加逆減以求各層積均無不可凡求逐位積皆須用分母除故每層寄分必增寄一乘此寄分之有定者而每層遞加數之除法如與分母相涉則亦不受除何謂相涉但凡除法與
+  hash: sha256:ad9f1df12a2489092d6ae801b201a86183bf8d0396732918f54f11a219ba514a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3c7f74f01061cbb04881a8b37ae76fbb141cc77a2dcea10fb104cafca0d658ef

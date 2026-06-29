@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/169
+seq: 169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 負兩行遞併併法同名加異名減併後約寄分使從減易而弦矢率即得矣今將界角形相等之偶行積兩行遞併其二率約二除之消其寄分餘率約四除之寄分亦消去一自乘得各偶分通弦率將心角形相等之奇行積各減半徑兩行遞併諸率皆約二除之寄分亦消去一乘得半分依分半分二分等倍矢率列式於左求二分通弦
+  hash: sha256:40d8419f864e376850c9c3b6ed4a47c4b3c90477abcfb71ceb7c331b20378cbf
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:dae071e8242fab594e03592f21485ca322f1eb487204fd75487776e6aa50b69a

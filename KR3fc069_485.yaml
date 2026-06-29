@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/485
+seq: 485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母同則不受除或分母為他數之纍乘數則他數及他數之纍乘數必均不受除又分母為兩數相乘或諸數疊乘數則此諸數及諸數之纍乘數亦均不受除故凡除法遇此諸數皆須增寄逐分用分母除之寄分參以遞加數不受除之寄分則其等不齊欲齊其等當分別奇耦視奇層至奇層增寄幾乘者皆令增寄幾乘耦層至耦層增寄幾乘者亦皆令增寄幾乘而相連之一奇層一耦層與相連之一耦層一奇層其等不必齊零分遞加數以有反減亦如半分之有正負而正
+  hash: sha256:9c603eb064aa69a4d4c8fba1d51d3c9a617b4ec42be70a7601e258b448131254
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:45bda06573b0a3940b7421fde37833704d9d01a96fff342b8edf82bc1e24854b

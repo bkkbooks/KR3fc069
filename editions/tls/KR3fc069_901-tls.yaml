@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/901
+seq: 901
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立方比例八約第四數定母十六得二以通分子一得二為第四數定分子次以半徑三乘得三乘幂
+  hash: sha256:bcc3b7fa4c044fbd51d17c554168209dcc4fe84d6f6336051fdfc9d6fd0fa969
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6e975b68c33a2705271125f707ae077c4278e077cc5a328fbe58188693d3c63f

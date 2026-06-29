@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/595
+seq: 595
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次置第一數以三率乘之一率除之得第一率四除之又二除之三除之為第二數應減寄右次置第二數以三率乘之一率除之得第六率四除之又四除之五除之為第三數應加寄左次置第三數以三率乘之一率除之得第八率四除之又六除之七除之為第四數應減寄右論曰遞次乘法本應取分子母各自乘相減數今分子極多自乘後則愈多分母又為一不煩乘祗須減一九二十五等數是減數甚微可不必減其實弦求弦乘法有減數弧求弦乘法無減數非不
+  hash: sha256:4a572d90370ec00deee6484ee331b6bb563011dffe2ce7a59731dd01d0833b45
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5aeedff1717abc8762725bc72f6947030626788af9e0b5c927fa38fcb9b99208

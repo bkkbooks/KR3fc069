@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/493
+seq: 493
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求倍矢率時用減不用加異於求諸倍矢率者仍是以腰率減半徑而所餘為負算故以減為加與第三形以下一例也遞加數去根差其兩奇行并積即倍矢率其并平積與三率同數其并三乘積與五率同數此下五七九等乘并積莫不與七九十一等率同數其兩耦行并積即通弦率其并根與二率同數并立積與四率同數此下四六八等乘并積莫不與六八十等率同數然數雖同而正負不同其不同之致前既詳言之矣欲變遞加數而為弦矢率大率不
+  hash: sha256:4b1701065834ac3a14c55369f944a0b0bad611ee39479be952b7f38353226b65
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:624bc936120f17987cd27a5f3680d642b479d60517aeb69466bf296278f2bd31

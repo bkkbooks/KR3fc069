@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/811
+seq: 811
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二數以下皆負後用借小積法故第一數正而第二數以下耦數正奇數負也凡不論求大小弦其用為一率之弦為本一率求大弦則小弦為本一率求小弦則大弦為本一率本一率除二率自乘數為本三率如不用本率則可借用比例相同之他率如圖甲丁為大弦甲丙為小弦設有甲丁求甲丙則甲丁為本一率有甲丙求甲丁則甲丙為本一率而皆以本一率除乙丙與乙丁兩幂之較為本三率今有戊巳
+  hash: sha256:926ed0b68dcb1e0b8d250ff335263bacd11b90423cd36ffb7cc5676205938e3f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b519502c08f471581987447e988857bdd1280c85a7a3bbb599a2c23089e86d19

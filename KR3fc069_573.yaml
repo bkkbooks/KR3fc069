@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/573
+seq: 573
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 依次求之雖未至單位如減數士足弧分自乘數而無乘數者即以前所得數併減之不復遞求如三倍弧則無第三數五倍弧則無第五數有矢求加幾倍弧分之矢凡矢之倍分其耦通用置弧分自乘四倍之減四為第一乘數復置四倍自乘數減十六為第二乘數復置四倍自乘數減三十六為第三乘數依次列之乃置弧分自乘乘矢為第一數寄左次以半徑為連比例第一率二乘矢為第三率以第一數乘之一率除之得第五率第一乘數乘之四除之又三除之四除之為第二數寄右次置
+  hash: sha256:b740d4e1e455459cb7131fb534b736282dc592430ec3a0575b73c12ff749a2af
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b41a520ee0954f645cbc35ff7610a438ac92f9ebb584a1f50fea0f7382e14adb

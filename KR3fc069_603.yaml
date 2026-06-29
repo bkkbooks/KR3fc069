@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/603
+seq: 603
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今所得三率即倍矢惟為分子自乘乘過數而又多四倍故宜四除又所求乃正矢得數後宜折半先半之故復二除也次置第一數以三率乘之一率除之得第五率四除之又三除之四除之為第二數應減寄右次置第二數以三率乘之一率除之得第七率四除之又五除之六除之為第三數應加寄左次置第三數以三率乘之一率除之得第九率四除之又七除之八除之為第四數應減寄右第一數第三數相并第二數第四數相并右相減所餘即矢
+  hash: sha256:d72dd91749743902b6a82ca4ab0bbbe5107c17236b3b406e1756b2e55cfc7104
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a9f518273b914589a26843ec2b2bde27016d31dfaa81cc261ae078bc99bc2c23

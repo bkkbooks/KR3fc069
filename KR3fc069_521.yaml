@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/521
+seq: 521
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相反故乘得數之正負常一異一同相次而列也
+  hash: sha256:d9d61b0218f297612b8f9c7408d936b5cb66d5ac8c4531a047dad2c3c19d9ca7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8e6051d5a809809a2bdec19b361c7886b293e8e68d876e764f4c4bc40b9a19f1

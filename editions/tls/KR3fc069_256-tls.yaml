@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/256
+seq: 256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心界一率與丁土二率相乘所得實本居一二率之閒法首位一率除之則得數首位為二率然一二率閒作圖不便今將心界借降一率以乘丁土可得二率法亦借降一率其得數必同故法實之首均作圈位下準此法二率除心界丁火兩相乘為實實二率仍心丁為法得二率二得界甲為第二形腰正為得數二率轉乘
+  hash: sha256:e68786ba0b74ec8dc1e1146c21d73daa6efa40aee0187d469f82c90091b539c5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6eceace9b6376b3381551f847018b7ba379f7f26fdb3ba0751862dfc687a6e08

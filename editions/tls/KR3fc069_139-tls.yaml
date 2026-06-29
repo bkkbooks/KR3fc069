@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/139
+seq: 139
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加數常正弦矢率常一正一負相閒例有一定故正負無煩細辨若半分者遞加根積及弦矢率各有正負多寡異同又復不等不定其例則易於混淆今約定之求弦以偶行根當二率求矢以奇行平積當三率皆常正餘則偶行以積之乘數折半奇行以乘數減一折半視得數偶者仍其正負奇者易其正負至界角形腰正負與弦率同心角形腰正負與矢率反葢矢率乃心角形腰減半徑之數故也心角形腰率正負以奇行積之乘數加一折半偶則仍之奇則易之有是數必有是形旣得此半分遞加圖而兩等邊三
+  hash: sha256:69e81c90383c4cd3d1e1f9a5628197c75e612cb257eec557cd79928205634aef
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:eba6e58567f5d6b5b6e0a6d5022c2d013f09f7479b2e8c12b7a2f1611afea5ff

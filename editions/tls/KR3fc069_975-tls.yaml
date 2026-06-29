@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/975
+seq: 975
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 減本數分子得四萬六千九十四十二數乘除得三百八十五以減本數分子得八萬七千七百九十四十三數乘除得五千三百十三以減本數分子得六十七萬七百二十六十四數乘除得一萬六千四百四十五減本數分子得一百二十八萬三千六百三十十五數乘除得九萬四千一百八十五以減本數分子得四百九十二萬三百九十十六數乘除得二十五萬四千四百七十五以減本數分子得九百四十四萬三百七十以上均與各數定分子合依遞推
+  hash: sha256:1141ff8934cf790d3c157def06fbe8c208e4598ce635afe2c6151bdf1b6d4fd5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9df81c6c45dc26075f5ddba439810f4c2ed472adbd14a767d3fb28ebb227510f

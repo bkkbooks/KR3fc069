@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/509
+seq: 509
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母相乘倍分子自乘減分母自乘之九倍其數亦同以乘平積分母自乘除之四除之三四遞除之為三乘積即五率倍根分子一加五分母一減五分母相乘倍分子自乘減分母自乘之二十五倍其數亦同以乘三乘積分母自乘除之四除之五六遞除之為五乘積即七率倍根分子一加七分母一減七分母相乘倍分子自乘減分母自乘之四十九倍其數亦同以乘五乘積分母自乘除之四除之七八遞除之為七乘積即九率如是遞求得各乘積凡定乘法正負及各積正負與耦行同若求腰較率則乘法正負互易亦與前同求耦行積半分用倍根及加減二四六等數並
+  hash: sha256:ca0f554251953dda6114e0c3788acc6bcc7200020bbe88a89df11ee4f043ff82
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d714fbbf93ab90f82e64760fe48d1a39a5e59e16100b79fa29b5ebbb7f2961fb

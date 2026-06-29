@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙形心乙丙形心角界角既等乙角又屬錯交角角既錯交自無不等則丙角亦必與甲角等其餘衆形既挨次而列或同用一角或錯交一角準是推之其三角無不相等角等者式必等又心界甲形兩腰心界及心甲皆半徑其腰等則對腰之甲角界角必自相等即衆形之兩腰及對腰角亦各自相等故皆兩等邊三角形而同式既同式其腰底可以遞相比例以心界甲為第一形其腰即半徑底即一分通弦以界甲乙為第二形其腰即一分通弦底即一分倍矢設自界作垂絈至申垂線即正弦申甲即正矢而申點必居底之半以兩腰等故也申甲既為正矢乙甲
+  hash: sha256:444ddec69f04e43c80b2c8f061bd73f170693ed708b48695911997fc9137d0c7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:476e6b7c6071de311e721e5d4ab9ad9782cffdcc6e31fe9f75b2c13e43b53fb5

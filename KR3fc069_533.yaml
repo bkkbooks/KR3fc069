@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/533
+seq: 533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 等遞次加大自乘後增為九倍二十五倍四十九倍故分母自乘必逐次增乘也凡本度大於他度者他度為正負兩根相減數本宜併因正負異名故以減為併則分子為較分母為和分母愈加而大不能小於分子其和較不易本度小於他度者他度為兩正根相併數則分子為和分母為較分母漸加而大至大於分子而和較互易總之母和子較者求併積之兩數常一正一負以其異名乘法為負而求率則易為正乘法母較子和者求併積之兩數皆正以其同名乘法為正而求率則易為負乘法與遞
+  hash: sha256:be2a8fcb1903d47924e398df32a025c7c103766363dd1161da0815c1c532ca20
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:60b3ffd27dcc45367a286f3f97b7bffe7c4609d24436dfacd26e28284923f1c9

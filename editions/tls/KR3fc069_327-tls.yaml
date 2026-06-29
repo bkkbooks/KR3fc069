@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/327
+seq: 327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 矢借弧得本弧二分之一取前整分所得二分弧倍用率矢三率四正五率一負為借率而與本弧倍矢三率一相當上下對列右線左借三率四為分母自乘數除借率應得三率一正五率一負分
+  hash: sha256:f19decb5e69adbd5de3450cb63ec334a6055f2988fc3d9619d35ed7835dc6102
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e0583ee9d37a19740a06afba89529fd9b8130d3810c446c3fb1a7496cb3a109d

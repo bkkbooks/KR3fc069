@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/455
+seq: 455
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七率轉以小分三乘乘之寄小分七乘於右以下每率增四乘乘之小分亦增寄四乘如借二率為小分再乘數則借三率之三率必為小分五乘數三率既除為一以小分除其五率寄小分四乘於右七率轉以三分三乘乘之寄小分九乘於右以下每率增五乘乘之小分亦增寄五乘餘可類推通弦分母變用弦分者則借三率之三率為半弧分自乘數三率既除為一自五率以下先以四通乘之然後以弧分自乘乘其五率寄分母三乘於右以弧分五乘乘其七率寄分母七乘於右以下
+  hash: sha256:629ae9ad75cd7c1970e9c8a43e2e80d289ef369b92aac7db01537c430becdf3f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8d7aa6a2f0c256a0b71f1b89cd65dd4b09384e99e2f3a9d66d9200706abcad4f

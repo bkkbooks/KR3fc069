@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/519
+seq: 519
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是零分亦如是至遞加數乘法正負與弦矢率乘法正負所以不同之故緣求遞加數係以若干分母加減分子而分子為本數故其相加恆為正而相減則分子數大為正分母數大為負求弦矢率係以分子加減若干分母而分母為本數故其相加亦為正而相減則分子數大為負分母數大為正由是兩數相乘在遞加數為同名相乘之正乘法在弦矢率必為異名相乘之負乘法在遞加數為異名相乘之負乘法在弦矢率必為同名相乘之正乘法乘法之正負
+  hash: sha256:c3bc3b4ab6996ff53367932f7f19f6f805f4791848963dfeffbe5d1421b7f731
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:95748061e77f1aaf8d935042d3be6ddefc2467eee408a049e349d206b6e6420b

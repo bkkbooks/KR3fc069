@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/505
+seq: 505
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘積分母除之五除之為四乘積如是遞求得各乘積凡乘法減數小根分子大減得正乘法減數大根分子小減得負乘法視乘法正負與所乘根積同名者得積為正異名得積為負若用負根則遞次乘法用根分子遞加分母而皆為負乘法定積正負法與上同零分諸術大率與半分同半分用倍根者即以二為分母之根分子也故在零分為根分子其加減二四六等數者乃分母二乘一二三之數也故在零分為加減一分母及二分母三分母其求積通加二除者二即半分分母也故在零
+  hash: sha256:3bfb5dee10f942cb79ed6d3409d10004dbfa3c378d18f0a97bd17a1e2c19b76a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b65734483eafa26a7da49441bdea3437415d05fa383063ea5a54e5eb9a166b9f

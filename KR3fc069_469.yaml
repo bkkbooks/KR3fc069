@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/469
+seq: 469
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蓋耦而折半則奇其通弧倍矢率雖可借整分而求第一二形腰率必參用笨分腰率其求得率必仍用二為分母夫求得率用二為分米而用率用半弧分為分母足分母雜糅不便乘除故須變用弧分為分母也其法視借率寄分米者以二乘之寄分自乘者以二自乘乘之寄分再乘者以二再乘乘之餘仿此分母遂變為弧分而寄分乘數仍照原寄分凡用率之借率首位必令為單一而無寄分其本率不必盡為一故惟分母奇或分母耦而用小分
+  hash: sha256:e2d23a1fbdcb1787888a5a3469af239e939943152f2b13d6a7542ebf9c73ed4a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:022ee5fd6cee58f61ad64f2f9c0ec4b41c8cfa57d68ef4f2f3a11e1fbebc7262

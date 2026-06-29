@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/545
+seq: 545
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知本度矢求他度矢法以所知度為分母所求度為分子論曰此求正矢也凡弧矢術所用為通弦正矢故不求倍矢而以正矢相求正矢度即倍矢度非若正弦度得通弦度之半度既同求法亦同但就倍矢以明乘除正矢自悉惟數宜折半耳矢之本度即兩等邊形角度亦即遞加數分母與通弦同而求他度則為界角形腰所當度及遞加數諸根分子故度分子母常與遞加數分子母等也分母自乘與分子自乘相減為第一乘法分母自乘
+  hash: sha256:7ae863f997aa0a7465aa3994471981fc7d3aa68444da3649cde381d92a3b310d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3d1a68a68d996960434e9f02b2b5f926db4efd03732b3c72c1cae10711c2e3ee

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/939
+seq: 939
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五以減二差加數得五十三萬五千三百七十六第十五數乘除得九十四五減二差加數得一百八十二萬七千八百八十八第十六數乘除得五百七五減二差加數得三百十二萬四百均與各數定分子合十七數乘除得三萬五千六百六十減二差加數得三差減數八千五百二十二萬九千六百九十五以較定分子應加一是二分弧第四差起第十七數也而應加數與第三差之入例若一與三萬五千九百六十因檢遞加數第二十九行首位與五位亦與一與三萬五千九百六十試以二十九行首位
+  hash: sha256:a1c9c3dd738fb101dd7d2809c8abdd34eefbd5b3f280a9ea8c4ae0a4e6db0e0d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:efc04fce60150934c2bf94c249e25c585d69f6ac1d2ba950f92c95ba6b916e99

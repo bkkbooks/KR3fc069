@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/793
+seq: 793
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 壬壬癸四弧亦作甲巳巳庚庚壬壬癸四通弦復從各通弦上端作己丑及丙申庚寅及丁酉壬卯及戊未各直線成各種勾股形而己丑與丙申同庚寅與丁酉同壬卯與戊未同故第一甲子巳與甲子丙第二己丑庚與丙申丁第三庚寅壬與丁酉戊第四壬卯癸與戊未乙均為同用一股之兩勾股形其兩形之勾必橢弦所成者小而平弦所成者大其子丙大勾與子巳小勾之比本同於大小半徑義見前圓而申丁及酉戊及未乙三大勾與丑庚及寅壬及卯癸三小勾之比無不同於大小半徑何也凡兩種四率比例
+  hash: sha256:d80328764f9bcf0f9340beccedf756cd25fbbff850e9eeeb22931566fa237441
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4805da0fbb8851cf3bf388dfa332c7f80df9ea653a6d5ab3eaffa9a33bc9be06

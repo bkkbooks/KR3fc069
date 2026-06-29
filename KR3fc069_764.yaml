@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/764
+seq: 764
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 煦按右求加減差表即整分遞加數第一圖左線所聯各行乃諸乘三角堆積也求加減差皆用奇數行故不列偶行求法以一為第一位數行數乘之一除之為二位數又行數加一乘之二除之為
+  hash: sha256:6972ec48538daddfe3371699bbee3fdd441fa369793391c061a2bf80fd3958ab
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1afed402959d3019e83378dec35eb1c410467266dc2108c6296489b62c527046

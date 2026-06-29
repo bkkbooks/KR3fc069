@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/523
+seq: 523
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仁和高雲麟新陽趙元益同校
+  hash: sha256:00c92560452547fa4bd602b9b6e38bd8c191ad07bc400dc66b5ea2474eceb561
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e866663de0975d4d6546374cc9b2b6b71693f4c4cf2c836dec1b1486df5eee3b

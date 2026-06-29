@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/495
+seq: 495
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論奇耦行首位仍其正負次位易其正負三五七九等位與首位同二四六八等位與次位同此一定之法整分如是半分及零分亦莫不如是弧分奇則奇耦皆可為分子但惟矢率分子得奇耦之全而弦率僅有奇分子而無耦分子必待折弧分為分母之倍而後補其不足弧分耦則分子有奇而無耦但矢率得奇分子而弦率僅有耦分子而無奇分子夫弦率母子俱耦則皆可折自可合分母為弧分之半其耦而折半則奇者分母折而奇分子必折而仍耦適以補奇分弧弦率之耦
+  hash: sha256:ec11e239e82c4c4e21f3411b973ec36e6b4e1bdb7238b610f5c4fcdaacbc5bb4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:44df59fc77240116c6b1ab4704501cc3f7bc525efdc79894795b657c8e481d83

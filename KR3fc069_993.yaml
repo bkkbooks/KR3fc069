@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/993
+seq: 993
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以下耦數正奇數負次定加減差所起之第幾數亦遞以耦數乘弧分加一為逐次加減差所起之數與原術同原術本數皆負故第一次名加差第二次名減差今術本數正負相間各差皆有加有減故概名為加減差次求逐次加減差其乘除法均與原術同其第一次加減差本數正者負之負者正之第二次加減差本數正者正之負者負之以下奇次差正負均與本數異耦次差均與本數同用表求加減差乘除法亦與原術同末求橢圓逐分通弦和法以正數相併負數亦相併正負相減即橢圓逐分通弦和
+  hash: sha256:5ac2d9e8ec429568ae267533dde5cf9cad95a828fe9dd8c956f1737a31eac5a6
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b27df34834abec2d25569eee84456b2d9147611c4f95f1efc167f07aaf053e94

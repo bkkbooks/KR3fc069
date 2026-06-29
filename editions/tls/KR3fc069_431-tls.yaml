@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/431
+seq: 431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母借一分通弦偶分母別借二分通弦用為二率則可折半以取分而分較小數乃不至於過繁一弧任析為幾分逐分作半徑弧分奇者自界角起作一三五七等分通弦諸線聯成心角界角形其式常與整分起度者相合弧分偶者須分二種一自界角起作四八十二十六等分通弦諸線聯成心角界角形其式不與整分合而與半分合蓋半分以全分通弦為二率所作各通弦皆偶分今借二分通弦為二率所作各通弦皆偶分之倍故折半仍偶而其式相當也一自界角起作二六十十四等分通弦諸線
+  hash: sha256:e859ce3b27ec4bead5530f369133ca655f84c0e3942aadee2f452354bedef307
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8195fcf44047ddb0a916254fe3a2381f4ab3c5de229edcaf706355fe8f5efd35

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/378
+seq: 378
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自乘二十五除之在本率應寄自乘而在借率則三率五率皆可除盡七率九率皆可以分母除而但寄分母至十一率始寄自乘以爲用三率亦卽乘法每降二位始增寄一乘依是以求定率則下位之寄分較少惟逐位等差不能盡齊耳易五分之一第二形腰率煦案圖在前頁第二形腰率皆耦檢前整分起度五分通弦爲二率五正四率五負六率一
+  hash: sha256:65400bdf5c5d5be9e8efb1fd245a760c8ea7f0e0a53b7c0804737349bf67f666
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a48305b4af8273669938886ec247a470a59b39ceaf4ed2cc406382e51e531dda

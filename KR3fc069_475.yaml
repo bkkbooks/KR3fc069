@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/475
+seq: 475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五率之七率相併減求得率之七率以其減餘乘用七率之本率借率乃以乘得之借七率減七率減餘卻盡即與乘得之本七率上下對列為定七率如是遞乘遞併遞減至求得各率減盡而止而連定率之諸本率即所求腰率也求耦率其法並同弧分奇求得率無寄分與借率相減時須通分視借率分母或用小分或用弧分而其等已齊者其借率同位自然同母相併不必通分惟須以借率分母通求得率然後相減若借率分母之等不齊
+  hash: sha256:014a2b36d01a5007970e8de77b57b29111942fff5acd6d533374d58101966aa9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:941832f610e9cf075b12f5c08cb693018cc6b432e9acdc58d69a413a08058a70

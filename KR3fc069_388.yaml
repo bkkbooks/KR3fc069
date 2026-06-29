@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/388
+seq: 388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求五分之三起度各形腰底率
+  hash: sha256:424434d3bbbb0889a90ede0c7ee202b2eb4ecd1f09000abb1b07142c2bc72271
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2ec92a17f3a40ac78a654097934c062a4389d1039a18afaa0c73b0fefe45b2fa

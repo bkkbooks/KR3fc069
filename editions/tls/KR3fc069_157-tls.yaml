@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡以餘弦比半徑恒若半徑與正割故以半徑自乘得一率一正為實以前所得餘弦率為法除之得正割率即第一形腰率除法式
+  hash: sha256:72613cb9089dc631e4f7871f5de4a19eb0a836ea67439b8d7a1e09f7ecf4a4f7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:30c067b2a9e4e8306da2dafea52d50ac2de7755f940a87fc8417f8da9b6452a2

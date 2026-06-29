@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/222
+seq: 222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奇行根層無數併積之根適當偶行故與求偶行直下積乘法相同除法差一數所得積亦差一乘又求矢術遞次本無四除此則增四除而與通弦同法法雖同意則有異通弦故用倍根增四除而倍根卽弧分倍矢亦因用倍根增四除而倍根非弧分乃弧之分子其分母則爲二以四除者實以分母自乘除也故遞次之四除通弦其常而倍矢其偶
+  hash: sha256:74ce63799440a4db11ae497a0601f17b469326ba7ab9774fe3726f52772e0d44
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f5e648b6b02f0e3d37a722d858839735b9d36457360868cd0bdfd0ed1563a3b3

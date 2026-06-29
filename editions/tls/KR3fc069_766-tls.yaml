@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/766
+seq: 766
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三位數又行數加二乘之三除之為四位數又行數加三乘之四除之為五位數如是遞以行數加一二三四等數為乘法又一二三四等數為除法得逐位數捷法併前行一二位數加本行首位數得二位數併前行一二三位數加本行二位數得三位數併前行自一至四位數加本行三位數得四位數如是遞併遞如得逐位數又法倍本位數內減上一位數加前行下一倍數得本行下一位數今求至十六行行十六位以起例不敷用者依法求之
+  hash: sha256:f04d085461d6e4d2cebd367b7764e938da91b69fe287e51ce3d53aaaedd83aef
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f65e89dd126e5e889f5775fb8fbf329bbc61003bdf7f7c708a3b15ad57c3ba70

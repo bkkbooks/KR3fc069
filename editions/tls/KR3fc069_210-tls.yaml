@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/210
+seq: 210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 倍根加六減六相乘倍根自乘減三十六其數亦同以乘四乘積四除之六除之七除之爲六乘積卽八率如是遞求得各乘積凡乘法倍根大加減數小則兩數同名乘得正乘法倍根小加減數大則兩數異名乘得負乘法又倍根自乘內減減數者爲正乘法減數內減倍根自乘者爲負乘法若求腰率則正負互易視乘法正負與所乘根積同名者得積爲正異名者得積爲負根皆帶半故用倍與斜行同其遞取兩數乘除及易用和方減較方之故均詳整分法中不煩贅論求奇行直下積卽心角形腰較率
+  hash: sha256:948fd662797a71ed6cac433a94fdc1d80f7430a7310bf72a30bd3f7dfdf220c2
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5dfbe8089a2226da54c913f8b108fb814578c3784113d0dff6783fb303b4b371

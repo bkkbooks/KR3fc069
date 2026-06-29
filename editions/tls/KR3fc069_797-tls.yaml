@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/797
+seq: 797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率小半徑心癸之較故比例亦同大小半徑也凡橢圓內容平圓平分一象限為若干分弧每弧作通弦於通弦上端作直截線引長之截橢圓界為若干分弧亦每弧作通弦其內平圓逐弧與弦俱相等橢圓逐分弧與弦俱不等復從平橢兩通弦下端作橫線與直截線取直角成各種勾股形其平橢兩相應之通弦所成勾股必同用一勾而股則平小而橢大其逐分大
+  hash: sha256:eb7b80d3969f43252d583de93f6089b0c14f7ccb0401c1df9a98d15042ca5c93
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a8e53a8ee903958ed42b4596cdf02ccb6d0065d86e392fe54df5818b8c70cdde

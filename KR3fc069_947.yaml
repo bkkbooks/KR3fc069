@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/947
+seq: 947
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立幂相併得以平方率乘其次層得四五併四層得七五弧分除之得二五為分子以全半立方比例約定母十六得二以通分子二五得五為定分子三用矢三乘幂相併得以平方率乘其三層得九以三乘率五六二五乘其首層得一一二五相併又併五層得十三一二五弧分除之得四三七五為分子以全半三乘比例十六約定母一百二十八得八以通分子四三七五得三十五為定分子三用矢四乘幂相併得以平方率乘其四層得十五以三乘率乘其次層得五
+  hash: sha256:7b2d3e36131be13dd1d5e3773cd4f6339a9966ec28ba70e4f81229dbc063e140
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:77713200fb89ac141299591539482b917a1f84ead022f1ff62e82b1cf42bf3c6

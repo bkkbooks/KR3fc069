@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1012
+seq: 1012
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 整分起度一半分起度一零分起度皆以兩等邊三角明其象遞加法定其數末乃申論其算法整分半分者均已告成零分者算法未釋尚擬將扭定四術及董氏杜氏諸術別為一冊詳解之但現在病體頗頓精力日衰弦矢術或勉力成之橢圓則不能善解矣此道無人能助可為將伯之呼者惟有閣下將來稍有頭緒謹當呈政尚乞代為整理之是所感禱
+  hash: sha256:5fd4b9236df262a3fa2d5e06a3a1bc4ce5a533bc66fa61b86fd92329c477ac0d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c11ddc19bf2dde566e8cdc9041107288ffa31afc23eee2a03391a1feb7bbeb81

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/757
+seq: 757
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法第二減差三因倍分加一視為幾取表中第幾行自首位起按位而下即其數為逐數乘法又視倍分日一為幾自第幾位起按位而下即其數為逐數除法以下皆同逐次遞以奇數乘倍分加一取行數乘法皆自首位起除法皆自倍分加一之位起案橢圓弧線無可驗驗之以逐分通弦和今求本數與求橢周同術所異者有加減差耳一象限析分愈多則橢弦漸和弧合加減差愈後而其差亦愈微析至無量分則橢弦和即橢圓象限亦無加減差可言矣
+  hash: sha256:67abea2d7b366a04242e3c25a890e779956ceb9f18b0cc610f63e6bfc2e8b883
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ada16a23892efd7edba63786babff37d0db56636c98983293ae0a54b94cd2c58

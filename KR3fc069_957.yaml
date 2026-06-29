@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/957
+seq: 957
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五減本數分子得八萬一千五百九十五五以上均與各數定分子合依前遞推之例第二差應起四因弧分加一之第十三數遞加數應用三因倍分加一之第十九行而除法仍起第七位今第十三數之一差減數六十萬八千七百四十一以較定分子應加五而應加數與第一差之比例若五與六萬七千二百九十八正與遞加數十九行首位一與七位十三萬四千五百九十六之比例相合乃以九十行自首位起取十三數以下第一差按位挨次乘之又自七位起挨次除之為第二差第十三數乘除得五加一
+  hash: sha256:8f7e7cf7dd7cfc1520dd8e708242d7aa000c35e4cd7dc641d8252b156fc820f9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:28416ed08d90a2ef424a351450a9728448acb09939ad462bcae7dce6c6e3517b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/921
+seq: 921
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率七八一二五十五乘率三九六二五於是以兩用矢相併得即以二為第二數分子以弧分二乘全半根數比例二得四為分母以第二數定母二約之得二以除分子二得一為定分子兩用矢幂相併得以平方率五乘其首層得一併三層二得三為第三數分子以弧分二乘全半平方比例四得八與定母同即以三為定分子兩用矢立幂相併得以平方率乘其二層得三併四層二得五為第四數分子以弧分二乘全半立方比例八得十六與定母同即以五為定分子
+  hash: sha256:e43db75af3c33b157aaec90a0dab35f3a8d24fc70515bcd9f9273f4be9ea5211
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:958438deb97a6669ac91e61fee30e195ca1460857b32ff130a53c92f28fc7783

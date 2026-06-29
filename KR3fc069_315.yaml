@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/315
+seq: 315
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形腰求第二形腰即以求第一形之除法為除法又分母偶分子為一者加一得二取半分起度第二形腰率分子為三者加一得四取半分起度第四形腰率為乘法乘除半徑得第二形腰試圖以明之火土本弧四分為分母界土一分界火三分為分子心甲子即今所求第一形與心火土形同式心子心甲為兩腰界子為一分弧第二形腰界甲為三分弧第二形腰作土已土戊兩線即顯圖中各形與半分起度諸三角相當土己丁當彼第二形心乙丁當彼第三形土戊乙當彼第四形彼之一分今則為二分故借
+  hash: sha256:569a38d0f6df072dac763958a6e91c064dc73d60d7cb182048166ce661280e4e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:fc734a2f3d36958de99eadef2eec1dd3c9b834403eeb2f3d01a1511c9bb024b1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/374
+seq: 374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率一正心丁降為二率一正四率三負六率一正其入例亦同作圖較便求五分之二第二形腰此式乘除法亦各降低一率凡零分諸腰率皆以整分半分之腰率為宗奇則用整分耦則用半分蓋整分以一為分母奇之始也半分以二為分母耦之始也一與二相須兩奇與耦互錯零分之諸率遂於是乎生觀於借率法可以識一奇一耦之情矣易五分之一與四第一形腰率借弧以二率下正負各耦率與
+  hash: sha256:7a1cff73db3e03a608591e2e850749d22551ade1abc36212e5c3b5f9ce4f1507
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b91e333d578c7cbd43ab0483e89535fd7ab871e38f4dafaf1f9609ff17784263

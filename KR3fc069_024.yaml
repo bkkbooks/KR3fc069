@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷一整分起度弦矢率論卷二半分起度弦矢率論卷三零分起度弦矢率論卷四零分起度弦矢率論原本不全今補卷五
+  hash: sha256:dc6f2f633dc4abf6c17521e0e842b25306078889096741134d6125a842dd9f73
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:bec1906fe1eb13675474ba80205d7dcd53128e4e3d95f9b8738d7ffdd6a1e13f

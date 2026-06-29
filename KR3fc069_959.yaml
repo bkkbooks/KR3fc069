@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/959
+seq: 959
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 差減數得六十萬八千七百十一五五第十四數乘除得六五加一差減數得一百十三萬五千六百三十一五十五數乘除得九十四五加一差減數得四百二十三萬七千六百四十三二五十六數乘除得五百七五加一差減數得七百九十萬六千九百五十八七五十七數乘除得三萬五千九百六十加一差減數得二億三千六百六萬三千九百十五十八數乘除得十三萬九千一百二十八加一差減數得四億四千四十九萬一千八百三以上均與各數定分子合依遞求之例第三差應起六
+  hash: sha256:2bde0bdcfb7c91acc89def8509b33cf1ee4d454027d6b0faae1406377f9ed3d3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:687b0e492c9e21375269b16001e1f1cf920808a92e4474069726dd52e363b341

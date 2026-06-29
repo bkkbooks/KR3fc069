@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/372
+seq: 372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與四第一形腰心土一率一正心丙一率一正三率一負相乘得一率一正二率一負爲實心丁一率一正三率三負五率一正爲法以法除實均同前法求五分之二與三第一形腰此式法同前式實則心界心土皆爲一率一故兩相乘仍得一率一正也求五分之一第二形腰乘除法各降一率心界降爲二
+  hash: sha256:d5457160312e4a609f8685ed9994ac2d65f53731fb24f9c5c2b88d336910389b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:898c60191cb4a6272a4c74762e2c4d59346e1cd0e981184193ee86335d8a7f18

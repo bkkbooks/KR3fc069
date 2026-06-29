@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/449
+seq: 449
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率二之分母與半分之分母兩相雜糅當合兩分母用弧分為分母法視四率以下半分分母乘數減一以借弧分母如乘數以乘之分母遂變為弧分其四率以下復以弧分自乘乘之以齊其等半分通弦率自六率以下分母均遞增四乘惟四率僅弦寄自乘較少二乘今雖變用狐分為普母而寄分乘數與原率同故以分母自乘通乘之其等乃齊弧分不論奇耦其乘法借三率均用整分倍矢率率皆實數其位亦有盡而即為借弧通弦自乘一率除之之數其寄分須視通弦以為準弧分奇而通弦分母用小分者視小分為分母自乘數則借
+  hash: sha256:40615e02399e6d4c184fd9922cf7749e1685a87d1ff207fe7ec1ee4db3c7de5e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ac772676a0d1dab637d35621f04dee9de436021b71f3aaa0aa58ab69877c5af9

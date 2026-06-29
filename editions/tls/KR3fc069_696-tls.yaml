@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/696
+seq: 696
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蓋鄂士推闡四元於四廉正負之理深入三昧故觸而即通如此爰取鄂士稿補列於後命曰補第一術補第二術得此而術乃大備廉以誌兩人心得之同云爾按此四術者煦皆與有力然皆先生之發其緘也
+  hash: sha256:90a735c96422826dc0a119b9c9fa06e2b3a9c31846057b15534fb5260da11f9f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:427eb29d79798530722bc57382386856eb8e0c60c6eb082b06250b288318c263

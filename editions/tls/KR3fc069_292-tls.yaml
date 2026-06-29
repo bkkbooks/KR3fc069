@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/292
+seq: 292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得八正分母不受除應增寄一乘又視立積較根增寄三乘今求四乘積較立積祇增二乘應齊其等轉以分母乘之得二十四正為第二行四乘積增寄分為六乘如是遞以正負根乘之遞加數除之同名相乘得積為正異名相乘得積為負奇積列第一行耦積列第二行得兩行積迺求逐行積視平積較根寄分增一乘因以分母三乘次行根得六正以加首行平積一負異名以減為加得五減數大易為正為第三行平積分母乘第四行根得十五正以加三行平積五正得二十正為五行平積分母乘第六行根得
+  hash: sha256:07d98b0ce2deb533a1c147637c3761e3dc108c90ab2a4603c7bc6ca6a6d393d0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d1a8a161a3ee1d26dc05cd7788fbdded80c9508b7930e44d40626465c4f41af1

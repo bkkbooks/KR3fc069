@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/587
+seq: 587
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自乘減遞次之分母自乘今分子為一自乘仍得一故可省其乘而遞次各減一又第一數本有分子之乘均可省去既不用分子故亦不用分母但名弧分術中所稱弧分即分母也其乘除加減亦不外乎前所定二本術又求弦宜補偶分求矢乘法無煩四倍除法可省四除又論曰董氏立此四術以方錐堆釋之方錐堆亦出於三角堆即整分遞加數也故所釋弦矢率祇有倍分倍分中弦率亦祇有奇分至析分弦矢第假倍分之率轉相校勘以定乘除而已顧使不究所由然而但論其術則四術頗多疑義如倍分術
+  hash: sha256:00864fa900877fc5ee1731b5e56c9e328d23681df44fbc3aabf0661205c0afc0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a4ba70ea9b70cd6955682d6a210626151c0ba431b283c661012d8acd1de42b5c

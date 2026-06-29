@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/135
+seq: 135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求逐位積順而左則相加逆而右則相減以本層爲本數以上層爲加減數減法同名則減異名以加爲減加則名從本數減則本數大名從本數減數大名從減數正負兩根閒居中直下爲第一行自此而左首正根一行爲第二挨次爲第三第四等諸正行自此而右首負根一行爲第二挨次爲第三第四等諸負行根積數左右方兩兩相等惟正負不等而亦有定率左方自首根首積之上位積皆正其下位直下皆一負一正相閒右方根一層常負以下逐層一正一負相閒平列向左遇各首積則斜折而下其斜行
+  hash: sha256:6cb7ea2ca2505c4d263d3c5f6ae933de79d8af60599f66d036de9bc3c57c2703
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:04c87a405684512973d3c62282a52bea162cd1523fcfcbe7684a937e7a9b3622

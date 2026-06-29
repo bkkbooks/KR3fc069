@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/955
+seq: 955
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挨次除之為第一差第七數乘除得五以減本數分子得二百三十五第八數乘除得三五減本數分子得四百二十五五第九數乘除得一百二十減本數分子得六千三百十五第十數乘除得四百八減本數分子得一萬一千七百四十七第十一數乘除得二千四百二十二五減本數分子得四萬三千七百六十六五第十二數乘除得六千五百八十三
+  hash: sha256:1755c183edb75def29b065b2650966967926eaf249362113f76539845a6b6586
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:60c8128a4625cb22617ca60ce2436ca39efcd429432083bd9bbdb4f202d409b7

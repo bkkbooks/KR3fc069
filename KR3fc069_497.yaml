@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/497
+seq: 497
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分子其耦而折半仍耦者分母折而耦分子必折而為奇是即耦分弧弦率之奇分子故耦分弧常於弧分之倍而得其銜率所以然者弦率為通弧之弦而矢率為弧背之正矢而非通弧之矢也若概以通弧弦矢論則通分起度所得為一分通弧弦二分通弧倍矢三分通弧弦四分通弧倍矢弦常得奇分而矢常得耦分半分起度所得為一分通弧倍矢二分通弧弦三分通弧倍矢四分通弧弦矢常得奇分而弦常得耦分是合整半分兩相對待也即零分亦以奇分弧與耦而折半則奇者
+  hash: sha256:fab1c4699b2755bf6ae4bcca7b86fc048c93843b40380adede4fedad9703e705
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1b0f32833fdb833998d4fec9029505840c1fe055dee9d166ce0bb69f39da27d3

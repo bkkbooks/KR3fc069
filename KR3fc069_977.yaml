@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/977
+seq: 977
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之例第二差應起四因弧分加一之第十七數遞加數應用三因倍分加一之二十五行而除法仍起第九位今十七數一差減數二億九千二萬一千八百九十五以較定分子應加一而應加數與第一差之比例若一與一千五十一萬八千三百正與二十五行首位一與九位一千五十一萬八千三百之數同乃以二十五行首位與九位乘除十七數第一差為第二差得一以加一差減數得二億九千二萬一千八百九十六與定分子合通計求四分弧加減差其起差數及遞加數所用行數亦與一
+  hash: sha256:f94f8a40a7470c446d9d6ec1ec189f65fb277197224524aa4528fa7c163e020d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:79cf2af38003defe6c71a63a149d5a3fcf54565ca01e1d18789bdce0acae4a56

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/82
+seq: 82
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一層數遞以相連四數相乘二除三除四除之得三乘積一層數如是依次遞乘遞除得多乘各積數每增一數乘即增一數除所得者即增一乘之積然求積必先定根此相連幾數有根在右遞取左位數為乘法而得各積者其積為自根斜左一行線所聯有根在左遞取右位數為乘法而得各積者其積為自根斜右一行線所聯有根在中遞取左右兩位數相乘為乘法而閒層得積者其積為自根直下一行線所聯根在右如三角堆求積是法以根加一乘根二除之得平三角堆根加二乘平堆三除之得立三角
+  hash: sha256:6462c210a47614eab6d6cfe57ef5913a22650396561dd36be1cee4ae0d1a1681
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5b878f65ffbac53a4c4ae809125b55a94561ef5e60640533b44f30c8b1ce5a92

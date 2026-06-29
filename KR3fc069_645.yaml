@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/645
+seq: 645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 細弧其弦矢可互求即弧與弦矢亦可互求此董氏倍分析分四術實為乙九術之原今更以分子母核之而其理益顯蓋弦矢方邊也弧圓線也方有畫圖無盡分之設也可有盡而亦可無盡假其有盡者察數之變而還其無盡者得理之通弧與弦矢乃無可復遞此割圓之能事至九術而極而非有分子母亦無以啓其祕而發其扁也
+  hash: sha256:b829997b6dac435ead2e56ca9c7d64bd2c53662fa2edc9c8110bcefbad020ce0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b245f35cd3f574c3992fc88627ef7515c6238e3e38d3e20631c118cfcc70a3e8

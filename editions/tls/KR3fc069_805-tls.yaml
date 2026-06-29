@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/805
+seq: 805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九率五乘之八除之為第五數負如是遞求乃併諸負數減正數而得方根其借小積而以小積除減積為乘法者係以小積借根為一率本積內減小積為三率自乘數一率借根除之為三率求法以一率為第一數正置三率二除之為第二數正置第二數以三率乘之一率除之得五率一乘之四除之為第三數負置第三數以三率乘之一率除之得七率三乘之六除之為第四數正置第四數以三率乘之一率除之得九率五乘之八除之為第五數負如是遞求乃併諸正數又併諸負數減之而得方根此開平方
+  hash: sha256:f6560eefedcec71835823f94da3a6664993e77991cdce3df80205c5f9f5cfb8f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9ab1ea5c9b288ba4656d08ca7f314ebbde3380e4a1e5e26ef6498356917ec1af

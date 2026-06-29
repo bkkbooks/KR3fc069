@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 整分起度弦矢率論卷二曰半分起度弦矢率論卷三卷四曰零分起度弦矢率論卷五曰諸術通詮卷六曰諸術明變隨將卷三編定選課畢復阻於病今夏始將卷四著有六紙不料病軀重感濕熱兼肝乘脾幾不可救醫治兩月無起色乃又重感燥火致臟腑無不病者遍體血脉不行醫盡束手自佑殘燈微焰斷難久延而是書從此擱筆矣缺而不完世間事大都如是何必戀戀所兼者負緗藝諄囑之心耳然書雖未完而零分各腰率零分遞加數卷三中已衍成其式惟義賾緒繁擬分條詳論於卷四業論至易
+  hash: sha256:6474b19fd9e09467d46748084a435292cd6eabd0e87f8bc8ed56e2a3786a8586
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:eb312f97ccb5eede5e497de5cde37e925baa9fcc715173bcfc8c693c2ccf2806

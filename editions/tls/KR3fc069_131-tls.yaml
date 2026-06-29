@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/131
+seq: 131
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平積得十五爲次位平積復四乘三根五以加之得三十五爲三位平積如是順加而左得逐位平積皆正又四乘首根一以減首位平積餘一減數大易正爲負爲首位外平積復四乘負根一以減之餘三減數大易負爲正爲次位外平積復四乘負根三以減之異名以加爲減得十五從本數爲正爲三位外平積如是逆減而右得逐位外平積立積寄分較平積多一二除迺二乘次位平積以加首立積得三十五爲次位立積復二乘三位平積以加之得一百零五爲三位立積如量順加而左得逐位立積皆正又二
+  hash: sha256:4e34e0a7bec1a5e98b7d357a39e53646961cb4d3df3e39d21444efe1895d61aa
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:bb480556cf416729e6c2aa8f3a7e9151dda1f1a705a06c417c0106cc300f5060

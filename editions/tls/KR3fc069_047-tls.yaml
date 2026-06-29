@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第九形腰二一率乘除之得底辛壬第八九形腰底相加得第十形腰界壬第十形腰二一率乘除之得底壬癸第九十形腰底相減得十一形腰心癸十一形腰二一率乘除之得底癸子第十十一形腰底相加得十二形腰界子十二形腰二一率乘除之得底子丑十一二形腰底相減得十三形腰心丑十三形腰二一率乘除之得底丑寅十二三形腰底相加得十四形腰界寅
+  hash: sha256:7adc7b17bd9af6244f557a8ed1f06486a98c5d4150e972a1c0e48ad5be1688bb
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7f518c1a08153683399ad80dd8aa9f904447e29d758a38fea0adc2ee2e74b082

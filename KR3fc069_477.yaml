@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/477
+seq: 477
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者須視寄分乘數最多為準其較最多乘數差幾乘者如乘數增乘之然後相併復以最多乘數通求的率然後相減弧分耦求的率寄二為分母視借率用二為小分者則分母相同須照小分每率增寄若干乘以增乘求的率則減併時無須通分若借率分母不用小分而變用弧分為分母者則求得率亦須變用弧分為分母法視求的率寄分母者以半弧分乘之寄分自乘者以半弧分自乘乘之餘倣此仍照原寄乘數分母遂變用弧分其借率減併時亦不
+  hash: sha256:e8587e6c6c4330bca8582c0a27e35f704ca3134cc144f1d75d7a52c0f6ca5c7a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:03617d25b039f1976344312f1bcfeed7b2ab344dea9267f32471c8fbd0838348

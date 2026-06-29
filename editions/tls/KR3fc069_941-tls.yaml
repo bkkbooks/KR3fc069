@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/941
+seq: 941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與五位乘除第十七數第三差為第四差得一以加三差減數得八千五百二十二萬九千六百九十六與定分子合統計第一差起第五數二差起第九數三差起第十三數四差起第十七數亦以二因弧分加一起一差四因弧分加一起二差六因弧分加一起三差八因弧分加一起四差與一分弧同第一差用遞加數第五行各行除法皆起第五位亦以倍弧分加一為行數及除法位數第二差用十三行第三差用二十一行第四差用二十九行亦以三因倍分加一五因倍分加一七因倍分加一為行數均與一
+  hash: sha256:66760b6c5fdf7b6c2c24d56f7f9175c9a1eae8f4aad30fa28baa09ec12b6dd2c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a762f11c3b39692a86a3c122ba6c376e66b6a8f22ab512f4e682efc3dd18369a

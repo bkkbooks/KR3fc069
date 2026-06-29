@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衍之則有多一命曰根差第二行亦起一遞加首行根差之一成二三四五等數命曰根第三行亦起一遞加第二行之二三四五成三六十十五等數命曰平積第四行亦起一遞加第三行之三六十十五成四十二十三十五等數命日立積推之三乘積乃至多乘積均依是遞加可至無盡左右諸數復兩兩相當而等由是左線所聯者根歸根積歸積右線所聯者則為同根之各積此遞加本法也是圖祗一遞加法極整齊平易而包蘊正自無窮且畧言之如八卦原於一畫首層為太極祗一次層為
+  hash: sha256:3726a26e4d63ad06b6f20e6d613e080bab8c4b7118674f573269dbd3a8fc7c4f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:08f034c48f2740bae69819b4946557c7579f5c7d69639bcf8fd389ebf78773ec

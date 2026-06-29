@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/427
+seq: 427
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而後遞加分母以生諸分子能生者為分母所生者為分子固不以大小論母子也分子母可約者宜約從小分故分母偶分子不得復偶偶則可約分母由兩數相乘而得者此兩數不得為分子由諸數遞乘而得者此諸數亦不得為分子為分子皆可約也分母一而分子有兩一為正一為負兩分子之和即分母其較即起度通弦弧分此指正大於負者言若負大於正則為負度通弦弧分整分第一形居圓內其形最小半分第一形溢圓外
+  hash: sha256:6a36b44158e64df3553607f0a2dffa59cad939a2b17c5998f4b81cef2f2de343
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:07fe0b2d4fe34806c44b103ba5c80c1bcc8b90c1bbb929c98e8c93b8e8109728

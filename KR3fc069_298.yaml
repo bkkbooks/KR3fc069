@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/298
+seq: 298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形腰率即第一行數第二形腰率即第二行數推之逐形逐行皆兩兩相應雖正負不盡同而其不同自有定率但如半分遞加數所定易正負法易之自無弗同矣故以遞加數兩耦行相併亦猶界角形兩腰相併可得逐度通弦以遞加數兩奇行去根差相併亦猶心角形兩腰減半徑相併可得逐度倍矢如法求得各弦矢率列後三分弧之二起度各通弦率
+  hash: sha256:c23fe064bc40130e7f5cfe1bf0343a3d5c6ee3e9f1d6ee109e268faff7027243
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:77ac2df6856a295a9852460904e9334e15385551026dab5c3ee4690d74ef66b7

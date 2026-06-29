@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/445
+seq: 445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率轉以分母乘之寄分母自乘於右八率更以分母自乘乘之寄分母再乘於右下仿此此皆每降二率寄分增一乘其等巳齊求用率時不須通分也若分母非他數自乘或相乘而得者則四率以下末率以上諸率數分母皆可除盡惟末率不可除則寄其分母求用率遞乘時非實數乘實數者併而置左實數乘寄分者併而置右分母乘左與右相併為得率寄分母於右實數乘寄分者併而置右實數乘寄分自乘者及寄分乘寄分者併而置右分母乘右與右相併為得率寄分母自乘於左下仿此此雖須通分而
+  hash: sha256:dde0c4900a51350f8b843455789062ff18114ce7b94e8e3f27949d67b10a2385
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3b5667f52df397fe76d214c441c8fcb6cabea1e638ec2cec543c8fb349ed6c8d

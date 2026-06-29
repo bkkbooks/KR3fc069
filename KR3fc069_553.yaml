@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/553
+seq: 553
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既為實數之半遞次乘除所得亦為諸率實數之半又分子母既為根層兩數之半和半較則乘法不加四倍除法亦省四除乘法中乘分母自乘者挨次以奇偶數自乘除法起於三除亦挨次以一奇數一偶數遞除也第一數常為正第二數下為正乘法所得者前一數正者正之負者負之為負乘法所得者前一數正者負之負者正之但有正數併正數即所求矢兼有負是併正數與併負數相減即所求矢論曰以乘法正負定各數正負俱等通弦惟遞次
+  hash: sha256:7c9c63bc0ce75ff95c695e32c2a05bad5e411c5f208436a362c1e8cbe010b3d5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:61c5e575ed6d3da7c89ad3d68e453ca4d427c7e451e562297d135914da066ac0

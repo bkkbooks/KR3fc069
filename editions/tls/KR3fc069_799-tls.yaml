@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/799
+seq: 799
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小兩股之比例皆同於大小半徑之半例如圓巳乙為橢圓象限甲乙為內容平圓象限甲心心乙均小半徑巳心為大半徑如前平分甲乙象限為四分弧作四通弦於是從申至庚從未至辛從午至壬各作直截線亦截橢圓為四分弧仍作四通弦復從通弦下端作丑壬及寅戊等橫線成各種勾股形其第一戊午乙與壬午乙第二丁寅戊與辛丑壬第三丙卯丁與庚子辛第四甲辰丙與巳癸庚均為同用一勾之兩勾股形其兩形之股必橢弦所成者大而平弦所成者小其壬午大股與戊午小股之比本同大小
+  hash: sha256:8e134dfa989df18f42a698a2eb148cf74a5aaebc8f2d6e5a1602be48a7e706f2
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5025bc2d0ff1a19760e495b0684650a76b8a361afcd6af0df7211176c96146a4

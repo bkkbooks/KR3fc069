@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1006
+seq: 1006
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 于束髮聞先生精於算而閉門養疴未便輕謁丙戍秋予補四元玉鑑細草成假錄于吉甫王吉先生高足也先生因是獲覩予書卽命駕見過引為忘年交顧先生十年以長且夙成名得未敢安也然自是常相過從遂共定開方捷術而予對數簡法亦過蒙賞鑒譽戊申冬先生來書懇到詳勉無所不盡未言弦矢互求橢圓求周二種為愜意之作恐病軀不及葴事乞代整理彼時方謂殆謙讓語未以為意逾年而先生意逝矣去歲哲嗣豕霞大兄以遺書象數一原囑校
+  hash: sha256:d253260775d996a456aaf327990464bb64dc36ef2706bc4a8c614cccc3f614cd
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:217ec64eff88737dc8c6c29d33d3bf6180b38053f48c0d232e75ca78f537c5c7

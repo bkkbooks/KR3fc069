@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/473
+seq: 473
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 借弧通弦為二率而非把弧通弦為二率今借弧各率均有相當之本弧各率則可變借率為本率而率於是乎定所謂定率也其法求各奇率除一率為本弧借弧通用無庸變易外視求得率之三率若干以乘用三率之本率借率以乘得之借三率減求得率之三率却盡即與乘得之本三率上下對列為定三率復以借三率之五率減求的率之五率以其減餘乘用五率之本率借率乃以乘得之葉五率減五率減餘卻盡即與乘得之本五率上下對列為定五率復以借三率之七率與借
+  hash: sha256:6b427c0e11216e82c0bfb74784ce7ff5a94b4cef0a6e1617885a970c3f4c842f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d69091a725c92134dd44b5fa4527e5e0b6011332823768748420ca7ae0f762af

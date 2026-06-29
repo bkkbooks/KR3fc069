@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/855
+seq: 855
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 析象限為四分則中前一分用一百十二度半大矢卽半徑多一二十二度半正弦甲四分弦用兩種正弦故以甲乙別之中後一分用六十七度半正矢卽半徑少一二十二度半正弦甲中前二分用一百五十七度半大矢卽半徑多一六十七度半正弦乙中後二分用二十二度半正矢卽半徑少一六十七度半正弦乙併中前後一分矢又併中前後二分矢兩數相併得四半徑弧分四除之又半之仍得二分之一大率弧分不論奇耦其中前後同分之用矢相併常得二半徑而奇分弧之中一分用矢
+  hash: sha256:b1dd7833b6ac433dafb8724ffa18c3c3a87b9425ea941ca28ea8b49cd6ecfd6f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:0878299ebd1feb655b1ffc95a3cf1c6662d4caa5e4c2118ee672ba103092814a

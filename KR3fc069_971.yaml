@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/971
+seq: 971
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本數定分母為首層本數定分子為次層四分弧定分子為三層兩相比較其第八數以上定分子相同無加減差依遞推之例第一差應起倍分加一之第九數而遞加數亦當用第九行除法亦起第九位今第九數本數分子應減一方合定分子而應減數與本數分子之比例若一與六千四百三十五正與遞
+  hash: sha256:14e1dc94095334224473fe4453e37ae117497f2978af7b8c65201fa176fc3cb5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4b3e86ec6e949de78c1aca589ba473b4064593c5364ffb433ae97d600c055884

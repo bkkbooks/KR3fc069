@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/593
+seq: 593
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以通弧為第一數寄左論曰第一數本宜置通弦以分子乘之分母除之今極細弧通弦乘分子即原設通弧分母又為一不須除故即以通弧為第一數次以半徑為連比例第一率通弧為第二率二率自乘一率除之得第三率論曰求三率本宜以極細弧通弦為二率自乘之一率除之得三率今用原設通弦代為二率是二率為分子乘過數求得三率必為分子自乘乘過數
+  hash: sha256:2ecc558975b46fe4c1b15e4932cb07d5765553f0d80489a430951caba6380689
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7298068b9ba031846999b34c46b1f05d204b2e4de27bb1b28bc7a3f314153ab1

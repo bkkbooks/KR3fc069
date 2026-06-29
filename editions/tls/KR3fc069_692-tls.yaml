@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/692
+seq: 692
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為乘法此兩種乘除相須為用有連比例以引其緒復有遞加數以就其閑平方如是諸乘方即莫不如是也苟明乎其故以御他術當亦無不可通而開方乃算學初階廉雜商難得此巳無復慮好學深思者本是術而引伸觸類焉其為用可勝窮哉先生專刻開諸乘方捷術補術論曰初得前二術未經校驗晤鄂士戴君語及開方余謂諸乘方之根積連比例也其廉率遞加數也若以遞乘遞除開之諸乘方可通為一例鄂士以為然翼日治定前稿將以質鄂士而鄂士巳有見於此簡示兩術
+  hash: sha256:76137fadcb58ecfd31a88bbd24965eed0ea1f8c079aad2a32b727e2a44cf2eac
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c678208d69be8b1e3061b5e12af148de616a9bf7d836317a47a40e1b18c566b4

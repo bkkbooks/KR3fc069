@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十四形腰二一率乘除之得底寅卯十三四形腰底相減得十五形腰心卯十五形腰二一率乘除之得底卯辰十四五形腰底相加得十六形腰界辰十六形腰二一率乘除之得底辰午十五六形腰底相減得十七形腰心午十七形腰二一率乘除之得底午未十六七形腰底相加得十八形腰界未旣得眾形腰底率迺求逐分弦矢率求三分通弦以第二形腰界乙倍之加第三形底乙丙卽界坎三分
+  hash: sha256:07ac16b00b2766f815d1fdde634488353487df4f3d31da0a8886d29497f65c33
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c15cee65e0720240e755b76e40c9c267f603adc348e6109870aaea4accf4e92e

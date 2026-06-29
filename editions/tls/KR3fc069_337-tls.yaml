@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/337
+seq: 337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定率分又以分母除本率得二率一正寄分母是為用二率上下對列右線右乘法係三率仍用求第一形腰之乘法列相當率左至求各用率及各定率法均同
+  hash: sha256:3d9e66355ba3ea0eaa06e7666773a54e40bb0477bfee27f6286026994012f012
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a808f3a748c805890d6a054a660a7938ba60dd87e35e34193fa0dc74852767f2

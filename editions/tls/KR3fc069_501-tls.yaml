@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/501
+seq: 501
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦矢率分子以全惟耦而折半仍耦者則不待交互而自得弦矢率分子之全此以正銜正矢論弦矢率則然若今所云弦率乃通弧之通弦而矢率乃弧背之正矢故其子母全半之不同有如此求自根斜左一行積分子遞加分母為諸根分子置根分子以分母除之為根數根分子加分母以乘根分母除之二除之為平積根分子加倍分母以乘平積分母除之三除之為立積根分子加三分母以乘立積分母除之四除之為三乘積根分子加四分母以乘三
+  hash: sha256:b00a601b40a007d2ee4c5340e1041e2d79d37c09e71bf7b9bf2d03b421017617
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:bf33f576e1f0a575fd9b86cf81c6018fa36baccbd6149d5b93d1df1bc1a2162f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/354
+seq: 354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四階弧之三起度各位矢率
+  hash: sha256:f14a0cedc0693b57e20815940ad5524fdb5f64cb2e0fc57b1601b49c7afa11d1
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1ef4af6174ed090d3aa2e0b45bc303547ecbe155d72bda1b2eee926cf6bda7d4

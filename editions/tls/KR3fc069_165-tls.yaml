@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/165
+seq: 165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以上各形腰底率正負加減接與前遞加數異而得數則同者何也蓋加減本於正負就腰底率正負論自第一形一率第二形二率第三形三率按形以次
+  hash: sha256:8af332b701f6cfcdb111104eb158b01aff49553ac58952f9f94ea088d68779d4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7bb0960f5749a27ffd1b087cbd3080b4a34ff2f1353d331dd0934dda192eb310

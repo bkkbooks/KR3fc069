@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/356
+seq: 356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四分弧之一起度各通弦率
+  hash: sha256:e8fbed495d1ade04bc5fc7e148b5cf56720278b4e4cebdeec1ee8f5547ea387a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:87b3087196b1839f006a0ee9953f3a2f2895a5f8328b589faa2c50660353e059

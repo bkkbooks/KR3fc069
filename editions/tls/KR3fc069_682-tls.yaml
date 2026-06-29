@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/682
+seq: 682
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 零而根徵強惟零數共二位上一位滿九共三位或四位上二位滿九及上三位滿九者則增其末位之零進為一而根得整數按是二術互相為用如術推算乘除一例而不煩惟患減積大降位稍難須求多數耳減積之大由本積稍遠於借積然本積居表中大小二積之間去小積遠去大積必近則用第一術去大積遠去小積必近則用第二術兩者相資其術始備且一盈一歉一減一加不易中自有交易者在此亦陰陽對待之理寓乎數中而不容有所偏局也補第一術
+  hash: sha256:07f9e6c521b0e2e48f03e2340fdeae9ddab9ae011f91b5c896cb206d058a6ab5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:52cee6a7f71a6078ff6f6c19ca6940a2e79e4599cf30fa198f8639452288a79a

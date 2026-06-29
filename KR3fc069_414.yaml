@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/414
+seq: 414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分弧之三起度各通弦率
+  hash: sha256:29fe0fee6c926390538445d05ea9c926d4f3d9d9b8f9da8fa88736343dff4a62
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:62c05674bf46cd5d43b86a378ed570e47b2265dd8cff981790f362eaab1c54e4

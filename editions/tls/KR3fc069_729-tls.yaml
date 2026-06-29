@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/729
+seq: 729
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以上遞乘除算得律數與開方所得者脗合緣是術
+  hash: sha256:a99225cabece335fb4e0c0635c40a1141265e345bf44a8b11b7de371bdd5bd2c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b0ab17a43092f87c640b4d96eb45c70dc93697207eff7f9fb48b5fb1a6a2e1b4

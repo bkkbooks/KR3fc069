@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/118
+seq: 118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得奇而合零得耦或半耦得整而半奇得零實備於遞加一圖而留其位以相示玩圖者觀其會通可也作半分起根遞加圖與整分異者大端有三一曰數別正負整分根積皆正半分則以反減不盡之故兼有負根負積乘除加減宜如法以定其名二日位分內外整分逐行之位至各首積而止半分因有負積故溢首積外首積之上為內位積皆正下為外位負正相閒以至無盡三日分列母子整分所列皆實數半分則宜列分子而寄分母位愈降所寄之分亦愈多今準是作圖以明其法於後
+  hash: sha256:d0316b2b3e25aa1ebc8ec68598c40dd1032459b5a7f64ea1b5cc73550371bb7e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9b90d9b6a7f11ebb7c8a85c3e64a878fa85255eaeed7faa5eba12eddf11f01d9

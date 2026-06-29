@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/652
+seq: 652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 難知別立三術引其緒妙在用倍外矢後二術遞次乘除其比例不離乎零分遞加求橢弦和術又別舍一種比例默具於整分遞加圖中而昭然相示者於是融兩種比例為一比例以立本術至加減之差亦出於數之不得不然以其限於分故若分極於無分即差入於無差而徑求周之術始定向思闡明之而病軀不能從事姑發其意以俟知者此皆變之一隅也不知變無以顯從體起用之神知變而不知一無以全攝用歸體之妙余故曰會一原者始可與論百變矣
+  hash: sha256:8471de2b443b2a170a11af546f43ce16655ad1a394a1665e935019830d5fe471
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d1beee882511d1ccaf6a61a2b472ab2c41fbbc6c25cc2f87042435c0d0571a41

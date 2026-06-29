@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/272
+seq: 272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定分子母而乘除之得各定率其上方橫列者卽三分弧之一第一形腰率也前圖第一形腰率皆奇故取奇率為用率今圖第二形腰率皆耦故取耦率為用率第二形有兩祇須求其一今求三分弧之一第二形腰以之減第一形底卽三分弧之二第二形腰也至乘除易率之法均與前同不煩多贅惟求用率之指率逐位遞乘而多易於淆混今為約定其乘法乘有兩數列左右兩行間空一位空位作圈以存其率左右兩首位相乘為得數首位左首位乘右三位右首位乘左三位兩數
+  hash: sha256:bc4327eb48b4fd727c3a4cccb9d5c1676ff0edbd4730ba90e5f74037b6fe39ef
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ea3d1a7947ad4b180737a55f780612c8e1dda709983ec534dbb151c01e299cfb

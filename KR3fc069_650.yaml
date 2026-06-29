@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/650
+seq: 650
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢唐項名達著諸滿諭明變錢唐戴煦校補象百變即數亦百變全體達用故無一非變全用在體故無變非一非體一而用變也前所論象為弦矢正不惟弦矢而巳一度中八線皆是象豈遂不與數會者又不惟八錢而巳盈兩閒耳聞目見身觸意知者皆是象豈遂不與數會者今將舊所定弦矢求八錢術開諸乘方捷術算律管新術列於卷中是皆從遞加數轉變而得末乃列橢圓徑求周術因其淵奧
+  hash: sha256:2d1eeab0fc69f68e937d427cab3b19778b3ec46da77fc6209bb6c2aa03d74f06
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1b3b2603ae45b2bd22a84afc06fb4d55a6fe411212ae3dd90c9d214025ea4f6e

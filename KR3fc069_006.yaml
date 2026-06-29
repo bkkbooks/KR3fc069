@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡四曰求倍分弦矢求析分弦矢審定乘除法以明率數倍分率圓所以通方也析分率方所以通圓也其釋倍分率以方錐堆而方錐堆實出於三角堆弦之二率即兩堆根相并數四率印兩立積相并數矢之三率即兩平積相并數五率即兩三乘積相并數四五率以下多乘積以還莫不如是故遞次乘除皆求堆積法也而即以之求弦矢弦之分有奇無偶矢之分奇偶俱全至析分率則三角堆無其數即假倍分之率較量而反釋之可為獨具隻眼矣所疑者堆積既與率數合何以有倍分無析分倍分中弦率又
+  hash: sha256:60a9d4412a60bd90bc94361d393a0bb3d429fb9b25c262f8ce5c6b8cca18fc40
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c6f7fb8f856a7cdd8aa0eb57952825e3d625cadb67fceca126ea283b089229dc

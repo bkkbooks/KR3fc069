@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/599
+seq: 599
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數也第一數第三數相并第二數第四數相并左右相減所餘即通弦論曰三率中所藏分子自乘乃負乘法也乘正數為異名所得者負數乘負數為同名所得者正數故數常正負相閒醵奇左負寄右各併之而左右相減是於正數中減去負數始得通弦也相弧求矢論曰矢居通弧之半又以半弧為半弧而通弧得其倍今以通弧求矢是析通弧至極多分使一分
+  hash: sha256:7f968d567ec5c0e0287235b0066ea273af397874ae05e05bf1d9fd2ef2a7ed22
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:eacdb17ade571f107b409f3fab77ba77447bf4708a93ba2c98e91955f85611d3

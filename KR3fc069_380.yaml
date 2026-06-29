@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/380
+seq: 380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正與本弧二率相當用為相當率各以分母五除分母借二率除之本二率應四率皆可除盡惟六率寄分母為用二率各自乘半徑除之為三率位矢亦即乘法易五分之一與三第一形腰率煦案圖在前頁此式各用率與前第一式同數按求得率而乘除之定率遂因之而異又此求得率較前第二
+  hash: sha256:7ae5bcafdc25bbca34b98622538ae11cef9f95a690ea2e0abd7ae3a85c713b07
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e841abd1a80f9c2f1b937792b5cb17013ff0d0603d194646556bd15ecbadf793

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/917
+seq: 917
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各差之所起則第六差起十二因弧分加一之第十三數第七差起十四因弧分加一之第十五數可類推矣第一差遞加行數用第三而各差除法位數皆起第三者乃倍弧分加一之數也第二差遞加行數用第三七差用第十一四差用第十五五差用第十九者乃三因倍分加一五因倍分加一七因倍分加一九因倍分加一之數也如是遞以各奇數乘倍分加一得各差所用遞加行數則第六差用十一因倍分加一之第二十三行第七差用十三因倍分加一之第二十七行又可類推矣細審一分弧遞求加減
+  hash: sha256:93d8140bf5431d7f9b0f031070cbbfccee3be3e69a18f288c698735c044450a5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:db36279f5924165e6bab01d4fc93cc0ecda4e0f3e9bd4cfe1e6ca1ca3d4cbc90

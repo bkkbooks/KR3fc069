@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/753
+seq: 753
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之得第一次加加差皆正次求第二次減差亦先定乘除法以一為應減第一數乘法三因倍分加一為第二數乘法三因倍分加二乘第二數乘法二除之為第三數乘法三因倍分加三乘第三數乘法三除之為第四數乘法又視倍分為幾則後幾數之乘法即為其前幾數之除法廼置第一次加差中應減各差各以乘法乘之除法除之得第二次各減差皆負以下求加減各差皆以一為第一數乘法第三次加差五因倍分加一第四次減差七因倍分加一第五
+  hash: sha256:053fe0a3437751ea06841fe2d06c83863bc77b6b5347ceef0d01093def96c4d1
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f48508fbce46660ad9646c446ef02354a3825f5c2261c5fa26436188f28303fe

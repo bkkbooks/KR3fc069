@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/631
+seq: 631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除正弦得數亦同今不除即以正弦為第一數是為半分母乘過數次以半徑為連比例第一率正弦為第二率二率自乘一率除之得第三率論曰除二率本宜分母除通弦亦可以半分母除正弦今即用正弦是二率為分母之半乘過數求得三率必為分母自乘四之一乘過數次置第一數以三率乘之一率除之得第四率二除之三除之為第二數次置第二數以三率乘之一率除之得第六率九乘之四除之五除之為第三數次
+  hash: sha256:27041bcbeb91a3639e8473be1b480254f8aa6ded503ccde0dc044650d77a7006
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:0dae942cafcca6cd31a99ba81852b3ea5f2d7dfcec9b7532ba95b07df56b7fdd

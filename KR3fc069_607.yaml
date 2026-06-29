@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/607
+seq: 607
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弦術也以弧背為第一數寄左論曰如倍分術宜以分子乘一分通弦為第一數若求正弦宜折半今弧背本即半分子乘一分通弦故即為第一數次以半徑為連比例第一率弧背為第二率二率自乘一率除之得第三率論曰本宜取一分通弦為二率以求三率今用弧背代之是二率為總分乘過數亦即為半分子乘過數求得三率必為分子自乘四之一乘過數
+  hash: sha256:2dd310b8940d478285a1bdd32d510ce3191fd18bff4c64017db61bcdb180006f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e0e43436a93bfbdb674fa851e3fd8c38d9f0795089eb9a25672c870d3c373f8a

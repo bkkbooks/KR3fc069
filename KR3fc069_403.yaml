@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/403
+seq: 403
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分之二起根遞加數負行一行二行三行四行五行六行七行八行
+  hash: sha256:a92425b497776fef45c89500cb14a67b47146ce14250a7d80657473ddb4e5bdd
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8a8cd29650129b207ad142e19029d749d6cd1a987890bd5376fb683cdba634e2

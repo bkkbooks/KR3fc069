@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 他弧通弦為二率以求之因有借率法求得腰率後乃以借弧之率易為本弧之率因有易率法備論如左借率法分母奇者借一分弧通弦為二率分母偶者借二分弧通弦為二率求第一形腰視分母數奇或偶而折半則奇即以奇數為形數用前整分諸腰率折半仍偶則以偶數加一為形數用前半分諸腰率為除法以兩分子相減其數奇或偶而折半則奇即以奇數為形數用前整分諸腰率折半仍偶則以偶數加一
+  hash: sha256:eee2e8e971d42ccacbb66401d6d72c82bacee5c45054f4b9708ff77da7a0def9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5189cabea73fc58b67e9ea56ab8e507880caa604ea3e0ec6ec6bbb273209a2ee

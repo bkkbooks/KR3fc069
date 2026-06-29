@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/258
+seq: 258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法四率得三率二負以減實餘三率一減數大易為正法二率除之得四率一正為得數四率轉乘法四率得四率一負以減實無對易為正二率除之得六率一正為得數六率如是遞除至十六率止以上所得第一二形腰率皆借一分通弦為二率非本弧三分通弦為二率也須用易率法易借率為本率而後乘除加減可以施易率法左右作二直線向上作一橫線列於橫線上者日本率以本弧通弦為二率者也列於橫線下者曰借率
+  hash: sha256:a2895d262610392a80dff5e9851cb95fdabd6569d5187557aee2f1847ee3cfa9
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8d1ffa50980eb04a09074ebe9ce6a68caaeec6233f0b75d9d28cfae28ba6855c

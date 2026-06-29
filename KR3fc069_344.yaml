@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/344
+seq: 344
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以上各形腰底率其寄分係分母四折半得二為分母因所借二率通弦三率倍矢屬二分弧得四分弧二之一故分母須折半也若遞加數四分之一與三
+  hash: sha256:1f5afabcaa7ac278cae4024cccd215122e1847b1354187f88c4778170db24b0b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a45c8cf797f13dac35a7ed6db855c54bff327021b000ca9f1c990641856d87a3

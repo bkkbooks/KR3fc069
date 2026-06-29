@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/147
+seq: 147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通弦界之皆屬通弦弧分諸線交錯遂成各兩等邊三角心角自第一心甲子行第三心乙丙形漸小至第十一心癸亥形皆對本弧界角自第二界甲乙形第四界丙丁形漸大至第十界壬癸形皆對倍弧界角對弧既得心角之倍則心角界角必各相等夫兩等邊三角一角等餘角無不等故各形皆與心午未形同式其腰底可以一率半徑二率本弧通弦相比例但以通弦用法先求的第一形腰心甲以二率午未乘之率心午除之得甲子底折半得甲界為第二形腰二率乘之率除之得甲乙底以減第一形
+  hash: sha256:7651516fabf94da27a362c536c25348e87132dcd0acd0f8812a524e1b8fab862
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2b934d4fff54bed2ad3a9a349c788f8f3b3ff5177d04eaed519ec65c2bb12f5e

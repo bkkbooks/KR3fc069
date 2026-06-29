@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為導亦無自察象稽數以底於至精然則古人創始之難其可忽哉道光二十三年癸卯立秋後一日武林項名達識於木心雲意
+  hash: sha256:69c079e2ef641f25b3c8a840ea83eb5960fdf47f743f73f2755175be3885172a
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d75ec47e02cee31ed611d6a83755a4c693b33ed0732239771bdaafda5af8748e

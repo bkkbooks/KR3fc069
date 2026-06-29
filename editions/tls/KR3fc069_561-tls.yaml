@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/561
+seq: 561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所得者前一數正者正之負者負之為負乘法所得者前一數正者負之負者正之但有正數併正數卽所求正弦兼有負數併正數與併負數相減卽所求正弦以半徑求逐度正矢法以六十度為分母所求度為分子所求度有零分者以三千六百分為分母化所求度為分納入零分為分子所求度有零秒者以二十一萬六千秒為分母化所求度分為秒納入零秒為分子分子母可約者約之從簡分母自乘與分子自乘相減為第一乘法分母自乘四乘之與分子自乘相減為第二乘法分母自乘九乘之與分子自乘相減為
+  hash: sha256:af2a2257602621e787b07aaf28a59d91e59b04fdccf4dece4808f8a961174c87
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2bb79e66349a9d636d05b30087be518ca575c5e258d8ab4f444edddc5a3752a6

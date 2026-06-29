@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/719
+seq: 719
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蕤賓自乘等積開平方得蕤賓求倍蕤賓亦此法此世子所用者細繹之不惟蕤賓可求正黃鐘自乘乘半黃鐘與姑洗再乘等積開立方得姑洗半黃鐘自乘乘正黃鐘與夷則再乘等積開立方得夷則正黃鐘再乘乘半黃鐘與夾鐘三乘等積開三乘方得夾鐘半黃鐘再乘乘正黃鐘與南呂三乘等積開三乘方得南呂正黃纏四乘乘半黃鐘與太簇五乘等積開五乘方得太簇半黃鐘四乘乘正黃鐘與無射五乘等積開五乘方得無射正黃鐘十乘乘半黃鐘與大目十一乘等積開十一乘方得大呂半黃鐘十乘
+  hash: sha256:5c7fc0e651f914041fe893eba233c43a65509c77d87b75fa44b9454d1a5b108e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:67652337d202ac781c9e33b18601ff0127f84efad7c85742d4ca39113ecc8f49

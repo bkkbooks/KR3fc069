@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/778
+seq: 778
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能從事姑發其意以俟知者始知先生素有此志以疾作不果非闕也惟術意淵奧非纍牘不能明了茲為補纂圖解另編一卷附後
+  hash: sha256:ce07dd28f9d5e9e7c9575e7db592d4b07a9f4f5028d8b9bb1cf4007701f0d9ac
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:232f95796eed5dc39a4cea7bdae0b8148ffa725b29fa8665d91c5dc1e9c25c67

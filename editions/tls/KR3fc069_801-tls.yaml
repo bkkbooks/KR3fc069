@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/801
+seq: 801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 半徑之比而辛丑與丁寅庚子與丙卯巳癸與甲辰皆同於大小半徑之比蓋大小半徑為一二率則壬午或辛未或庚申為三率者必戊午或丁未或丙申為四率而辛丑與庚子均為三率之較丁寅與丙卯均為四率之較巳癸為三率與一率之較甲辰為四率與二率之較故其比例皆同大小半徑也理詳前圖以上二圖皆析弧為四分以起例雖悉至多分其比例之相同莫不皆然橢圓求周生於開平方提法前卷提法兼及諸乘而諸乘之廉率各不同即所用率數亦不同故難者以
+  hash: sha256:b6a081d91888af47de3886465dd31ee36d17ef613abda718b237ce14091aa355
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:94bd9e135ace563e7038e8913b9b18a816200fb87c8d0c3fe15e370a08972afd

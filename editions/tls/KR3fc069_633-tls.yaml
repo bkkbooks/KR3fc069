@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/633
+seq: 633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 置第三數以三率乘之一率除之得第八率二十五乘之六除之七除之為第四數次置第四數以三率乘之一率除之得第十率四九十乘之八除之九除之為第五數以諸率相井即弧背論曰所用三率既為分母自乘四之一乘過數是兼有兩種乘法而少四倍故乘後不煩四除也餘均與通弦求通弧術同正矢求弧背論曰弧背既矢之本弧以正矢求弧背是極弧背至極多分使一分通弦與弧合則弧背為極多之
+  hash: sha256:17f1ba2179c7278b2d309c88eec63281f767bd2753566023bffa8d624b92ca2f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a84752e38e8e50cbf97325d6988c5b2262f7842044b6e25b5ad499b7c9fc6a23

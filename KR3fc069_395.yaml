@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/395
+seq: 395
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以上分母五分子一二三四起度所得各種各形腰底率與分母五分子一二三四起根遞加數所得各種各行根積雖正負不同而其數一一相合今將遞加數分列於後煦案前求腰率底寄分之等不齊後求遞加數亦不齊共寄分彼此乃兩兩相應
+  hash: sha256:87cf8f0ad0f8ead7dc131b04a9c21666a53ac0677c356f174c49496e4daae2d3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:91150079c5ff7ab5302afa99a2805086fd5def5bcc706c710109ad2e1ec7340f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相併為得數次位左首位乘右五位右首位乘左五位左右兩三位相乘三數相併為得數三位左首位乘右七位右手位乘左七位左三位乘右五位右三
+  hash: sha256:028f5ede962eaf7c3b28ac99b891fa779f2a0137e7d9648f80c1f9bb9d9f99e8
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2e5fae06042b593cc2d8a9b14e7b27410d8f15230b3e6139342217c53e78398a

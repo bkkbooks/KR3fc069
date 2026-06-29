@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/789
+seq: 789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於丑則子丑必同壬癸即外圓與卯巳未弧同度之通弦故午壬與寅子即卯辰之比同於丁乙與戊巳之比以大小同度兩通弦比大小兩圓徑卯未與子丑即壬癸之比同於庚辛與甲丙之比亦兩通弦比兩圓徑而全與全原同於半與半則酉壬比酉子必同於心乙比心巳而申未比申丑亦同於心辛比心丙矣凡橢圓外切平圓平分一象限為若干分弧每弧作通弦於通弦下端各作橫截線截橢圓界為若干分弧亦每弧作通弦其外平圓逐分弧相等通弦亦相等橢圓逐分弧不等通弦亦不等復從平橢兩通弦
+  hash: sha256:4f267c4aebcd703d5039e8c852b952ec064dabe0372adf9d3b4cbb83cca6647e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c510d63b7e6e7add7e68f23d6d8dc0c26dd282978f62f2347edd59c91b63492f

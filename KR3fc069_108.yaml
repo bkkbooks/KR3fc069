@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/108
+seq: 108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此二法所求諸率逎諸率用數尚非諸率本數本數由本度而生本度者今所知度也半徑為一率本度通弦為二率本度倍矢為三率按連比例可得諸率故每次求率必先三率乘一率除得諸率本數復依是法乘除之得諸率用數而後正負相加減即得倍度弦矢然本是立術弦矢率祇有倍分無析分倍分中弦率亦祇有奇分無偶分此第屬圜中整分起度弦矢率其理猶有遺其數亦未備故其術局而不能賅今必備詳其乘除併減者亦以整分實零分之根整分之術明零分術乃從此可衍也終
+  hash: sha256:fcc90b745812d8ab8dfb961ee0d8dedf8afa3ec326777faba5606e05296b25f5
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ecb3eec774f00c29cfceca102483cccc0463557421455a9bd9c4ea57caee2eeb

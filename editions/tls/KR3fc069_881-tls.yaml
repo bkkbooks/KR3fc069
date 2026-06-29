@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/881
+seq: 881
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之共卽十二段半徑三乘幂兩種正弦幂相併卽半徑幂二段兩種正弦三乘幂之共卽一段五分半徑三乘幂二十二度半正弦三自乘六十七段半正弦三自乘相併以半徑三乘幂除之得七五倍之得一五故知為一段五分半徑三乘幂是共十七段五分半徑三乘幂也弧分四除之又全半比例十六除之得六十四分之十七五以二通之仍得一百二十八分之三十五析象限為五分則中一分用矢卽半徑三自乘得中前一分用矢為半徑多三十六度正弦甲中後一分為半徑少三十六度正弦甲各三自乘相併得甲甲中前二分用矢為半徑多七
+  hash: sha256:9121048253b36e9c330372b44ea2ad009e3fa47feb3ed852ec46c549ee87e23f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d87fa13cb74a8c9db738ce22fa63778259f146a49ba9e4e659bcd0c5e16b7a7d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/290
+seq: 290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三分之一起根遞加數
+  hash: sha256:977d26c0dbfef2d8543f0a804cc4144b78c7f8a590fc17f266edb58a3a504fb1
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d451a5f047496b8e1e5d715b403717829ca2b37ee839b7871c8b179aaf37669a

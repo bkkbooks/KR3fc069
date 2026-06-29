@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/282
+seq: 282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求三分之一起度各形腰底率
+  hash: sha256:e02b2b140d3371a95a78cd04f14470fcde29f4fd3db49241231cdc6cdbd1de86
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ddf8ab2dbd65951c19645d82b77afa61c01a803dece1cdf40d539b4bea5c3749

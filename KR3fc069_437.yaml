@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/437
+seq: 437
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分其比例之法常等不復另圖居中心角之形數以三五七九等奇數遞加弧分奇或偶而折半則奇其分數亦為三五七九等故分數即形數偶而折半仍偶其分數則為二四六八等故分數加一得形數分母弧如是兩分子相減弧亦如是求第一形腰準是以取形數相應界角之形數以二四六八等偶數遞加分母奇其分子為一二三四等故分子倍之得形數分母偶其分子為一三五七等故分子加一得形數求第二形腰準是以取形數
+  hash: sha256:346490d7c597152d3c57700fcc1726bd42832ccdee4d906b1f56f3af33f37def
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:72097b159757ea03637739e4c25b93ef7c9e0bc6152a8163107d3269c5170650

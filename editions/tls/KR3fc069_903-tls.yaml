@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/903
+seq: 903
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一則第五數分子亦為一以分母全半三乘比例約定母一百二十八得八以通分子一得八為第五數定分子如是遞求得一分弧逐數定分子如圖列本數定分母為第一層本數定分子為第二層一定弧定分子為第三層以分子兩相比較惟第二數分子同為一無加減差第三數本數分子三一分弧分子二應減分子一而應減數與本數分子
+  hash: sha256:1836aadc706e986a7a82eac54721495cc7455f0a87029c12465344db9a16f2ec
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:53431213186116cbc854c4b6226aa5b59453fbc5373a04dc2baa6a126f12dc16

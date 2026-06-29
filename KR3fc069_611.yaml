@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/611
+seq: 611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術同弧背求正矢論曰正矢與弧背相當瓜背即其本狐今以弧背求正矢是析弧背至極多分使一分通弦與弧合極多之總分乘之即弧背因以一分弧通弦求總分弧正矢一分為分母總分為分子奕倍分求矢術也以半徑為連比例第一率弧背為第二率二率自乘一率除之為第三率論曰如倍分術宜取一分通弦為二率以求三率
+  hash: sha256:6322a9b168b371a2e26fafbbda9cb5981fdbe03d8b1dd82ae2c0e4041cc79efd
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:60b5e601c9e0e84872100cf5e7b75fd2b7a64ab0113c176e234274d9a930f23f

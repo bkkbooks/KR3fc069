@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/335
+seq: 335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母以除借率應得二率一正四率一負分寄再乘用率其下各率均如相當率數寄分各增一乘惟因逐位寄分皆遞增四乘而四率較二率止增三乘故轉以分母增乘四率以下各率而增奇其
+  hash: sha256:b8cd5f7d3d9e590a53a51a4cb453c4815be53ed952cb516254e773a692a15786
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c4e667ccc46ec4a61e64e25a0e7e13633a128df81b3517ef4f77b10f78f28963

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1008
+seq: 1008
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 補詳加研誦則四卷零分諸論果僅六紙而六卷橢圓求周亦圖解未立校勘未半頓觸前緒愴然久之夫以予賦質謭陋何足窺見藩籬特感平生諄屬之言不能不猝力竭情冀纂明於萬一緣本序中條目補完零分諸諭兼補求周圖解附卷末餘鄙見所及亦閒綴案語旣成因敘其顛末井錄先生來書於後以見予之不避僣越嫌葢自有故而讀先生書者當有以諒予之心矣咸豐丁巳二月錢唐戴煦跋附錄先生來書
+  hash: sha256:f1d5fde5c2c640d52c5f8077a5810f60d7d337f6712b7f541bc02a20b55031a3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:12005dd065f8eb74114046ffd9f27757b7dad3c797a83974961fab36fa023f47

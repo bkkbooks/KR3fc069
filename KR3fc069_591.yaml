@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/591
+seq: 591
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 加數而生故明乎零分遞加不惟幾分之幾可以任求且可為析分術推其原兼可為倍分術補其卸而四術之互異者亦於是得其通矣論杜氏九術通弧求通弦論曰設有弧析分至極多所析之分必極細此極細一弧通弦幾與弧合以極多分乘之即原設通弧今以通弧求通弦是以所析極細一分弧通弦而求原設多分弧通弦則一分為分母多分為分子乃倍分求弦術也
+  hash: sha256:c892be6df0f65392a98edf11a991ad0d92afd1d6bced3c02f9bc97b980d61b8e
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:58c093c37c8f94d6a474132041b4d917c80f24e45dbdc98042234674075f2e1a

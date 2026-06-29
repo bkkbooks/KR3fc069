@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/703
+seq: 703
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圜其外夫內方尺而圜其外則圜徑與方斜同如方之斜即知圜之徑矣方尺即黃鍾圜徑即賓由賓可得南呂由南呂可得應鍾既得應鍾則終始循環諸律皆可相生安有往而不返之理案世子因氏為量悟得方圜相函而正律倍律半律之數寓手其閒以勾股開方得之較之三分損益所得者微強而不甚遠由是或倍或半比例回還其數一出於自然無仲呂不能復生黃鍾之患真乃闡前人所未發足以破盡積疑矣顧其入算先開平方求得賓倍律次得南呂倍律再開立方求得應鐘備門然後與
+  hash: sha256:185137c1835f7a284bcc5ee9d253483ff1a7e02e61b71c746d31573df4c0f5cb
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:aa999ea0426b456bf5f99463202e68a2408cad05570906e2435cef7ca3020e3c

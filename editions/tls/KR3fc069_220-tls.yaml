@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/220
+seq: 220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 倍根加二減二相乘卽倍弧分自乘減四以乘併平積四除之三四遞除之爲併三乘積卽五率倍根加四減四相乘卽倍弧分自乘減十六以乘併三乘積四除之五六遞除之爲併五乘積卽七率倍根加六減六相乘卽倍弧分自乘減三十六以乘併五乘積四除之七八遞除之爲併七乘積卽九率如是遞求得各併積凡定乘法正負及各積正負與併偶行同求倍矢乘法亦與併積相反
+  hash: sha256:03585a2b6d8a532234742c13a6ad5057efa2bbccca1d88c042a33a2f0a345e4c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:44652c966a0181af4f5304127ff29c3afc59d9cab5f76d3d89175a0e4ef6b35c

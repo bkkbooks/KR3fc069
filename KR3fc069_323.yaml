@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/323
+seq: 323
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦同前式實止一位此式實有多位皆正左乘出數皆負併減右實異名宜加從實為正法一率正除之故得數皆正為四分之一第二形腰
+  hash: sha256:c221ff78a22c2c5b9cd7962994374446695335824958ab18d9dbb7292f62ade8
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ca14ebf14ae49c6221cb023253b7c3a606991b18a9c0cd211a6ca2845a3a466b

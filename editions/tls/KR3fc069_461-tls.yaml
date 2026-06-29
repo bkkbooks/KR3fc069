@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/461
+seq: 461
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以借三率乘借三率一率除之得借五率即以本三率乘本三率一率除之得本五率與之相當以借三率乘借五率一率除之德借七率即以本三率乘本五率一率除之得本七率與之相當以借三率乘借七率一率除之得借九率即以本三率乘本七率一率除之德本九率死之相當如事遞乘遞除得各奇率均兩兩對列求耦率者以相當之借二率本二率兩兩對列然後以借三率乘借二率一率除之得借四率即以本三率乘本二率一率除之得本四率與之鄉當以借三率乘借四
+  hash: sha256:ef9f7cdcf1c297772139eb12b738d8e4a7e15dc803bbabd1a2e2336188dd4b32
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:bd26d877a2b36cc5c5e813036cff29b8cd691e53eeb0d2c0df7be0061a233ff2

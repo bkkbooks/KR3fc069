@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/851
+seq: 851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和與逐分半外矢平幂和及立幂和等數不相通非可加乘而得當細核其弧分除各半外矢和與半徑之比例若何及弧分除各半外矢幂和與半徑幂之比例若何並弧分除各半外矢立幂和及諸乘幂和與半徑立幂及諸乘幂之比例若何若得其比例數則卽用比例數一乘一除可代末後半外矢及半徑之乘除矣茲分條細核如後凡第二數用半外矢今就象限為一分弧而論析圓周為四分則象限為一分弧則所用為九十度正矢卽半徑半之得半外矢為二分半徑之一析象限為二分則中前
+  hash: sha256:362104f43731b57f6b941256438bb4bd01392b13ade0e1ddca52ab98e3cfe6e6
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:cfa4b20fd8fb9064eb44283308b4053df8b1fcb2247ec8b5b50368c3733db8c1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/701
+seq: 701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 算徑管新術算術以三分損益隔八相生其法始於管子後世宗之至於仲呂應生黃鍾稽其數不及黃鍾一分有奇遂有謂仲呂極不生者京房引而伸之別生執始至南事為六十律要非律呂真數故宋志譏其失旋宮之義因少增其數使仲呂復生黃鍾然數雖無機豈容妄以義意增者惟明鄭世子失載堉則曰律家三分損一三分益一猶厯家四分度之一四分曰之一與夫方五斜七周三徑一階舉大略言之非精義也新法算律用勾股術本諸周禮氏為量內方尺而
+  hash: sha256:470fff6f44a4eaf11ea5bd6f55f4ad9e3cd7b38cad4ac7503d5e89c8bfcf94ad
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a60dfa12f78653bd172631cb8ec0955e869e9d4c54c20e0d6c680ebadafb5024

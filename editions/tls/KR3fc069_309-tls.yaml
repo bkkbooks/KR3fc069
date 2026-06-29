@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/309
+seq: 309
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖火土為本弧析為四分界火三分界土一分依前法按分作線比例加減得各三角心甲子為第一形若自四分之三起度則界甲乙為第二形迺至心
+  hash: sha256:e48e2189ff37dc14da9d417ce6ade53a9327da290060e542e8c2bc97f9de2cf8
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:31d2bf452e63498d7a84aba4c5fad80f43da950db606ffe9a675f4b116ba3032

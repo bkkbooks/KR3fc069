@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/741
+seq: 741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之十二除之亦得林鐘應損數何則二除者損黃鐘二之一以從半律也八乘十二除者借半律作相當比例半律隔十二位則損黃鐘二之一林鐘隔八位應損黃鐘三之一也是八乘蓋由乎隔八今考其位非隔八而實只距七特七乘則損數尚歉故增為八耳逮觀今術求林鐘第二數只以七乘其所歉數尚待三數後遞次相補總計之仍較八乘為微歉以是知古法不特位數誤七為八暗藏之乘法先巳誤七為八矣古法上生者三分益一易損一為益一只是加倍法
+  hash: sha256:d8790bc6662d68bbcb276e4407c826bf955f6dd5ef90e9725315dc58ad1b91b3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b9c7c58368857a5b17f6a423e08d83960751a64579a710b5064e956c3c745d8e

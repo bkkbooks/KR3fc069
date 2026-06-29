@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 諸術通詮卷六諸術明變原本無求加減差表今補卷七撱圓求周圖解原本無今補
+  hash: sha256:66b33b2bc37825045b8152fe8077d0d016adafaa6dbe749c638952c73fcff812
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b678f7c2bbd23a4f3b047ec71fe533cfccdf6906391ab591d2047fd99459835a

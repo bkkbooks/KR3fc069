@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/325
+seq: 325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分母四分子為一與三第一形兼此兩分子第二形各自其分子起度今求得第一形腰率及一分弧第二形腰率其三分者易率後相減即得可以省求又所借二率係二分通弦本弧為四分借弧為二分借弧得本弧四分之二亦即二分之一欲求其相當率應取整分起度之二分倍矢率與本弧三率倍矢相當取半分起度之二分通弦率與本弧二率通弦相當易借率為本率第一形腰率皆奇不須用二率通弦可徑用三率倍
+  hash: sha256:e7ed147d6a471ca5649a363e09e5dffc2ef807c2c98b2a29bb7bdc87a1081edc
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2ae476339a9213e01067036989227972cb0ce4d7d5c0ec0c351b2856095641c9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/709
+seq: 709
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釐七毫九二忽有奇為方之斜即圜之徑亦即賓倍律又以勾九寸乘之得一百十四寸五十五分一十二釐九十八毫五十五有奇為平方實開得一尺七分二毫八六忽有奇即南呂倍律復以勾九寸乘之股九寸再乘之為得八百六十六寸九百三十一分九百八十六釐八百三十毫有奇為立方實開得九寸五分三釐五毫一六忽有奇即應鐘倍律乃以應鐘倍律為一率黃鐘正律為二率應置黃鍾正律二率乘之一率除之得大呂二率乘大呂一率除之得太簇二率乘太簇一率除之得夾
+  hash: sha256:850c594f8e7687ddb8c75a5943472c2fac1007be613e3768771cdbfda8ab67d2
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:66492fb36724aa477e490a54eb62d248014097a418e519e3541ce7937b32772b

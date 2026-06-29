@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/585
+seq: 585
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除之得第五率第一乘數乘之四除之又三除之四除之為第二數次置第二數以三率乘之一率除之得第七率第二乘數乘之四除之又五除之六除之為第三數次置第三數以三率乘之一率除之得第九率第三乘數乘之四除之又七除之八除之為第四數以諸數相併即所求矢單位以下棄之未至單位者依次求之論曰此二術乃求析分弦矢也析分弧之分子常為一其分母即所析弧分惟分子為一凡前所定二本術中應用分子乘者可省去不用乘法中本應以分子
+  hash: sha256:0420e917f2bbd623ddd6924d50603110f2f302e8a487b7d3a39e54ca780b5b28
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:067e79331a998a76a5fb341776f2a4d58c840849c88cf12587cdca266e0ddc4b

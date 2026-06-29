@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分愈細刖角愈小初分底密切於弦逐分腰皆通於弦矢此天然之象所為底應圓腲應方也數者何遞加數是此數生於一遞加一得諸根而一卽根差遞加根得平積而根卽平積差遞加平積得立積而平積卽立積差如是以至無盡諸差亦無盡方與圓較皆差也此數早揭以相示若析分愈細則差愈多次層根密合於弧逐層積皆通於弦矢此天然之數所為根應圓積應方也象數兩相成而其原得於是弦矢可逕求逐分弦矢可互求弦矢與弧可相求而途之局者通矣止用一二術不煩多術止用乘除加減
+  hash: sha256:67e92a1496e1b9e29b944ebd33c01d074bd7fc6a8324b3657ab559e2caefa7fa
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:ea11dee8b2380588547dd07210342cc9a5b94942c4500c773bc87e8e8eee116e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/925
+seq: 925
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以平方率乘其五層得十五三乘率乘其三層得七五五乘率一二五乘其首層得二五相併又併七層得二十四七五為第七數分子以弧分二乘全半五乘比例
+  hash: sha256:9a1a406dfa9db3e1283b094844c559011a36b1c32ca443c2bccae36449890f28
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5d1aa4ee410e350f1e9be2284176a885fd499f43d9219dd2eaa52792e7fa9b08

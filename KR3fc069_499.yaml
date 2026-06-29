@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/499
+seq: 499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩相對待而弦矢率分子以全惟耦分弧則以耦而折半仍耦弧分起度弦矢率母子各折半而得其分子之全此以通弦論弦矢率則然若概以正弦正矢論則整分起度為二分弧之一倍正弦一分弧倍正矢二分弧之三倍正弦二分弧倍正矢矢率得整分之全而弦率轉得半分之全半分起度為二分弧之一倍正矢一分弧倍正弦二分弧之三倍正矢二分弧倍正弦矢率得半分之全而弦率轉得整分之全是整半分兩相交互也即零分亦以奇恩弧與耦而折半則奇者兩相交互而
+  hash: sha256:afc2534bb28401a08b4b8ee734ff9261c9449bb461708251e5fb36f705d66572
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:dd2125ec1ab0e66737508cf0bd59625b49bfa8019f4e81a3090a8bbd8954ece0

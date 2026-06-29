@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/317
+seq: 317
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二分通弦為二率界金二分既為二率則心界金形又與整分第一形相當遷比例之心丁土與心界子同式心丁火與心界甲同式以心丁半分第三形腰比心土半徑若心界整分第一形腰與心子今所求第一形腰以心丁半分第三形腰比心界半徑若丁土半分第二形腰與今所求界子一分弧第二形腰亦若乙土半分第四形腰與今所求金子即界甲三分弧第二形腰觀此比例可悉借率乘除之故矣法一率除實一率得數仍為一率一正次以得數一率乘法三率
+  hash: sha256:71f22d19ccf664ecc406b577ecab0154f643fe79713f3f4b444ec62d1238f1ca
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:90df8bc18a2c528b3b37b508e9c691be4546f586636ed36830b1a6f2b11925bc

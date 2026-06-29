@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/230
+seq: 230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又零分三角第一二形腰溢在圜外旣非半徑通弦復非切割欲求其率井乘除開方亦不能御須用借率易率法求之始得若零分遞加其求積與整分半分者一例簡易不煩宜先以煩且難者證知率數之不誣後乃約從簡易而諸術遂自此立焉分母者所知弧也分子者所求弧也整分半分本有分子母存其間特分母爲一與二可約其定數以立術無庸分別子母今零分任求幾分之幾則全恃子母以爲用子母旣明并整分半分者胥歸一術蓋整與半以導乎其始而零分乃滙乎其全也
+  hash: sha256:cafc36591def7253ed8caa6fff522d3b0f97c4888f7d4464f959fbd82caea73c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1fb223bcb7f0d01466bd5710cce14a6c5039a3760955d3e5e06d790d1f332039

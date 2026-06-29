@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/125
+seq: 125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖第一層根差皆一第二層為根取二之一為首根寄其分母用其分子首根即為一書寄分母於右方以分母乘根差得二首根一為分子根差一實歎故以分母通之自首根向左順加得三五七九等諸正根又自首根向右逆減則反減而得負根一由是恆與根差異名應以加為減亦得三五七九等諸負根次求各首積依鹽分法宜以次根乘首根二除得首平積三根乘首平積三除得首立積四根乘首立積四除得首三乘積今諸根皆分子每乘後應遞以分母除之而分母恆除實不盡又除法中二四六八等偶數皆內含分母
+  hash: sha256:79ada03141af38f6cb2d6a004dec77912289e1173f7dd7e8a70c9cc2c639d790
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d7eaf2c8d4250ef1abfc94d7f463344bcf089873c31060ca7ec240b77f3569f5

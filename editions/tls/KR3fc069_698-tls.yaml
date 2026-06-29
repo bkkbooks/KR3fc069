@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/698
+seq: 698
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方表
+  hash: sha256:ad1194264ad3eb2e30fc952064049ed9000d0dbd7a0f50d535e1516961523215
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:0c3a14e5a7b81b2c9f88338d4031ea2dae3119baaefc587f1234b352eca385e7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/623
+seq: 623
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧至極多分使一分通弦與弧合乃以極多總分半之取其弧正矢以求一分弧倍矢為三率復求二率通弦總分乘之得通弧則一分為分子總分之半為分母迺析分求矢術也以矢八乘之為第一數論曰所欲求者通弧而假以求者乃一分倍矢又必為四倍分母自乘乘過數而後半徑乘之開方即通弧求一分倍矢本宜以分母自乘除本弧倍矢為第一數今不除以代表即為分母自乘乘過數而尚少四倍應四乘之又所用乃正矢應二乘
+  hash: sha256:09a8746319b27b92a9a95c87b2fca17cbdf4d927690dd8bf00df2c849df535e7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9420756af4cb2cda1444283926afb891f6b533a7620b2dc4df90b8486f7ac1b9

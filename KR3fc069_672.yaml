@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/672
+seq: 672
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五數七乘之九乘之一百除之為第六數次置第六數九乘之十一乘之一百四十四除之為第七數纍求得小數小至單位下止乃并第二數以下諸數轉減第一數即圓徑杜氏術有徑求周無周求徑向思補之而不得其方蓋以連比例全恃半徑為一率無徑則比例無可施也後因研究橢圓竊嘆遞加數蘊含之神妙勘定平圓周求橢圓周術乃類推而得此所惜者除法徑贏於乘法降位頗難求至百餘數八位尚未消盡固不足為術也惟確知其得數的是圓徑
+  hash: sha256:1e2e64c4f7fd3cd3bc99dafd6b4960e3282fa2b107db711e0714162ab40033ea
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:58db143185eb556fa301a08a9470b980a54be1ac24bffbb916adc9870a8fa093

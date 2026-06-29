@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為一三六十等數若取各底遞加為界角形各腰則四率必隨之遞加一加三得四四加六得十十加十得二十是為界角第四形下各腰內四率乘除得底降為五率卽其底內五率亦為一四十二十如立積之一四十二十等數由遞加平積而得也五率以下可推此腰底率所以卽遞加數也惟前圖根積斜列諸率線錯交其間視難明晰今以根線積線平列為層諸率線直列為行廉積線斜右堆積線斜左為斜行覺層別行分諸率亦備又倍矢率不用心角形腰而用腰較則一率根差可省另圖於左
+  hash: sha256:7d794cce88cf4986c5a28237be42a3bf2515c22a223c9a38109fcb6c8b0a6542
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d7eebd7f43695bdd55595f16561b379933abcc37233d0e808832ae5b1728ff2a

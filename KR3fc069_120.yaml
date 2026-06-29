@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 半分起遞加圖右半
+  hash: sha256:61dbc752dcf7afc80abec31de1383fbc58759108f929d230edcac025fe859cea
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5f131fe55735799491a4dab97f5cf564a2a66b869355717cc7354c08dffbecaa

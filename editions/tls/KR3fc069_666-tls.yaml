@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/666
+seq: 666
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘之一率除之得五率四除之為第二數次置第二數以三率乘之一率除之得七率三乘之六除之為第三數次置第三數以三率乘之一率除之得九率五乘之八除之為第四數次置第四數以三率乘之一率除之得十一率七乘之十除之為第五數如是遞乘遞除求至單位下止并諸數即餘知餘矢減半徑即正弦正矢求正割正切法以半徑自乘正矢減半徑除之得正割又以正矢減半徑二除之為第一數次以半徑為一率正矢減
+  hash: sha256:c87ef3c067d6ae0faf821fb389df4b6396327fc87621e1ff81ecd7a40f164c2c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3a5fb54ca07fc9e3c4da90ddd01c5f07ce34b34cb56346ab8d43f2422e35c61f

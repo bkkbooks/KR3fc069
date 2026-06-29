@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此遞加圖每降一層則增一倍逐層之位閒列層遞加位亦遞加卽其數因之遞加計逐層總數自上而下遞加一倍併次層一一得二為首層一之倍并三層一二一得四為次層二之倍下可類
+  hash: sha256:21f60d388f02aa499f4f270ef63486d023e7dfb13bf906c9c3ffc147b4e64485
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a3ab7b5897e26bb1c63ccf14bde07b49ba287af060c0e297559e3c1e1b16a0f5

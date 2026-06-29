@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/907
+seq: 907
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分子八尚應加一是第五數以下當有第二差也而應加數與第一差之入例若一與二十八第六數乘除得六十以減本數分子得一差減數三以較定分子八尚應加五而應加數與第一差之比例若五與六十因檢遞加數第七行其首位與三位亦為一與二十八次位七與四位八十四之比例亦若五與六十試以遞加數第七刪自首位起取第五數第一差以下按位挨次乘之又自三位起挨次除之為第二差第五數乘除得一加一差減數七得八與定分子合第六數乘除得五以加一差減數三得八亦與定
+  hash: sha256:c0db797615d13c1f27d65ada47165f2ef225b1cfbd8a44821a259121e24101d1
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3a18c374a65ad875e71c5788196cdad106842f3a50780be640d1939f4ba4ad76

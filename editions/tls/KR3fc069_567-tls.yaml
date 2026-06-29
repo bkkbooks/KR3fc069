@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/567
+seq: 567
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無不得矣圜中諸線之交通固由於通弦倍矢而正弦矢實為八線之宗其用最廣因立術求之術中乘除加減與前二術大略相同所異者正弦術半其本度為分母第一數中弦矢皆增二除求各數省去本數乘除外各增分母自乘之除耳半本度為分母者正矢倍矢同在一度而正弦度則得通弦度之半今定六十為本度欲求他度必須求倍他度通弦折半而後得不倍他度而半本度分子母比例亦同故求正矢卽以六十度為分母求正弦則以三十度為分母也增二除者半徑乃本
+  hash: sha256:70b68d7cb68b5cf7a579d66ee3b7cf0c7be83b983f66da09049c9764315b5b14
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b54288354cda00788bcabdf46965bca2c9a6cd5659f3e14e87d8bc24a3c1bd02

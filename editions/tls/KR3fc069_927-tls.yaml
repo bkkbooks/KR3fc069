@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/927
+seq: 927
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六十四得一百二十八以約定母一千二十四得八以通分子二十四七五得一百九十八為定分子如是遞求得二分弧逐數定分子如圖列本數定分母為第一層本數定分
+  hash: sha256:0f68de038392cb66831c4043f4f10fe4799125ded884ddbabdfade57c69a106f
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:b207c1cee3ce90210815e776580e4210bb832e87d648792f76f4f7f3731deaae

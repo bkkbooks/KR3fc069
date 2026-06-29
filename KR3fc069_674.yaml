@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/674
+seq: 674
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而數所由來又別自一理非假途於徑求周者且以徑求周參校之周主奇徑主偶三奇數之始故求周起三乘遞次以奇數自乘為乘法而以越次之奇數自乘減一為除法二偶數之始故求徑起二除遞次以偶數自乘為除法仍以按次之偶數自乘減一為乘法此蓋奇偶相從乘除互易殆有自然之象數寓乎其閒爰附載於此後有好學深思者或因此變通之另補其術牌周徑得以互求則更妙矣開諸乘方捷術
+  hash: sha256:a0e9df011358052e3d8dab7e76e532989faad14ca692187d567f72cb3f0b07b0
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9651f08c91d542c3db732723043fca3800bb9ed9fa7c9ee5de1ec703523d418c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/313
+seq: 313
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖自悉借率求第一二形腰如前法分母四為偶應借二分通弦為二率求第一形腰分母四折半得二仍偶故以二加一為三加半分起度第三形腰率為除法兩分子相減為二雖偶而折半得一則奇故以一取整分起度第一形腰率為乘法乘除半徑得第一
+  hash: sha256:1532c59135829b7e5086992f9f2cc8d6443ddfc74c15125990b641eb0cdb5fea
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:51406ef2aa4b1289e82684f8db0dbcb4f8af644fa62f30681c6225ff03d6f5b8

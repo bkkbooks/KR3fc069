@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/707
+seq: 707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數遞乘遞除相併減即諸律可得其數與開方所得者吻合以擬古法蓋皆自黃鐘左旋下生而不拘於隔八其生林鐘所損者不及三分之一此實由律數位數自然而生絶不待安排造作者次列於後亦聊備律家術算之一助云爾鄭世子勾股開方算律法世子以方尺即黃鐘有十寸之尺對九寸之尺今用九寸為黃鐘以便與古律相校法曰內方東西九寸為勾南北九寸為股各自乘得八十九寸相併得一百六十二寸為弦竇平方開之得一尺二寸七分二
+  hash: sha256:234ac578b34cac95635d3e72f27a47f814d1a89f475d18054e50dc3041e2338c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1a8390d385bfd1a131ddcf88056a0b565950fe2111a6c2702752fb841ba7eb2c

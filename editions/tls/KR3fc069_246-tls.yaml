@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/246
+seq: 246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為形數用前半分諸腰率為乘法置半徑乘法乘之除法除之得第一形腰率求第二形腰卽以求第一形之除法為除法視分母數奇分子倍之為形數用整分腰率數偶分子加一為形數用半分腰率為乘法置半徑乘法乘之除法除之得第二形腰率今分母為三分子為一與二圖以明之如火土本弧卽分母平分火金金界界土三分界土為一分之分子界火為二分之分子心火土為本弧通弦半徑所成三角形心甲子卽今所求第一形心甲心子為兩腰此二形同式界子為一分弧第二形腰界甲為二
+  hash: sha256:78ff66c7ffeec927f2a8a09fede5f40b0be0a083fd8843749675e07d9f46d70d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:cfe889200a51566e5fa60f6e3fd3357daea4293c6ad40ffec86c803efa3793cf

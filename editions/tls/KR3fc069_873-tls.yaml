@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/873
+seq: 873
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲中前二分用矢為半徑多七十二度正弦乙中後二分為半徑少七十二度正弦乙各再乘相併得乙併各矢立幂得六段三十六度正弦平幂乘半徑六段七十二度正弦平幂乘半徑多五段半徑立幂而兩六段正弦平幂乘半徑卽七段五分半徑立幂兩正弦幂併率為一二五以六乘之得七段五分是共得十二段五分半徑立幂也弧分五除之又全半比例八除之得四十分之十二五以二五約之仍得十六分之五大率遞加一分弧則遞加二段五分半徑立幂其分母則遞加八而八分之二五卽十
+  hash: sha256:680720ef6ad4f56a0dcada0867bd84df70bc10b4a1eea5f1db16172fad8edbfe
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3bad8bc5f7455def0881e5de249990b454ca476d221558c46e2e4ca200175a69

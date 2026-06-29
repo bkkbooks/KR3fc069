@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/831
+seq: 831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自半分起遞加一分各作大半徑及抵周線亦成同股之兩句股其半分抵周線所成與大徑端第一分通弦所成同式一分半抵周線所成與第二分通弦所成同式自此抵周迫漸遞加一分與通弦漸近小徑一分所成勾股莫不同式如圖甲戊丙艮為橢圓甲乙丙丁為外切平圓平分
+  hash: sha256:c0272eb4df0057619dfe0b63d28cbef3e34887e491e90975dfa6dca4f716ead7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d4dca517d70bd6b32e632938c71e6d6a9bab281bcd4ed0fcff52263985f98de0

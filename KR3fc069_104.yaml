@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/104
+seq: 104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 每次不增四除也依是乘除併積可得即倍分弦矢率無不可得通弦弧分與倍根相當倍矢弧分與根相當通弦率即兩偶行併根併積倍矢率即兩奇行併積今再為弦矢求率更定其法求倍分通弦率法曰以弧分為二率弧分自乘減一乘二率四除之二三遞除之為四率弧分自乘減九乘四率四除之四五遞除之為六率弧分自乘減二十五乘六率四除之六七遞除之為八率依次遞求凡乘法以一三五七九等數自乘與孤分自乘相減至相減適盡已得末率不必再求二率正四率負以
+  hash: sha256:9f0ddac83a04ad8a0a71651797096dad099093432a898f00f3c1c4afe6d3092d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:f29c33634b264f7a1ae11ee999f381b9b8b6e87fc110bbe60a23f44ece6e6604

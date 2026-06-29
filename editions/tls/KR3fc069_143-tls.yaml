@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/143
+seq: 143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如圖午未為本弧心午心未皆半徑午未為通弦成心午末兩等邊三角今應半分起度將全弧折半於界則午界未界皆半弧作心界半徑復自界點作線
+  hash: sha256:77846dfe8b964fe5a278f4ed441327078d1daaa49ba0f932f7297ed69e0c5355
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a5832b04515092d958e9c0a39f7bef0760da85f5063632b9fa217a035516e3df

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/433
+seq: 433
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聯成心角界角形其式又不與半分合而與整分合蓋整分以一分通弦為二率所作各種弦皆奇分今借二分通弦為二率所作各通弦皆奇分之倍故折半得奇而其式相當也審是則取用率法者宜辨弧分奇偶凡分母弧及兩分子相減餘弧其分奇應用整分率分偶而折半得奇者仍用整分率折半仍偶者始用半分率此上就分母弧及兩分子相減弧論用率也若分子之弧則常與界角形相應整分起度之界角形起一分遞加一分成各形而奇分母之分子亦起一分遞
+  hash: sha256:bc61a48853cf49e4efee2a80a3b0d757de3360e12bb19a3b8be8467930edcd1c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4b114c9fb0f78986b7e2faffb3af0c1d333bf9ea0880dc1e142169367b002ab1

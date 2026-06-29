@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/755
+seq: 755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 次加差九因倍分加一為第二數乘法下皆遞加一乘除之得各乘法其除法皆視倍分為幾則後幾數乘法即為前幾數除法乘除減差得各加差皆正乘除加差得各減差皆負末求橢圓逐分通弦和法以正數相併負數亦相併正負相減即橢圓逐分通弦和用表求加減差乘除法求第一加差以倍弧分加一視為幾取表中第幾行自首位起按位而下倍其數為逐數乘法又視倍分加一為幾自第幾位起按位而下即其數為逐數除
+  hash: sha256:f0fce69953bc84c5c76bd5a7cc0248b4cf1aa24a7c7eb660be55378cb84b7cfb
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:bc3b1a67248080a20c7a9106aa16e2e15cd016fb71946fc8788c9b518fb92f8e

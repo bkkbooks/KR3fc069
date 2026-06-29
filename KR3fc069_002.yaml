@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七卷元和江標署光緒戊子刊於上海
+  hash: sha256:e5d3985ee6fade9d00399d2ad98573989d0bae567cd1217db42177f2884c9a62
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2f80d1a8b446911b9c5209a5dd12a6ea609ad3716cdf949c53d8fefe493139d0

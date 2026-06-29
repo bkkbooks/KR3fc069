@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/339
+seq: 339
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 前不煩重贅既得第一二形腰率可以比例加減求各形腰底今將四分之三起度者列前四分之一起度者列後求四分之三起度各形腰底率
+  hash: sha256:f1bb357fca1c2087519f03679c9c1258e778af765dd7fcc3514820ef06d0e141
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:3a75e0aa5c7336d0c6879f509af2aa16971119f64b8baf8c0da4c0fff665e5e1

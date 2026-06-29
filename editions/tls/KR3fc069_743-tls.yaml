@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/743
+seq: 743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蓋仍屬左旋下生半律因加倍故得全律亦真上生也至遞乘除術可以黃鐘左旋下生各律亦可以各律右旋上生黃鐘其上生之法與前術同惟三數後乘法減位數易為加位數得諸數併之減第一數易為加第一數雖一減一加奕猶是一損一益而右旋實大異於左旋所以不立為術者以乘法用加嫌其降位稍難耳而其術固自在也橢圓求周術法以大律為徑求得平圓周為第一數次以橢圓大半徑為第一率小半律自乘大半徑除之轉減大半
+  hash: sha256:c0ad06821e2774a634a1a785111ff1cd4f8eb80488ca1cc5b4bc1034af1a760b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:d74d0ed3cb396ecc2c167a815c824576dc16da2a39edc252c277edd979d629c1

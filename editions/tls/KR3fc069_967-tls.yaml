@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/967
+seq: 967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十為第四數分子以弧分乘全半立方比例八得三十二以定母十六約之得二以除分子得五為定分子四用矢三乘幂相併得以平方併率乘其三層之一邊十二仍得十二以三乘併率七五乘其首層之一邊二得一五相併又併五層得十七五為第五數分子以弧分乘全半三乘比例十六得六十四以約定母一百二十八得二以通分子得三十五為定分子四用矢四乘幂相併得以平方併率乘其四層之一邊得二十以三乘併率乘其次層之一邊得七五相併又併六層得
+  hash: sha256:7b2a6af8753ad22da64d69a601a64b1eb7d4a85c0c1be8440854aee661cceee6
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8694d902e5711367c7c71745b99b43520b5300719c8e60d8986ff644e95cc77c

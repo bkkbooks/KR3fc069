@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/412
+seq: 412
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五分弧之一起度各倍矢率
+  hash: sha256:5e03675a219065a0a665fe1a395c937df2244dc5eadcf4f1ab0271d953a0e188
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:27f770306b3a81ecf414f5e257551957e6c9fce699332231d3de25409c05c5bc

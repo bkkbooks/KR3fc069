@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/254
+seq: 254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率一負減實無對易為正法一率除之得三率一正為得數三率轉乘法三率得三率一負減實無對易為正法一率除之得五率一正為得數五率如是遞乘遞減遞除約除至十五率止每率皆為一正得第一形腰率此式法實心界丁土兩相乘為實之數與首心丁為法是同故得得界子第二形腰數亦等惟下一率耳
+  hash: sha256:46cc278585c524b4d366ee363899034467733e9f4b969a2590f2eeaea8ebb03d
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:7320500c297bcbf93d8db76f9fd1fc8a4d695c5ce860d3d9902b684574c2a26e

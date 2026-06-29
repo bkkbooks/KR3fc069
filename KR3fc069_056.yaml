@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第八十形腰相加得界兌九分通弦第十十二形腰相加得界青十一分通弦十二四形腰相力得界赤十三分通弦十四六形腰相加得界白十五分通弦十六八形腰相加得界黑十七分通弦逐分倍矢率第三形腰較申甲之倍一分倍矢第三五形腰較相加得酉乾之倍二分倍矢第五七形腰較相加得亥坎之倍三分倍矢第七九形腰較相加得水艮之倍四分倍矢
+  hash: sha256:b573f9cf397ce0beda68c1d43716569ae94d7a5833352c10017225d07e626609
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:68e77c94ea1f8b2b500fb4dee2553921ad1a3fb2c2dc6ad16bfe25f433c8e8d0

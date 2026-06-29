@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/613
+seq: 613
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今用弧背代之是二率為總分乘過數亦即為分子乘過數求得三率必為分子自乘乘過數二除之為第一數寄左論曰本宜以分子自乘乘倍矢為第一數今所用三率即倍矢巳為分子自乘乘過所求迺正矢故須二除次置第一數以三率乘之一率除之得第五率三除之四除之為第二數應減寄右次置第二數以三率乘之一率除之得第七率五除之六除之為第三數應加寄左次置第三數以三率乘之一率除之得第
+  hash: sha256:46fa373d047c3f2f901314ecb3260286d4bf07eed900c52a040445ff4ea525e4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:14ec319c96935c1e33bb721c5e6f2a13cefe88e798d018d2f4ca753a8e5e58ac

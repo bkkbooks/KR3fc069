@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/935
+seq: 935
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六百十五得四千六百十六第十數乘除得九以加一差減數七千八百七十一得七千八百八十十一數乘除得九十五加一差減數二萬六千八百九得二萬六千九百四十二數乘除得三百八十五加一差減數四萬五千五百四十三得四萬五千九百二十八均與各數定分子合十三數乘除得五千三百十三加一差減數得二差加數三十一萬三千六百十六五以較定分子當應減五是二分弧第三差起第十三數也而應減數與第二差之比例若五與五千三百十三十四數乘除得一萬六千四百四
+  hash: sha256:21e66bd4d635381b712a9826732118d9ffa2181df6a36cc8cfec530b0cc80b11
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:09ef455c91331b31742aa17bffac146ef2281b26361f670000b2af5053ba1947

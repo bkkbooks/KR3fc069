@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/441
+seq: 441
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧二率之借率則遞乘遞除即可得當本弧逐率之借率借率遂與本率通而其率可用是為用率夫求第一二形腰所得之率借率也以此當本弧逐率之借率乘除之使與求得耕合隨以乘除借率者乘除本弧之逐率自無不與求得率合於是借率可易為本率而求第一二形腰應用之本率始定矣是為定率此理固易明悉而衍算則繁尤易紛淆者在乎寄分蓋借弧若干倍分適與本弧相當其分即分母亦即借二率數以之除相當借率借二率除為一其下逐率不盡受除故須寄分本二率亦隨之寄分此須
+  hash: sha256:af25619276686580fd39bbaf9f2b390c8bf636af36e8d06badc174b9cd258b33
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:203cf9fa82d5af197acacc542f185fc266dbf9cd397f9ff4198d747d8ced3a88

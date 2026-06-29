@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/639
+seq: 639
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之得一分通弦自乘乘分母自乘數開方得一分通弦乘分母數即弧背也圓徑求周論曰六十度通弦即半徑其通弧為圓周六之一今以圓徑求則是半其徑為六十度通弦求得通弧六乘之而得周也即通弦求通弧術亦即析分求弦術以徑三乘之為第一數論曰如通弦求通弧為第一數即用半徑但今所知為全徑應以二除所求為全周應先六乘二除
+  hash: sha256:06882bad71983d06b935c2105f520e8760e153bd899ca27d8727e10e9d62fac4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6616c57c02b0cbb39b091c7910250cf42173a6b4f9a41dbbbc046ddbc97d349e

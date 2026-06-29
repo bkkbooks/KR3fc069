@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/961
+seq: 961
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因弧分加一之第十九數遞加數當用五因倍分加一之三十一行除法仍起第七位今第十九數之二差加數為十六億四千三百九十一萬八千八百七十一以較定分子應減五而應減數與第二差之比例若五與九十七萬三千八百九十六正與遞加數三十一行首位一與七位一百九十四萬七千七百九十二之比例相合乃以三十一行首位與七位乘除十九數第二差為第三差得五以減二差加數得十六億四千三百九十一萬八千八百七十五與定分子合通計求三分弧加減差其起差數及遞加
+  hash: sha256:6d0ab08e9e586e04c44b51126f208aa749ea0b9bd234814f0fc0c228913a6716
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a5d2901220c9ea93af3e0ce2360b439f3b21ba4bf6b8e0b49774d69e0b0826ce

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/791
+seq: 791
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上端各作直線與橫截線取直角遂成各種勾股形其兩相應之通遇所成勾股必同用一股而勾則平大而橢小其逐分大小兩勾之比例皆同於大小半徑之半例如圓甲癸為橢圓象限甲乙為平圓象限甲心心乙皆大半徑心癸為小半徑平分甲乙為甲丙丙丁丁戊戊乙相等之四分弧作甲丙丙丁丁戊戊乙相等之四通弦於是從棺至子從丁至戊從戊至亥各作橫截線截橢圓象限為甲巳巳庚庚
+  hash: sha256:fbc85d16989080a90ac825d216d3b754ebbc774113b7d22e01211e71ae2531ad
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:c873394e2dcbcce2646a35f056f2d1936678eb7984d28ffc21779b578da336cd

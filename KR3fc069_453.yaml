@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/453
+seq: 453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其原數寄分母自乘於右九率轉以分母乘之寄母再乘於右下仰此以上所用乘法其等已齊求用率時不須通分若通弦分母逐率皆可除盡惟末率寄分母者則借三率之末率以上平分為二其上半各率分母自乘階可除盡下半各率分母皆可除盡但寄分母於右惟末率寄分母自乘於右求用率時當通分也求用率時通分法已見前弧分耦其通弦分母用二為小分者視通弦二率為小分自乘則借三率之三率必為小分三乘數三率既除為一五率仍其原數寄小分三乘於右
+  hash: sha256:df87fe4c0ce85378122c2662b340be3c283e8b15067cc270c2cc73d5168bca14
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6a04c3d5bf7e068d5e0154f90b557f91de2c49ace652fddf22df35c16bb5c0a3

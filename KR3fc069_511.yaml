@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/511
+seq: 511
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通加四除零分用根分子及加減一分母二分母三分母並通加分母自乘除與求斜行積同義求奇行積半分用倍根加減一三五等數者乃是以根分子加減半分母一半分母二半分母之數也但半分之分母可半而零分分母或可半或不可半故用倍數其以倍根分子加減一分母三分母五分母者用倍數也既用倍數則相乘後必為四備數故較半分者加一四除至半分者亦有四除乃分母二自乘數即如零分分母自乘之除也
+  hash: sha256:fe9600b6e64f0b98694603ea03b25d1486c0ea9534a7b620ac59f8d080561664
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6ebc1d71dd3b118fa68836bcd88763b7ec9203ddb4e6cc56b4cefc6752321f54

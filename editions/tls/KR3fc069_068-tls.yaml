@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/68
+seq: 68
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩儀陽一陰一第三層為四象太陽一太陰一少陽少陰共二第四層為八卦乾一坤一震坎艮一陽二陰卦三巽離兌一陰二陽卦三第五層為四畫卦純陽一純陰一一陽三陰卦四一陰三陽卦四二陽二陰卦六以下多畫卦本此可推又如萬象不外乎點線面體左線第二行一二三四等數為點數一點為點二點成線三點成面四點成體四以下為多乘體點數第三行一三六十等為線數一線為線三線成面六線成體六以下為多乘體線數第四行一四十二十等為面數一面為面四面成體四以下為多乘
+  hash: sha256:ecf2386d8265a912c47dde7fe263910b0ab9d48f5d708dd16e50a3574c970973
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:5d825bccef0c07f92067ee67b08554c05ba72981dbbabf47f17a9a9ba9bbd893

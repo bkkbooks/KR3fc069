@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/515
+seq: 515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求得各乘併積凡乘法倍根分子大加減數小則兩數同名乘得正乘法倍根分子小加減數大則兩數異名乘得負乘法若求通弦則乘法正負與併積相反視乘法正負與所乘根積同名者得積為正異名者得積為負求兩奇行併積即備矢率兩奇行閒耦行根分子為根分子即半併根分子即弧分分子自乘之分母自乘除之為併平積即三率根分子一加分母一減分母相乘即弧分分子自乘減分母自乘以乘併平積分母自乘除之三四遞除之為併三乘
+  hash: sha256:9caa14aea690f8d38cc7219c077d0b149480ca252c8a9d31938e77620c86cfc3
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:1559b5aa150e43a462dd3452b46a25c58d26d44ff6736ede4f288dca511666d2

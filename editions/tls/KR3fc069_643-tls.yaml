@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/643
+seq: 643
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以用數除法除之也若以千萬為圓徑則求至第十一數并之得三千一百四十一萬五千九百二十六即圓周論曰第一數巳乘為六倍即遞得之諸數皆然并之必得六十度通弧之六倍即圍周也得數遞次漸降今約圓徑千萬為例計共八位求至第十一數巳抵單位不煩再求若增求之位愈多數亦愈密總論曰弧與弦矢不相通通之以極細分極細分通弦即弧倍矢即弧為二率之三率但本弧與極
+  hash: sha256:aefd84a6cc3ba2814053747c8aed7558f69556a14a8a076a51c27ef2e32195a4
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6eb047e740cf1b5ee6d552d9a1f2fbf91d709a020752670d3b100be58d585a37

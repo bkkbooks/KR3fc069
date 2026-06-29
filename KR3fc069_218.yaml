@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/218
+seq: 218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反積之與率亦一異一同相閒矣求兩奇行併積即倍矢率立奇數為倍根弧分即倍自乘之四除之為併平積即三率
+  hash: sha256:2c001f881ddb20e7895141966f93de13a5073863eae4b2b383eeca948481de35
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:436830d13a9646c04c3f53779aa18eaadb67d0a637b4e7c30bb4c94a1461319b

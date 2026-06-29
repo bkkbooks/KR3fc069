@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/579
+seq: 579
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術有四除欲同之使歸一例也不知通弦度越分而加為遞加數兩根相併其弧分也屬倍數倍矢度按分而加為遞加數之根其弧分適得本數故弦之弧分為和一三五為其較矢之弧分為半和一二三為其半較和較各自乘相減得大小兩數相乘四倍用為乘法不得不增四除半和較各自乘相減適與大小兩數相乘等無所用其四除此葢象數之自然不容強之使同者強同之失其所由來矣且立術尚簡增乘增除徒多繁繞自宜逕置弧分自乘遞減一四九等為乘法遞次省去四
+  hash: sha256:ecb30d7c812af4c097279003603bd290ea2ffaab7eef5567385c13407795fddf
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:de0a56d095e902412fdcfbbb5e2c06c6b642d27da15d4aa78e7d3afe2af7083e

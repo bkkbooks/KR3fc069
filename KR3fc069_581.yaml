@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/581
+seq: 581
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除為得也有通弦求幾分通弧之一通弦此亦取奇數置弧分自乘減一為第一乘數復置自乘數九乘之減一為第二乘數復置自乘數二十五乘之減一為第三乘數依次列之乃置通弦以弧分除之為第一數次以半徑為連比例第一率弧分除通弦為第二率二率自乘一率除之得第三率二率乘之一率除之二率即第一數應言第一數乘之一率除之始與前一例得第四率第一乘數乘之四除之又二除之三除之為第二數次置第二數以三率乘之一率除之得第六率第二乘數乘之
+  hash: sha256:9dcd4e7d3cb01eeaae4da9dd4869d57a45dbe9a19869f01c34e7f2e5ba959241
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:797f8df3a82ce5bf5229448b68374c75376b1b87d0fd18c761f76ab544ac721d

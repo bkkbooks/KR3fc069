@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/809
+seq: 809
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘數何也凡弦幂為勾股幂之共今甲丁弦幂內含甲乙股幂及乙丁句幂甲丙弦幂內亦含甲乙股幂乙丙勾幂以兩弦幂相較則甲乙股幂可對消而所餘為兩弦幂之較者正兩勾幂之較故亦即二率自乘數也又如有同勾之兩勾股形有小弦求大弦則可用借小積開方捷法如後圓戊辛為大弦巳辛為小弦庚辛為同用之勾戊庚為大股巳庚為小股今有巳辛求戊辛則當以巳辛小弦為一率戊庚巳庚兩股幂之較為二率自乘數一率除之為三率理與前同特求法不同前用借大積法故第一數正而第
+  hash: sha256:d28aa6dade187edbf0731023b94333d00df0b4550ef901b35a78c6aed501e557
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6fcfcedb9239981b0fbe064fd1205ea9ad41d3409d74fb99e42073f935fb131e

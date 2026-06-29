@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/843
+seq: 843
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 癸卯與率卯壬寅與辰寅甲丑與子丑以及戍離與坎離亥巽與艮巽乾震與坤震其比例皆與大小半徑同平圓通弦所成勾股與小半徑所成勾股旣同式則橢圓通弦所成勾股與抵周線所成勾股亦莫不同式矣依前條小弦求大弦不同本率而用借率則求癸乙者可用坎心小半徑為一率大半徑自乘小半徑除之轉減小半徑為泛三率以乘一分弧戊坎之倍倍外矢小半徑除之得借三率之四倍為定三率求壬癸者可用艮心小半徑為借一率以泛三率乘三分弧戊艮之倍倍外矢小半徑除之為定三率求甲壬
+  hash: sha256:a40e1d15b716e7cde7d840c020c422344b227c5923eaafc71a0591b77aea5837
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:476afca56e82e69ae796979ff56acfdbd7afb4ff1250f604e2b0bfb26e1a7bea

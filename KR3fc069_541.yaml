@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/541
+seq: 541
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論曰此求諸率實數也每次置前一數以三率乘之一率除之是已於前率實數中易其本數為後率本數而其用數尚屬前率復依遞加數乘法乘之除法除之始易前率用數為後率用數而得後率實數術列至第四數止如須再求其三率一率乘除及四除每次盡同惟遞加數乘除法漸增而多約言之乘法中乘分母自乘者挨次以各奇數自乘除法挨次以一偶數一奇數遞除也單位視半徑為升降半徑一千萬單位居第八位半徑增多則單位愈降
+  hash: sha256:3a956dac632a4733ed6f729358a6137e4ed5ce2520f523e185e70f617828c411
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:2f77cad2c834682635cac14a57d54a1a2d4710778280ea2521bd95906ac17c95

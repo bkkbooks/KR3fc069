@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/439
+seq: 439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求第一二形腰分母奇求得之率無寄分分母偶求得之率有寄分何則母奇者兩子相減亦必奇分子亦逐分遞加與整分界角形相應故乘除法皆用整分率無寄分即求得之率亦無寄分母偶而折半或奇兩子相減折半則必偶母偶而折半或偶兩子相減折半則必奇常一奇一偶分子亦逐分遞加與半分界角形相應故乘除法兼用半分率有寄分即求得之率亦有寄分易率法先定相當率相當率者借弧通弦為二率其正負若干率適與本弧二率通弦相當也既有當本
+  hash: sha256:cc33b32d5f99db7bb74310c6cf5ffbadce0e7521874ceacfaa04ed04708b3bfe
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:4c66e34228a9ca9cebddd17949e45148d7d605e615def1e5cd4e078e2273c4a6

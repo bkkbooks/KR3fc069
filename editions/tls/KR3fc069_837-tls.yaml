@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/837
+seq: 837
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 己與酉率亥庚與亥壬乾乙與乾癸其比例皆同大小半徑坤子與坤午坎丑與坎辰離寅與離卯其比例亦同大小半徑其甲酉巳等平圓通弦所成勾股形旣與心坤子等大半徑所成勾股形同式則甲酉辛等橢圓通弦所成勾股形亦必與心坤午等抵周線所成勾股形同式矣前條大弦求小弦不用不率者可用借率是有甲巳平通弦求甲率橢通弦者可用心子大半徑為借一率以小半徑自乘大半徑除之轉減大半徑名泛三率以乘一分狐乙子之倍倍外矢大半徑除之得借三率之四倍為定三率有巳康求
+  hash: sha256:ec97c1504057dcf20b0a502fd5e6acf9f705ffe15d002421744f5895fb83e5b7
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:20413d3907d225561ca007f5d54287f90bf4277ef55ed21d77f2ce4eb40be467

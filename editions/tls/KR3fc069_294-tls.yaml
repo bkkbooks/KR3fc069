@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/294
+seq: 294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二十四正以加五行平積二十正得四十四正為第七行平積視立積較平積寄分增兩乘因以分母自乘九乘第三行平積得四十五正以加次行立積五負異名以減為加得四十減數大易為正為第四行立積九乘第五行平積得一百八十正以加四行立積四十正得二百二十正為第六行立積九乘第七行平積得三百九十六正以加六行立積二百二十正得六百十六正為第八亍立積又逆減以九乘首行平積得九負以減次行立積五負得四減數大易為正為負行立積依是逐層齊分順加逆減如正負
+  hash: sha256:d12948d4c22538139ae32438922f02c1de83cb11abcd02172b76a951765248e2
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:83e35ba1b2cec3a80d1ffd67e88eb65ac9e0b2cc5e2c282bf83f42889250a04f

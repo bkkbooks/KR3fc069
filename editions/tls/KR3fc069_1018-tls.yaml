@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1018
+seq: 1018
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先生有知其亦可無憾也巳光緒十四年六月十一日金匱華蘅芳跋於泥上之格致書院
+  hash: sha256:f6da6dc7f50509596b124667ac280f9985ebb1ce520739f3c2c97d2442e22868
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:af2c09e5b6b65ecb45efeab662f960a62e3a44fb58d96e2c974bdbe6f959ab45

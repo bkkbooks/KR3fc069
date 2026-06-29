@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/686
+seq: 686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是術與前第一術同法惟前術第二數下階負是術第二數下奇數負偶數正補第二術以本乘方積檢開方表其積較本積稍大者用為借積其根為借根借積內減本積餘為減積以本積除減積得數為遞次乘法又以本乘方乘數加一為廉率廼置借根為第一數正次置第一數乘法乘之廉率除之為第二數負次置第二數乘法乘之廉率加一乘之二因廉率除之為第三數正次置第三數乘法乘之二因廉率加一乘之三因廉率除之為第四
+  hash: sha256:af13f2212b0db32c245dd8809d0f726fcaeac70143a108b73c882cbec5f97f80
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a15cc27bd81085bfd3c7dd120d20e692be648942b260e7d6ba7461cc7dbad6bc

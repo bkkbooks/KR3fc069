@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/1014
+seq: 1014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右象數一原七卷為項梅侶先生未竟之稿戴鄂士先生補成之其原委詳見原書序跋中烏程徐莊愍公曾囑張君南坪刻之蘇州未及印行忽遇庚申之亂莊愍殉難南坪入湖州省母亦被賊害不特刊成書板已付劫灰卽底本亦不知流落誰何之手後為南匯張嘯山先生所得藏諸篋中幾二十年先生晚年為黃潄蘭學使延主南菁講席憋弟若谿侍函丈先生語之曰吾有項氏遺書一種將以贈汝兄無何先生辭講席歸老於松江之錢圓以是書寄余其手札云此象數一原係前得
+  hash: sha256:aae1bb173daf280192d3ce98294a31409541b62de10857b332bd9d4234d2fc22
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a94ab033622cbc142212f5ac03b9ffe6b976ede57295cfc21de46c02d6428eb5

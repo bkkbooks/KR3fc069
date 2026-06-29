@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/517
+seq: 517
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積即五率根分子一加倍分母一減倍分母相乘即弧分分子自乘減分母自乘之四倍以乘併三乘積分母自乘除之五六遞除之為併五乘積即七率根分子一加三分母一減三分母相乘即弧分分子自乘減分母自乘之九倍以乘併五乘積分母自乘除之七八遞除之為併七乘積即九率如是遞求得各併積凡乘法正負及各積正負與併耦行同若求倍矢則乘法負亦與併積相反求耦行併積與求奇行直下積同求奇行併積與求耦行直下積同惟二三四等遞加數之除法則遞差一位故所得積亦遞差一乘半分如
+  hash: sha256:06d0ccb99061d8d3dbf0e64aab573ce1653757f94e5ff2389ce502a2bd383bd6
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:e0f4bac8ae4b9501b167d32fcac6162dedd5f40cb9d17091c549b0510c496f94

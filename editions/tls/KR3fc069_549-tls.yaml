@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/549
+seq: 549
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分子及一分母二分母三分母等分母旣以二三四五遞加自乘後亦必以四九十六二十五遞乘也置本度矢以分子自乘乘之分母自乘除之為第一數論曰本度矢正矢也為三率本數之半三率用數為分子自乘寄分母自乘以之乘除本數入用數而得三率實數之半次以半徑為連比例第一率分母自乘除矢又二乘之為第三率
+  hash: sha256:c0ebbc5582d3ade4b4bc0242eaa107d053f7de73bf7163addd1ae4e6ffc60f2c
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:8afd639f710657ae4ce9671660b2ac71af20c5d6a7c0445a5ec98e1e301e187e

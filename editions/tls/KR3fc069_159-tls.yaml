@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/159
+seq: 159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作左右量線列實於右線右列法於右線左對位書之先以法一率除實一率得數仍為一率一正書左線右一率之位次以得數一率乘法三率得二率一負分寄再乘書左線左以減右實無對易為正書右線右法一率除之得數為三率一正分寄再乘書得數三率之位次以得數一率乘數五率得三率一負分寄六乘以得數三率乘法三率得三率一負分寄五乘較前少寄一乘迺齊其分以分母二成分子一增為三率二負亦寄六乘均書左線左併以減右實無對易為正書右線右法一率除之得數為五率
+  hash: sha256:901f7dc41f12e9f196d8541b56d8811bf97298ab5f3d97f29ed1e7f31bdbbf55
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:44cf26239fdc11398cb763ae608ed3118c08600458f4f7b37ec1af93f023f8d1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/200
+seq: 200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 論以根求積法此遞加數雖起自半分而以根求積法與整分同如前所衍諸積皆遞加遞減而得而求各首積則用遞
+  hash: sha256:99e8e0c1034a11b7ff8c69d2fb4d2dd000423c3dca3894554685e7b24f416083
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:671c553cf8c88407f0f306f2de66b036539299f9f0d8faf865142d648d570442

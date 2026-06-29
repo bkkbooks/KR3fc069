@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/382
+seq: 382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 式祇遞升一率而其數亦同定率之異者以用率皆奇數異於耦率也易五分之二第二形腰率此式各用率與前第二式同數亦按求得率而乘除之定率始異又此求得率較前第一式祇去一率除皆遞升一率而其數亦同定率之異者以用率皆耦異於奇率也煦案第一式定七率及定十一率之借率其十五率乘數一為十五萬九千三百九十正一為八百二十五萬一千三百二十正均分寄再乘因可用分母約故寄分減一乘蓋寄分之等已屬不齊則可約者當約之從簡也第三式定七率及定十一率之借率其十五率乘數亦同此法既得兩種第一二形腰率可以比例加減求各形腰
+  hash: sha256:7cc2bbc848cf5c0644fc6aedda6bdf2f342053cacf5874476872d3b3ee2bd975
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:9cb8e34e4bfd27207c0a444cba496e042a724474ee295539700157e2b0fea1da

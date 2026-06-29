@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/543
+seq: 543
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一數常為正第二數下為正乘法所得者前一數正者正之負者負之為負乘法所得者前一數正者負之負者正之但有正數併正數卽所求通弦兼有負數併正數與併負數相減卽所求通弦論曰弦矢率之正負與遞加併積有同有異究其故由乘法而別故宜以乘法之正負定諸率之正負乘法正以乘正數為同名得數為正以乘負數為異名得數為負故前數正者正之負者負之乘法負以乘正數為異名得數為負以乘負數為同名得數為正故前數正者負之負者正之
+  hash: sha256:935b6eb6550680505b5da72ec14071eb197be02908e5503bf343c181ef0f7cab
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:0c7a6b941f85bf5655950ace0a34e5274a7008c1740082f2927d542681a8e1a2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 體面數推之第五行為體數下至多乘體數可以意知多乘體無其形而數則未嘗不具然此數即古之廉率也廉率分層如卦畫首層一方隅未分次層下左一為迮右一為隅其中則逐層遞加第三層為平方廉方隅相乘者二第四層為立方廉方自乘乘隅者三隅自乘乘迮者三第五層為三乘方廉方再乘乘隅者四方自乘乘隅自乘者六隅再乘乘方者四四乘以下及多乘方本此可推又此數即古之三角堆也三角堆分行如點線等右線第一行根一則各堆積皆一第二行根二則平堆積三立堆積四三乘
+  hash: sha256:3a8beb47b021d65118646c9ada4323af92e57fd4226fedaf02ebe74cd11bbb99
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:6382746e0b6ecddb28605591f429bde52f92c721a07747ba9f34108c71195bef

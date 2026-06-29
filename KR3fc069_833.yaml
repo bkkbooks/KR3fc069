@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/833
+seq: 833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甲乙象限為三分各作通弦又作橢圓相應之通弦復移橢圓辛戍與巳壬移戍戊於庚癸遂成甲酉辛巳與巳亥壬庚與庚乾癸乙三同股之兩勾股形又引巳亥線至申點庚乾線至未點亦分乙丙象限為三分從乙子半分乙丑一分半乙寅二分半各作大半徑從徑端各作餘弦橫截橢圓界從心至橫截處各作抵周線又成心坤午子與心坎辰丑與心離卯寅三同股之兩勾股形此三形與通弦所成者同式何也甲巳司界角對甲震一分弧則巳角必得半分弧度酉甲巳界角對丙巳五分弧則甲角必得二分
+  hash: sha256:5652d11d2f36916a8e5ae41801058f7fa57d9762695e67922530d830150fd64b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a8db2193a64ba5712da6e313984bcc9d0637c9eaacececb3dc4fdf99bd4f85c9

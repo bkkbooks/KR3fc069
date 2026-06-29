@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/717
+seq: 717
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奇零其比例與黃鐘倍正半律數全不相涉至仲呂愈差而少歐生者不得復為黃鐘今所得律之比例數皆自正倍半律而生故倍仲呂生黃鐘可以上生倍律下生正律正仲呂生黃鍾可以上生正律下生半律以是觀之古律僅得其似惟世子所定律始得其真也至求律之法需用開方者亦以律數既成連比例而黃鐘之倍律正律半律實總此連比例以為之樞其閒諸律視距黃鐘幾位因位數而知比例因比例而知黃鐘正與半之遞相乘其所求律遞自乘其積必等故開方可得如黃黃鐘與半黃鐘相乘正
+  hash: sha256:9c4a5d4c33eccc6abb7171ab9f5a726b0491c84b0fd255bd3edbc7966ce9cf34
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:65b1cdd19a9708b1ed5baf76b4c64301d8f561ae55fc64a4664957f61ca8d1f3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/768
+seq: 768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平圓一象限勻析弧分為幾取遞加奇分弧幾通弦如析平象限為二分則取一分四十五度三分百三十五度兩通弦析平象限為三分則取一分三十度三分九十度五分百五十度之一通弦求與平弧相應之逐分橢圓通弦法以一分平圓通弦為第一數取各奇分通弦各自乘半徑除之各減四半徑為各倍外矢寄左又以大半徑為一率小半徑自乘大半行除之轉減大半徑為泛三率與左相乘一率除之為定三率若先四除為三率以下逐數可省四除之不省者欲為倍外矢明其用也置第一數各以定三率乘之一率除之得三率四除之二除之為第二數次置
+  hash: sha256:621dcca2f64fc344bffcef5237d5adbde78c8eb7a61bfadcb6d9820b38c03a7b
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:a9b724efd857e09fb562416409112709321bf4789abd8ac6890d1210e9c93647

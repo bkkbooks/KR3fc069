@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/juan/329
+seq: 329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定率寄自乘因視求得率逐位寄分遞增四乘故借五率轉以分母自乘增乘之得借三率一正五率四負分寄三乘使與求得率遞增寄分等為借率乘法又以分母自乘除本率得三率一正分寄
+  hash: sha256:13a9c166a289000f3608626d7fbaf65f9fe596de8d97fc00b74d15b5e4b238cd
+metadata:
+  title: 象数一原
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc069.xml
+hash: sha256:628051d05aa1dd37557a0f10d5742d49ca01f20668d3afa9467afca4074d3291

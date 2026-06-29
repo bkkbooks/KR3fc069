@@ -1,0 +1,9 @@
+canonical_identifier: bkk:krp/KR3fc069/bkk/v1/markers/392
+seq: 392
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc069_tls_001-p102.s2}
+  - {type: line-break, offset: 0, content: '', id: KX_2_dup91, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  back: []
+hash: sha256:25a4a6ed473c729e57d223931927535cc6e0098dce77a6c5e879078fe8c0becd

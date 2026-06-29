@@ -1,0 +1,15 @@
+canonical_identifier: bkk:krp/KR3fc069/tls/v1/markers/339
+seq: 339
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc069_tls_001-p83.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1_dup70, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: 'tls:seg', offset: 5, content: '', id: KR3fc069_tls_001-p83.s2}
+  - {type: line-break, offset: 5, content: '', id: KX_2_dup76, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 25, content: '', id: KR3fc069_tls_001-p83.s3}
+  - {type: line-break, offset: 25, content: '', id: KX_3_dup74, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 44, content: '', id: KR3fc069_tls_001-p83.s4}
+  - {type: line-break, offset: 44, content: '', id: KX_4_dup74, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  back: []
+hash: sha256:b10907632184acb2179f0b4238c9d5fd2980410e0651c621a9e84de31b45a949
