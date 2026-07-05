@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 如圖火土為本弧析為四分界火三分界土一分依前法按分作線比例加減得各三角心甲子為第一形若自四分之三起度則界甲乙為第二形乃至心
-  hash: sha256:9e861b7cb7261269a18b15075c8256282395b342844c417aa5f4df311cdfbd8a
+  text: 如圖火土為本弧析為四分界火三分界土一分依前法按分作線比例加減得各三角心甲子為第一形若自四分之三起度則界甲乙為第二形迺至心
+  hash: sha256:e48e2189ff37dc14da9d417ce6ade53a9327da290060e542e8c2bc97f9de2cf8
 metadata:
   title: 象数一原
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc069.xml
-hash: sha256:acc065058b9c062269c4bd6e1bf6724dd90d79532d31cd01a4cd1bfd229a6438
+hash: sha256:31d2bf452e63498d7a84aba4c5fad80f43da950db606ffe9a675f4b116ba3032

@@ -26,7 +26,6 @@ markers:
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn13}
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn14}
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn15}
-  - {type: substitution, offset: 61, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc069_tls_001-p226.s16.1}
   - {type: line-break, offset: 65, content: '', id: KX_16_dup187, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg-start', offset: 69, content: '', id: KR3fc069_tls_001-p226.s16.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p226.s16.2]}
@@ -36,7 +35,6 @@ markers:
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc069_tls_001-p226.s16.3}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fc069_tls_001-p226.s17.1}
   - {type: line-break, offset: 95, content: '', id: KX_17_dup188, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 97, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg-start', offset: 111, content: '', id: KR3fc069_tls_001-p226.s17.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p226.s17.2]}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc069_tls_001-p226.s17.2}
   - {type: line-break, offset: 115, content: '', id: KR3fc069_tls_877-bkklb2}
@@ -67,4 +65,4 @@ markers:
   - {type: 'tls:seg-end', offset: 197, content: '', id: KR3fc069_tls_001-p226.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fc069_tls_001-p226.s21.2}
   back: []
-hash: sha256:1eadabf0947928d1239000a82f174b75e0975867f4a58198b21c42dbdcaca316
+hash: sha256:fb675d1a934b5568d64e7e7f14f1be30821e386bbdd5160cb0db7ec685432f5f

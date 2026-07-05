@@ -13,7 +13,6 @@ markers:
   - {type: line-break, offset: 60, content: '', id: KX_15_dup111, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc069_tls_001-p135.s16}
   - {type: line-break, offset: 65, content: '', id: KX_16_dup108, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 78, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3fc069_tls_001-p135.s17}
   - {type: line-break, offset: 84, content: '', id: KX_17_dup110, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 103, content: '', id: KR3fc069_tls_001-p135.s18}
@@ -22,9 +21,7 @@ markers:
   - {type: line-break, offset: 122, content: '', id: KX_19_dup110, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 141, content: '', id: KR3fc069_tls_001-p135.s20}
   - {type: line-break, offset: 141, content: '', id: KX_20_dup109, _xml_error: duplicate-id, _xml_original_id: KX_20}
-  - {type: substitution, offset: 157, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3216}}
-  - {type: substitution, offset: 158, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3192}}
   - {type: 'tls:seg', offset: 160, content: '', id: KR3fc069_tls_001-p135.s21}
   - {type: line-break, offset: 160, content: '', id: KX_21_dup107, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:95d588d68fba21bd5c8cff04f2e96bf3ec4b9d5664176a681de2756fb2933365
+hash: sha256:50c37da40515cb2dc2f94ed9832d30ec7efb4847b1a5a9caba43f854cc011b2c
