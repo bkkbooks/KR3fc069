@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_12_dup50, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fc069_tls_001-p60.s13}
   - {type: line-break, offset: 20, content: '', id: KX_13_dup54, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 35, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 40, content: '', id: KR3fc069_tls_001-p60.s14}
   - {type: line-break, offset: 40, content: '', id: KX_14_dup53, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 60, content: '', id: KR3fc069_tls_001-p60.s15}
@@ -17,11 +18,13 @@ markers:
   - {type: line-break, offset: 98, content: '', id: KX_17_dup50, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 118, content: '', id: KR3fc069_tls_001-p60.s18}
   - {type: line-break, offset: 118, content: '', id: KX_18_dup49, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 118, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 138, content: '', id: KR3fc069_tls_001-p60.s19}
   - {type: line-break, offset: 138, content: '', id: KX_19_dup51, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: 'tls:seg', offset: 158, content: '', id: KR3fc069_tls_001-p60.s20}
   - {type: line-break, offset: 158, content: '', id: KX_20_dup50, _xml_error: duplicate-id, _xml_original_id: KX_20}
+  - {type: substitution, offset: 165, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fc069_tls_001-p60.s21}
   - {type: line-break, offset: 178, content: '', id: KX_21_dup49, _xml_error: duplicate-id, _xml_original_id: KX_21}
   back: []
-hash: sha256:60d111e24ecc9f306a462b6bbfe82b2e486d3c2350abcb3bc2324046d6af153f
+hash: sha256:2cb7fb8f9529e9ffff7acbd38d04007a121b1d2cc699287e605c9a0816e86088

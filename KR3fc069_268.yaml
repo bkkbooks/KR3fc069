@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 率每乘則率驟增多約至十五率止下可勿計上與本率相當以次而列概曰用率迺求定率視求得一率為一以一率一正上下對列於左線左為定一率
-  hash: sha256:23ab660ba21a7f650f36d213b0229391f68dfbf871fefd865bb11c779e03f4ae
+  text: 率每乘則率驟增多約至十五率止下可勿計上與本率相當以次而列概曰用率乃求定率視求得一率為一以一率一正上下對列於左線左為定一率
+  hash: sha256:fb6aba3f8bf28ab64bd3835be84de063812000db28ca95fa212e73e6661b7d58
 metadata:
   title: 象数一原
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc069.xml
-hash: sha256:1e6b1c1495a18ebda0ce8060cf1e3f123fe3b3cd438bc4a9400b9159037ce5bf
+hash: sha256:d9546da31a6d0c39ab5c3877932dcc3ebf2d3e231fc06b13adb85a434ed9b6b0

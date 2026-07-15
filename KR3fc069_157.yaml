@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 凡以餘弦比半徑恒若半徑與正割故以半徑自乘得一率一正為實以前所得餘弦率為法除之得正割率即第一形腰率除法式
-  hash: sha256:72613cb9089dc631e4f7871f5de4a19eb0a836ea67439b8d7a1e09f7ecf4a4f7
+  text: 凡以餘弦比半徑恆若半徑與正割故以半徑自乘得一率一正為實以前所得餘弦率為法除之得正割率即第一形腰率除法式
+  hash: sha256:f69a53a05a454d340161961161390b90b6179291cb028f0bc4b1c692790b9f82
 metadata:
   title: 象数一原
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc069.xml
-hash: sha256:30c067b2a9e4e8306da2dafea52d50ac2de7755f940a87fc8417f8da9b6452a2
+hash: sha256:d4b53e9d36af25fa3406a2fdee3f921d49bd72e410d34cbe69f47abeaea1caf6

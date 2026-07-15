@@ -26,6 +26,7 @@ markers:
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn13}
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn14}
   - {type: punctuation, offset: 50, content: □, id: KR3fc069_tls_877-bkkpn15}
+  - {type: substitution, offset: 61, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fc069_tls_001-p226.s16.1}
   - {type: line-break, offset: 65, content: '', id: KX_16_dup187, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg-start', offset: 69, content: '', id: KR3fc069_tls_001-p226.s16.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p226.s16.2]}
@@ -35,6 +36,7 @@ markers:
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fc069_tls_001-p226.s16.3}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fc069_tls_001-p226.s17.1}
   - {type: line-break, offset: 95, content: '', id: KX_17_dup188, _xml_error: duplicate-id, _xml_original_id: KX_17}
+  - {type: substitution, offset: 97, original: 卽, replacement: 即, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19475}}
   - {type: 'tls:seg-start', offset: 111, content: '', id: KR3fc069_tls_001-p226.s17.2, seg_type: comm, member_ids: [KR3fc069_tls_001-p226.s17.2]}
   - {type: 'tls:seg', offset: 111, content: '', id: KR3fc069_tls_001-p226.s17.2}
   - {type: line-break, offset: 115, content: '', id: KR3fc069_tls_877-bkklb2}
@@ -65,4 +67,4 @@ markers:
   - {type: 'tls:seg-end', offset: 197, content: '', id: KR3fc069_tls_001-p226.s21.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fc069_tls_001-p226.s21.2}
   back: []
-hash: sha256:fb675d1a934b5568d64e7e7f14f1be30821e386bbdd5160cb0db7ec685432f5f
+hash: sha256:91862028ac8b8fc26cbe29fcaeffc9057d5da71a1936f18b8e5a9265dc3c5ae6

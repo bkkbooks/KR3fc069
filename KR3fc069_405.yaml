@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 此分母五所得四種遞加數與分母五所得各形腰率既莫不相等迺如法易其正負遞併兩耦行數得各通弦率遞併兩奇行數去根差得各倍矢率五分弧之四起度各通弦率
-  hash: sha256:c9072acb15a72586dbcd6b66c3d52afda5d8aa92ac323025c92c9ed540ac892b
+  text: 此分母五所得四種遞加數與分母五所得各形腰率既莫不相等乃如法易其正負遞併兩耦行數得各通弦率遞併兩奇行數去根差得各倍矢率五分弧之四起度各通弦率
+  hash: sha256:9245ac59cc25cfe73a9762559cbe1625ecdcd5a04320c44c6c3e8bbf207febcc
 metadata:
   title: 象数一原
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc069.xml
-hash: sha256:442cff37eaac9e4381f5f96e81f770c01855062a66bda740b427eaf6ef79cc76
+hash: sha256:8707cb77c2cf5a0c55862f84d1c0255bb7d8db707e9176e23c03a66a1d177214
